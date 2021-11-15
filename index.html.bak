@@ -27,6 +27,7 @@
   <!-- responsive -->
   <link rel="stylesheet" href="assets/css/responsive.css">
   <link rel="stylesheet" href="assets/css/dark.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
 </head>
 
 <body class="home7">
@@ -50,6 +51,9 @@
   <!-- Navebar Area start -->
   <header class="navigation">
     <div class="container">
+	 <video autoplay muted loop>
+    <source src="assets/video/home-video.mp4" type="video/mp4" />
+  </video>
       <div class="row">
         <div class="col-lg-12 p-0">
           <nav class="navbar navbar-expand-lg navbar-light">
@@ -108,43 +112,36 @@
   <!-- Navebar Area End -->
 
   <!-- Hero Area Start -->
-  <div id="home" class="hero-area">
-    <div class="container">
+<div id="home wrapper" class="video-container1">
+  <video autoplay="" muted="" loop="">
+    <source src="assets/video/home-video.mp4" type="video/mp4">
+  </video>
+  <div class="container">
       <div class="row">
-        <div class="col-lg-6 d-flex align-self-center">
+<div class="col-lg-6 d-flex align-self-center">
           <div class="left-content">
-            <div class="content">
+           <div class="content">
               <h1 class="title">
-                BE INDEPENDENT. DARE
+               Be independent. Dare.
               </h1>
-
-              <p class="subtitle">
-                Effects present letters inquiry no an removed or friends. Desire behind
-                latter me though in. Supposing
-                shameless am engrossed itatibus additions.
-              </p>
-              <div class="links">
-                <a href="#" class="mybtn3 mybtn-light"><span>Buy Now</span> </a>
-              </div>
             </div>
           </div>
         </div>
+       
         <div class="col-lg-6 order-first order-lg-last">
           <div class="right-img">
             <div class="discount-circle">
               <div class="discount-circle-inner">
                 <div class="price">
-                  50%
-                  <span>Off</span>
+                <p style="text-transform: lowercase;font-size: x-small;"> Powered by </p><img src="assets/images/icons/visa_icon.png">
                 </div>
               </div>
             </div>
-            <img class="img-fluid img" src="assets/images/w4.png" alt="">
-          </div>
+         </div>
         </div>
       </div>
     </div>
-  </div>
+</div>
   <!-- Hero Area End -->
 
    <!-- About Area Start -->
