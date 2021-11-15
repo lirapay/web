@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Lirapay - Your card, your digital friend!</title>
+  <title> Prolab - Product Landing Page </title>
   <!-- favicon -->
   <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
   <!-- bootstrap -->
@@ -1374,8 +1374,8 @@
       </div>
     </div>
     <div class="copy-bg text-center">
-      <p>Copyright © 2021. All rights reserved by
-        <a href="index.html">CardBlue</a>
+      <p>Copyright © 2020. All rights reserved by
+        <a href="index.html">GeniusDevs</a>
       </p>
     </div>
   </footer>
