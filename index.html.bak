@@ -769,17 +769,17 @@
                 <th></th>
                 <th class="text-center">
                     <div class="product-image">
-                        <img src="assets/images/w1.png" alt="">
+                       <img src="assets/images/logo_white-248x37.webp" alt="">
                     </div>
                     <h3 class="product-title">Adventures</h3>
-                    <p class="product-subtitle">For Man &amp; Woman</p>
+                  
                 </th>
                 <th class="text-center">
                   <div class="product-image">
-                      <img src="assets/images/w2.png" alt="">
+                      <img src="assets/images/logo_white-248x37.webp" alt="">
                   </div>
                   <h3 class="product-title">Freedom</h3>
-                  <p class="product-subtitle">For Man &amp; Woman</p>
+                
                 </th>
                
               <tr>
