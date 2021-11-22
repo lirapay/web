@@ -3,8 +3,8 @@
   width: 100%;
   overflow: hidden;
   position: relative;
-  position: relative;
-  padding: 538px 0px 291px;
+   position: relative;
+  padding: 365px 0px 291px;
 }
 
 .video-container1 video {
