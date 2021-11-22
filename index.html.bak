@@ -192,7 +192,7 @@
           <div class="box" data-aos="fade-right">
             <div class="inner-box">
                
-              <h4 class="title">Simple payments and mobile top-ups</h4>
+              <h4 class="title">Payments & top-ups</h4>
               <p class="text">
                Are you about to board the next plane, but forgot to pay an invoice? No worries, we've got this. With efficient and accessible bill-paying features, LiraPay saves the day!
               </p>
@@ -684,7 +684,7 @@
               <div class="overly"></div>
               <div class="play-icon">
                 <a href="https://www.youtube.com/watch?v=4DCTTrGjGU4" class="video-play-btn mfp-iframe">
-                  <i class="fas fa-play"></i>
+                 
                 </a>
               </div>
             </div>
