@@ -158,10 +158,9 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-right">
             <div class="inner-box">
-              <div class="icon">
-                <i class="flaticon-art"></i>
+             <div class="icon">
+                <i class="flaticon-art"></i> <h4 class="title" style="    margin-top: -61px;    margin-left: 74px;">Free global transfers</h4>
               </div>
-              <h4 class="title">Free global transfers</h4>
               <p class="text">
                Your loved ones always come first, right? No matter where you travel, money transfers with LiraPay are quick, reliable and free of charge. You name it, we do it.
               </p>
