@@ -183,7 +183,7 @@
               
               <h4 class="title">Traveling abroad?</h4>
               <p class="text">
-              Your travel insurance is safe with us. Hint: Download the app, click a few buttons and you're all set. You can thank us later!
+            No matter what your next destination is, your travel insurance is safe with us. Hint: Download the app, click a few buttons and you're all set. You can thank us later!
               </p>
             </div>
           </div>
@@ -214,7 +214,7 @@
           <div class="box" data-aos="fade-left">
             <div class="inner-box">
                
-              <h4 class="title">Mobile investment management</h4>
+              <h4 class="title">Investments management</h4>
               <p class="text">
              Is stock, metal or crypto currency investment a thing for you? Then, you're in the right place. One platform, various options, thorough security.
 
@@ -243,9 +243,7 @@
             </h2>
             <ul class="feature-list">
               <li>
-                <div class="icon">
-                    <i class="flaticon-alarm"></i>
-                </div>
+                
                 <div class="content">
                     <h4>Money management</h4>
                     <p>We love challenges, but not for our friends. It's our job to take them out of your way. With LiraPay, managing basic finances from your mobile phone becomes a kids' game. We turn obstacles into bonuses/ more chances. Our secret is called e-wallet.
@@ -253,9 +251,7 @@
                 </div>
               </li>
               <li>
-                 <div class="icon">
-                    <i class="flaticon-speech-bubble"></i>
-                 </div>
+               
                 <div class="content">
                     <h4>Safe and handy/ user-friendly</h4>
                     <p>Would you ever go on an adventure alone? We surely wouldn't! As such, we equipped your digital friend with a high-end security system conceived for relaxed online or offline payments while gaming, shopping for presents, paying bills and more.
@@ -277,9 +273,7 @@
             </h2>
             <ul class="feature-list">
               <li>
-                <div class="icon">
-                    <i class="flaticon-alarm"></i>
-                </div>
+               
                 <div class="content">
                     <h4>Global Transfers</h4>
                     <p>Your LiraPay VISA friend loves to travel. Take it around the world by sending or accepting payments to and from anywhere on Earth. No strings attached.
@@ -287,9 +281,7 @@
                 </div>
               </li>
               <li>
-                 <div class="icon">
-                    <i class="flaticon-speech-bubble"></i>
-                 </div>
+                 
                 <div class="content">
                     <h4>A call for independence</h4>
                     <p>Forget about the red tape of financial institutions! LiraPay has your back in reclaiming your financial freedom. Being neither a credit, nor a debit card, yet playing in the big league, it is a tool you can dispose of as you please.
@@ -572,9 +564,11 @@
         <div class="row justify-content-center">
           <div class="col-md-10 col-lg-8">
             <div class="section-title">
-              <h2 class="title">Our Awesome package</h2>
+              <h2 class="title">Our Awesome Product</h2>
               <p>
-                Prepared is me marianne pleasure likewise debating. Wonder an unable except better stairs do ye admire. His secure called esteem praise.
+             <b>   An app that supports your power of choice. </b>
+<br />
+At<b> LiraPay</b>, we believe that freedom is for everyone. So, we're bringing over the tangible poof: a cool card backed up by powerful partners. 
               </p>
             </div>
           </div>
@@ -670,9 +664,9 @@
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="section-title">
-            <h2 class="title">why choose us</h2>
+            <h2 class="title">What can you do with the app? </h2>
             <p>
-             Pentru ca suntem minunati si deosebiti
+            LiraPay will become your best friend. Your digital friend. Your partner in freedom.
             </p>
           </div>
         </div>
@@ -698,7 +692,7 @@
                   <div class="icon">
                     <i class="flaticon-guarantee"></i>
                   </div>
-                  <h5 class="categori">1 Year Guarantee</h5>
+                  <h5 class="categori">Generate a physical or a virtual card</h5>
                 </div>
               </div>
             </div>
@@ -708,7 +702,7 @@
                   <div class="icon">
                     <i class="flaticon-delivery-truck"></i>
                   </div>
-                  <h5 class="categori">Free Shipping</h5>
+                  <h5 class="categori">Get a gift card for someone's birthday</h5>
                 </div>
               </div>
             </div>
@@ -718,7 +712,7 @@
                   <div class="icon">
                     <i class="flaticon-return"></i>
                   </div>
-                  <h5 class="categori">Product Return</h5>
+                  <h5 class="categori">Cover your travel insurance</h5>
                 </div>
               </div>
             </div>
@@ -728,7 +722,7 @@
                   <div class="icon">
                     <i class="flaticon-support-2"></i>
                   </div>
-                  <h5 class="categori">Dedicated Support</h5>
+                  <h5 class="categori">Send money to your family and friends</h5>
                 </div>
               </div>
             </div>
@@ -741,7 +735,7 @@
 
 
   <!-- Compare Area Start -->
-  <section class="compare-section">
+   <!-- <section class="compare-section">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
@@ -837,7 +831,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>-->
   <!-- Compare Area End -->
 
 
@@ -849,7 +843,7 @@
           <div class="section-title extra">
             <h2 class="title">Our Clients Say </h2>
             <p>
-              Prepared is me marianne pleasure likewise debating. Wonder an unable except better stairs do ye admire. His secure called esteem praise.
+              Our customer’s words, not ours
             </p>
           </div>
         </div>
@@ -857,46 +851,76 @@
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-7">
           <div class="testimonial-img" data-aos="fade-up">
-            <img class="img1" src="assets/images/testimonialimage/1.jpg" alt="">
-            <img class="img2" src="assets/images/testimonialimage/2.jpg" alt="">
-            <img class="img3" src="assets/images/testimonialimage/1.jpg" alt="">
-            <img class="img4" src="assets/images/testimonialimage/2.jpg" alt="">
-            <img class="img5" src="assets/images/testimonialimage/1.jpg" alt="">
-            <img class="img6" src="assets/images/testimonialimage/2.jpg" alt="">
+            <img class="img1" src="assets/images/testimonial/ana rubeli.jpeg" alt="">
+            <img class="img2" src="assets/images/testimonial/emil mocian.jpg" alt="">
+            <img class="img3" src="assets/images/testimonial/ana maria diaconescu.jpeg" alt="">
+            <img class="img4" src="assets/images/testimonial/Ellie Saunders.jpg" alt="">
+            <img class="img5" src="assets/images/testimonial/ana maria diaconescu.jpeg" alt="">
+            <img class="img6" src="assets/images/testimonial/ana rubeli.jpeg" alt="">
           </div>
           <div class="testimonial-slider" data-aos="fade-up">
             <div class="item">
               <div class="client">
                 <div class="client-image">
-                  <img src="assets/images/testimonialimage/1.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/testimonial/ana rubeli.jpeg" class="img-fluid" alt="">
                 </div>
                 <p class="client-say">
-                  Do play they miss give so up. Words to up style of since world. Way own uncommonly travelling now
-                  acceptance bed compliment solicitude. We leaf to snug on no need.
+                  LIRAPAY is a perfect tool if you are always on the go and in need to handle your financial operations directly from your phone."
                 </p>
                 <h4 class="client-name">
                   <a href="#">
-                    Natha Roy
+                  Ana Rubeli
                   </a>
                 </h4>
-                <h5 class="designation">CEO of Apple</h5>
+                <h5 class="designation">Founder of #Aiciastat cultural association dealing with promoting heritage</h5>
               </div>
             </div>
             <div class="item">
               <div class="client">
                 <div class="client-image">
-                  <img src="assets/images/testimonialimage/2.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/testimonial/emil mocian.jpg" class="img-fluid" alt="">
                 </div>
                 <p class="client-say">
-                  Do play they miss give so up. Words to up style of since world. We leaf to snug on no need. Way own
-                  uncommonly travelling now acceptance bed compliment solicitude.
+                  It fulfils all the financial needs a person can have
                 </p>
                 <h4 class="client-name">
                   <a href="#">
-                    Natasha li
+                   Emil Mocian
                   </a>
                 </h4>
-                <h5 class="designation">CEO of Facebook</h5>
+                <h5 class="designation">Profesor, UJSLI BN President</h5>
+              </div>
+            </div>
+			<div class="item">
+              <div class="client">
+                <div class="client-image">
+                  <img src="assets/images/testimonial/ana maria diaconescu.jpeg" class="img-fluid" alt="">
+                </div>
+                <p class="client-say">
+                  It is nice to discover the history and the future of the financial services in the same place. <br> After almost 200 years, the Chrissoveloni Family is a living proof of the tradition, seriousness and perseverance.
+                </p>
+                <h4 class="client-name">
+                  <a href="#">
+                 Anamaria Diaconescu
+                  </a>
+                </h4>
+                <h5 class="designation">Director at 🌀Hellenic Romanian Bilateral Chamber of Commerce</h5>
+              </div>
+            </div>
+			<div class="item">
+              <div class="client">
+                <div class="client-image">
+                  <img src="assets/images/testimonial/Ellie Saunders.jpg" class="img-fluid" alt="">
+                </div>
+                <p class="client-say">
+                  Lirapay sounds really exciting especially for someone like me who finds themselves in Greece throughout the summer and UK for most of the year. Being able to use the card with euros and pounds, makes this extremely helpful as it can be used in both countries.
+                </p>
+                <h4 class="client-name">
+                  <a href="#">
+               Ellie Saunders
+                  </a>
+                </h4>
+                <h5 class="designation">Student – UAL Central Saint Martins London</h5>
               </div>
             </div>
           </div>
