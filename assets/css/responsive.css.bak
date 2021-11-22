@@ -161,7 +161,6 @@
     .video .fun-box .inner-content1{
         margin-top: 30px;
         margin-bottom: 0px;
-        margin-bottom: 30px;
     }
     .faq .faq-img {
         margin-top: 30px;
