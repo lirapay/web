@@ -158,9 +158,8 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-right">
             <div class="inner-box">
-             <div class="icon">
-                <i class="flaticon-art"></i> <h4 class="title" style="    margin-top: -61px;    margin-left: 74px;">Free global transfers</h4>
-              </div>
+              
+              <h4 class="title">Free global transfers</h4>
               <p class="text">
                Your loved ones always come first, right? No matter where you travel, money transfers with LiraPay are quick, reliable and free of charge. You name it, we do it.
               </p>
@@ -183,9 +182,7 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-left">
             <div class="inner-box">
-              <div class="icon">
-                <i class="flaticon-address"></i>
-              </div>
+              
               <h4 class="title">Traveling abroad?</h4>
               <p class="text">
               Your travel insurance is safe with us. Hint: Download the app, click a few buttons and you're all set. You can thank us later!
@@ -196,9 +193,7 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-right">
             <div class="inner-box">
-              <div class="icon">
-                <i class="flaticon-speech-bubble"></i>
-              </div>
+               
               <h4 class="title">Simple payments and mobile top-ups</h4>
               <p class="text">
                Are you about to board the next plane, but forgot to pay an invoice? No worries, we've got this. With efficient and accessible bill-paying features, LiraPay saves the day!
@@ -209,9 +204,7 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-up">
             <div class="inner-box">
-              <div class="icon">
-                <i class="flaticon-technical-support"></i>
-              </div>
+              
               <h4 class="title">Shopping with no boundaries</h4>
               <p class="text">
                Your adventure, your choice. Be it online or in a physical store, whether in your hometown or across the globe, shopping is made easy.
@@ -222,9 +215,7 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-left">
             <div class="inner-box">
-              <div class="icon">
-                <i class="flaticon-camera-1"></i>
-              </div>
+               
               <h4 class="title">Mobile investment management</h4>
               <p class="text">
              Is stock, metal or crypto currency investment a thing for you? Then, you're in the right place. One platform, various options, thorough security.
