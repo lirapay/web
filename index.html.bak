@@ -95,8 +95,8 @@
                 <li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
 									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>Most Asked Questions</a>
-					  <a class="dropdown-item" href="index.html#faq"><i class="fas fa-chevron-right"></i>Asked Questions</a>
+                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>More Faq</a>
+	 
                    
 									</div>
 								</li>
