@@ -71,12 +71,12 @@
 .video-container1 .right-img .discount-circle .discount-circle-inner .price {
   position: absolute;
   top: 51%;
-  left: 50%;
+  left: 48%;
   transform: translate(-50%, -50%);
-  font-size: 28px;
+  /* font-size: 28px; */
   font-weight: 600;
   color: #fff;
-  line-height: 30px;
+  /* line-height: 30px; */
   text-align: center;
 }
 .video-container1 .right-img .discount-circle .discount-circle-inner .price span {
