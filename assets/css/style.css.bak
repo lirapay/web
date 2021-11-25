@@ -364,7 +364,7 @@
   position: fixed;
   font-size: 14px;
   text-align: center;
-  background-image: linear-gradient(55deg, #1b75bc 0%, #1b75bc 100%);
+  background-image: linear-gradient(55deg, #0250c5 0%, #d43f8d 100%);
   border-radius: 50%;
   color: #fff;
   cursor: pointer;
@@ -1545,18 +1545,18 @@ select:focus {
   -webkit-text-fill-color: transparent;
 }
 .video .fun-box .inner-content2 .icon::after {
-  border: 1px dashed #0250c5;
+  border: 1px dashed #ffffff;
 }
 .video .fun-box .inner-content3 {
   /* margin-top: -30px; */
 }
 .video .fun-box .inner-content3 .icon i {
-  background-image: linear-gradient(55deg, #0250c5 0%, #d43f8d 100%);
+  background-image: linear-gradient(55deg, #dee0e3 0%, #ffffff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .video .fun-box .inner-content3 .icon::after {
-  border: 1px dashed #d43f8d;
+  border: 1px dashed #ffffff;
 }
 
 /*---------------------------
@@ -3538,7 +3538,7 @@ select:focus {
 .home7 .video .video-play-btn i,
 .home7 .video .fun-box .inner-content2 .icon i,
 .home7 .video .fun-box .inner-content3 .icon i {
-  background-image: linear-gradient(55deg, #0250c5 0%, #d43f8d 100%);
+  background-image: linear-gradient(55deg, #ffffff 0%, #ededed 100%);
 }
 .home7 .testimonial-area {
   position: relative;
@@ -3618,7 +3618,7 @@ select:focus {
   color: #fff;
 }
 .home7 .bottomtotop i {
-  background-image: linear-gradient(55deg, #1b75bc 0%, #1b75bc 100%);
+  background-image: linear-gradient(55deg, #0250c5 0%, #d43f8d 100%);
 }
 .home7 .compare-section .compare-table .price,
 .home7 .pricing .product-slider .item .single-product .content .price .new-price,

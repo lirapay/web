@@ -62,7 +62,7 @@
 .video-container1 .right-img .discount-circle {
   position: absolute;
   left: 490px;
-  top: -296px;
+  top: -437px;
   z-index: 96;
 }
 .video-container1 .right-img .discount-circle .discount-circle-inner {
@@ -71,12 +71,12 @@
 .video-container1 .right-img .discount-circle .discount-circle-inner .price {
   position: absolute;
   top: 51%;
-  left: 48%;
+  left: 50%;
   transform: translate(-50%, -50%);
-  /* font-size: 28px; */
+  font-size: 28px;
   font-weight: 600;
   color: #fff;
-  /* line-height: 30px; */
+  line-height: 30px;
   text-align: center;
 }
 .video-container1 .right-img .discount-circle .discount-circle-inner .price span {

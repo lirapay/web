@@ -130,7 +130,7 @@
             <div class="discount-circle">
               <div class="discount-circle-inner">
                 <div class="price">
-                <p style="text-transform: lowercase;font-size: x-small;"> Powered by </p><img src="assets/images/icons/visa_icon.png">
+                <p style="font-size: x-small;"> Powered by </p><img src="assets/images/icons/visa_icon.png">
                 </div>
               </div>
             </div>
@@ -158,8 +158,7 @@
         <div class="col-lg-4">
           <div class="box" data-aos="fade-right">
             <div class="inner-box">
-              
-              <h4 class="title">Free global transfers</h4>
+              <h4 class="title"><img src="assets/images/icon/home3-icon4.png" style="width: 55px;padding-right: 10px;">Free global transfers</h4>
               <p class="text">
                Your loved ones always come first, right? No matter where you travel, money transfers with LiraPay are quick, reliable and free of charge. You name it, we do it.
               </p>
@@ -170,7 +169,7 @@
           <div class="box" data-aos="fade-up">
             <div class="inner-box">
              
-              <h4 class="title">Instant universal giftcards</h4>
+              <h4 class="title"><img src="assets/images/icon/home3-icon3.png" style="width: 55px;padding-right: 10px;">Instant giftcards</h4>
               <p class="text">
                Birthdays or special events coming up? Any gamers around? Your LiraPay friend knows how to keep a secret. Personalise, gift and enjoy the outcome.
               </p>
@@ -181,7 +180,7 @@
           <div class="box" data-aos="fade-left">
             <div class="inner-box">
               
-              <h4 class="title">Traveling abroad?</h4>
+              <h4 class="title"><img src="assets/images/icon/home3-icon5.png" style="width: 55px;padding-right: 10px;">Traveling abroad?</h4>
               <p class="text">
             No matter what your next destination is, your travel insurance is safe with us. Hint: Download the app, click a few buttons and you're all set. You can thank us later!
               </p>
@@ -192,7 +191,7 @@
           <div class="box" data-aos="fade-right">
             <div class="inner-box">
                
-              <h4 class="title">Payments & top-ups</h4>
+              <h4 class="title"><img src="assets/images/icon/home3-icon1.png" style="width: 55px;padding-right: 10px;">Payments & top-ups</h4>
               <p class="text">
                Are you about to board the next plane, but forgot to pay an invoice? We've got you! With efficient and accessible bill-paying features, LiraPay saves the day!
               </p>
@@ -203,7 +202,7 @@
           <div class="box" data-aos="fade-up">
             <div class="inner-box">
               
-              <h4 class="title">Limitless shopping</h4>
+              <h4 class="title"><img src="assets/images/icon/home3-icon2.png" style="width: 55px;padding-right: 10px;">Limitless shopping</h4>
               <p class="text">
                Your adventure, your choice. Be it online or in a physical store, whether in your hometown or across the globe, shopping is made easy.
               </p>
@@ -214,7 +213,7 @@
           <div class="box" data-aos="fade-left">
             <div class="inner-box">
                
-              <h4 class="title">Investments management</h4>
+              <h4 class="title"><img src="assets/images/icon/home3-icon6.png" style="width: 35px;padding-right: 7px; margin-left: -20px;">Investments management</h4>
               <p class="text">
              Is stock, metal or crypto currency investment a thing for you? Then, you're in the right place. One platform, various options, thorough security.
 
@@ -310,9 +309,13 @@
           <div class="section-title">
             <h2 class="title">Attractive Features</h2>
             <p>
-             <b>First jump:</b> learning how to get all the benefits of a prepaid VISA card, with just a few clicks.<br/>
-			 <b>Second jump: </b>collect the recognition, security and versatility of an instrument championed by one of the worldwide first-hand organizations.<br/>
-			 <b>Third jump: </b>take a pick - a virtual or a physical card.
+             	 
+			<b> First jump:</b> learning how to get all the benefits of a prepaid VISA card, with just a few clicks. No more red tapes, no more wasted time. Just freedom. For all users.
+		<b>	Second jump:</b> collect the recognition, security and versatility of an instrument championed by one of the worldwide first-hand organizations.
+			<b>Third jump:</b> take a pick - a virtual or a physical card. Both the virtual cards and the physical ones are easy to get (using your mobile phone) and use.
+			 
+			 
+			 
             </p>
           </div>
         </div>
@@ -564,11 +567,11 @@
         <div class="row justify-content-center">
           <div class="col-md-10 col-lg-8">
             <div class="section-title">
-              <h2 class="title">Our Awesome Product</h2>
+              <h2 class="title">We're special. And we know it.</h2>
               <p>
-             <b>   An app that supports your power of choice. </b>
-<br />
-At<b> LiraPay</b>, we believe that freedom is for everyone. So, we're bringing over the tangible poof: a cool card backed up by powerful partners. 
+             <b>   LiraPay is an app that supports your power of choice. We believe that freedom is for everyone. So, we're bringing over the tangible proof: a cool card backed up by powerful partners. </b>
+
+
               </p>
             </div>
           </div>
@@ -925,16 +928,16 @@ At<b> LiraPay</b>, we believe that freedom is for everyone. So, we're bringing o
     </div>
   </section>
   <!-- Testimonial Area End -->
-
+ 
   <!-- Subscribe Area Start -->
   <div class="subscribe-section">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="section-title extra">
-            <h2 class="title">Subscribe to get updates</h2>
+            <h2 class="title">Explorers love updates</h2>
             <p>
-              Prepared is me marianne pleasure likewise debating. Wonder an unable except better stairs do ye admire. His secure called esteem praise.
+              Are you a true explorer who loves to learn new tips and tricks? Then, sign up and join our community. We'll keep spam away. It's a promise!
             </p>
           </div>
         </div>
@@ -1076,7 +1079,7 @@ At<b> LiraPay</b>, we believe that freedom is for everyone. So, we're bringing o
           <div class="section-title">
             <h2 class="title">Contact Us</h2>
             <p>
-              Prepared is me marianne pleasure likewise debating. Wonder an unable except better stairs do ye admire. His secure called esteem praise.
+           We're approachable! Feel free to use the contact details below if you have any questions.
             </p>
           </div>
         </div>
@@ -1172,8 +1175,7 @@ At<b> LiraPay</b>, we believe that freedom is for everyone. So, we're bringing o
               </a>
             </div>
             <div class="text">
-              <p>Conveying or northward offending admitting perfectly my. Colonel gravity get thought fat smiling add
-                but. 
+              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
               </p>
             </div>
           </div>
