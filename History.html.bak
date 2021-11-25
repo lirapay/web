@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Lirapay - Your card, your digital friend!</title>
+  <!-- favicon -->
+  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!-- fontawesome -->
+  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+  <!-- Flat Icon -->
+  <link rel="stylesheet" href="assets/css/flaticon.css">
+  <!-- animate -->
+  <link rel="stylesheet" href="assets/css/animate.css">
+  <!-- Owl Carousel -->
+  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+  <!-- magnific popup -->
+  <link rel="stylesheet" href="assets/css/magnific-popup.css">
+  <!-- AOS css -->
+  <link rel="stylesheet" href="assets/css/aos.css">
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <!-- responsive -->
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <link rel="stylesheet" href="assets/css/dark.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
+</head>
+
+<body class="home7">
+
+  <!-- preloader area start -->
+  <div class="preloader" id="preloader">
+    <div class="preloader-inner">
+      <div class="cube-wrapper">
+        <div class="cube-folding">
+          <span class="leaf1"></span>
+          <span class="leaf2"></span>
+          <span class="leaf3"></span>
+          <span class="leaf4"></span>
+        </div>
+        <span class="loading" data-name="Loading">Lirapay</span>
+      </div>
+    </div>
+  </div>
+  <!-- preloader area end -->
+
+  <!-- Navebar Area start -->
+  <header class="navigation">
+    <div class="container">
+	      <div class="row">
+        <div class="col-lg-12 p-0">
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="index.html">
+              <img src="assets/images/logo_white-248x37.webp" alt="">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
+              aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainmenu">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html#home">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html#about">About</a>
+                </li>
+				 <li class="nav-item">
+                  <a class="nav-link" href="history.html">History</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html#feature">Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html#pricing">Products</a>
+                </li>
+                <!--<li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									Download app
+									</a>
+									<div class="dropdown-menu">
+                    <a class="dropdown-item" href="#"><i class="fas fa-chevron-right"></i>Google Store</a>
+                    <a class="dropdown-item" href="#"><i class="fas fa-chevron-right"></i>Apple Store</a>
+                    
+                    <a class="dropdown-item" href="404.html"><i class="fas fa-chevron-right"></i>404</a>
+									</div>
+								</li>-->
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html#testimonial-area">Testimonial</a>
+                </li>
+            	  <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
+									<div class="dropdown-menu">
+                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>More Faq</a>
+	 
+                   
+									</div>
+								</li>
+			<li class="nav-item">
+                  <a class="nav-link" href="index.html#contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- Navebar Area End -->
+
+</div>
+  <!-- Hero Area End -->
+
+   <!-- About Area Start -->
+  <section class="about" id="about">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="section-title extra">
+            <h2 class="title">Our history</h2>
+            <p>
+            <b>LIRAPAY </b> is an adventure! Walk with us and let our cutting-edge mobile platform be your guide.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-10 col-lg-8">
+          <div class="box" data-aos="fade-right">
+            <div class="inner-box">
+           
+              <p class="text">
+              Our history has began in 1848 in Galatzi, a Romanian port on the Danube, where Zanni. M. Chrissoveloni, set up its first operating office under the name of ‘’Chrissoveloni Fils, maison d’exportation et de banque”.<br/>
+			  In 1889 the business changes its name again to "N. Chrissoveloni, banker", and most importantly also changes its strategy by starting to invest and hence contribute significantly to the industrial development (not to call it revolution) of Romania.<br/>
+			  In 1920 Jean N. Chrissoveloni as President and Founder of Banca Chrissoveloni S.A.R. starts an association with another Romanian Bank – Banca de Credit Roman; Jean N. Chrissoveloni also acquired a bank in Cluj - Banca Ardeleana și Casa de Economii and develops a multinational bank network with offices in Constantinople, Vienna, Paris and New York.<br/>
+
+				In 1928 the capital was increased to 350 million Lei by a group of foreign banks: Banque de Bruxelles, Comptoire d’Escompte de Geneve, Hambros Bank Ltd. London, W.A. Harriman and Co. New York, Banque Transatlantique Paris, Nieder Osterreichische Escompte-Gesselschalt Vienna.<br/>
+				In 1948 the Bank was confiscated and liquidated by the new Government.<br/>
+
+In 1999 John Chrissoveloni is founding PayNet srl in Bucharest, together with a Greek Investment Fund. It was the first Third Party Processor in Romania, authorized by VISA and MasterCard for personalizing cards, issuing and acquiring card transactions.<br/>
+
+PayNet was a pioneer for cards industry in Romania, being one of the promoters of new products and technologies in the market (e.g. First installment card, first affinity card issued in partnership with a Trade Union).
+<br/>
+For almost a decade, PayNet served as processor for 25 small and medium Banks from Romania, Serbia, Montenegro and Cyprus and in 2011 was integrated into one of the biggest worldwide processors.
+<br/>
+In 2018, based on our experience in cards industry, we launch LIRAPAY, a mobile payment facility based on a prepaid VISA card. The company was incorporated in Malta by Mr. John Chrissoveloni and is offering digital financial services to entire EEA area.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="box" data-aos="fade-up">
+            <div class="inner-box">
+             
+              
+              <p class="text">
+           
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="box" data-aos="fade-left">
+            <div class="inner-box">
+              
+              
+              <p class="text">
+           
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-10 col-lg-8">
+          <div class="box" data-aos="fade-right">
+            <div class="inner-box">
+               
+         
+              <p class="text">
+              
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-10 col-lg-8">
+          <div class="box" data-aos="fade-up">
+            <div class="inner-box">
+              
+           
+              <p class="text">
+               
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="box" data-aos="fade-left">
+            <div class="inner-box">
+               
+            
+              <p class="text">
+          
+
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- About Area End -->
+
+ <!-- We are best Area Start -->
+  <section class="whaybest" >
+    <div class="container">
+      <div class="row row-one">
+        <div class="col-lg-6 d-flex">
+          <div class="about-img">
+            <img src="assets/images/w3.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="info" data-aos="fade-left">
+            <h2 class="info-title">
+             Your Digital Friend!
+            </h2>
+            <ul class="feature-list">
+              <li>
+                
+                <div class="content">
+                    <h4>Money management</h4>
+                    <p>We love challenges, but not for our friends. It's our job to take them out of your way. With LiraPay, managing basic finances from your mobile phone becomes a kids' game. We turn obstacles into bonuses/ more chances. Our secret is called e-wallet.
+                    </p>
+                </div>
+              </li>
+              <li>
+               
+                <div class="content">
+                    <h4>Safe & user-friendly</h4>
+                    <p>Would you ever go on an adventure alone? We surely wouldn't! As such, we equipped your digital friend with a high-end security system conceived for relaxed online or offline payments while gaming, shopping for presents, paying bills and more.
+                    </p>
+                </div>
+              </li>
+                          </ul>
+          </div>
+        </div>
+
+      </div>
+      
+      <div class="row ">
+        <div class="col-lg-6">
+          <div class="info" data-aos="fade-right">
+            <div class="round-shape"></div>
+            <h2 class="info-title">
+             LIRAPAY is an adventure!
+            </h2>
+            <ul class="feature-list">
+              <li>
+               
+                <div class="content">
+                    <h4>Global Transfers</h4>
+                    <p>Your LiraPay VISA friend loves to travel. Take it around the world by sending or accepting payments to and from anywhere on Earth. No strings attached.
+                    </p>
+                </div>
+              </li>
+              <li>
+                 
+                <div class="content">
+                    <h4>A call for freedom</h4>
+                    <p>LiraPay has your back in reclaiming your financial independence. Being neither a credit, nor a debit card, yet playing big, it is a tool you can dispose of as you please.
+                    </p>
+                </div>
+              </li>
+           
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-6 d-flex order-first order-lg-last">
+          <div class="about-img">
+            <img src="assets/images/w1.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--We are best Area Start -->
+
+      
+ 
+  <!-- Subscribe Area Start -->
+  <div class="subscribe-section">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="section-title extra">
+            <h2 class="title">Explorers love updates</h2>
+            <p>
+              Are you a true explorer who loves to learn new tips and tricks? Then, sign up and join our community. We'll keep spam away. It's a promise!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-10">
+            <div class="newsletter-form-area" data-aos="fade-up">
+              <form action="#">
+                <input type="email" placeholder="Your email address...">
+                <button type="submit">
+                 <span>Subscribe</span> <i class="far fa-paper-plane"></i>
+                </button>
+              </form>
+            </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="download-buttons">
+		   <h2 class="title">Download Our App from</h2>
+         
+		 
+		    <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+               <img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> 
+              </div>
+            </div>
+          </div>
+        </div>
+     <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+               <img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> 
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+               <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+	  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Subscribe Area End -->
+
+  <!-- Partner Area Start -->
+  <section id="faq" class="faq">
+    <div class="container">
+      <div class="section-title extra">
+        <h2 class="title">Asked Questions</h2>
+        <p>
+         As explorers, we are also problem solvers. Here are some questions you may need help with.
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="panel-group accordion" id="accordion-1" data-aos="fade-right">
+            <div class="panel">
+              <div class="panel-heading">
+                <h4 data-toggle="collapse" aria-expanded="true" data-target="#one" aria-controls="one"
+                  class="panel-title">
+                  How can I order my favrourate product ?
+                </h4>
+              </div>
+              <div id="one" class="panel-collapse collapse show" aria-labelledby="one" data-parent="#accordion-1">
+                <div class="panel-body">
+                  <p>
+                      Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-heading">
+                <h4 data-toggle="collapse" aria-expanded="false" data-target="#two" aria-controls="two"
+                  class="panel-title">
+                  How can I complete the order with payment ?
+                </h4>
+              </div>
+              <div id="two" class="panel-collapse collapse" aria-labelledby="two" data-parent="#accordion-1">
+                <div class="panel-body">
+                    <p>
+                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                    </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-heading">
+                <h4 data-toggle="collapse" aria-expanded="false" data-target="#three" aria-controls="three"
+                  class="panel-title">
+                  Which payments options are available ?
+                </h4>
+              </div>
+              <div id="three" class="panel-collapse collapse" aria-labelledby="three" data-parent="#accordion-1">
+                <div class="panel-body">
+                    <p>
+                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                    </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-heading">
+                <h4 data-toggle="collapse" aria-expanded="false" data-target="#four" aria-controls="four"
+                  class="panel-title">
+                  How can I get refund for return products ?
+                </h4>
+              </div>
+              <div id="four" class="panel-collapse collapse" aria-labelledby="four" data-parent="#accordion-1">
+                <div class="panel-body">
+                    <p>
+                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                    </p>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div class="panel-heading">
+                <h4 data-toggle="collapse" aria-expanded="false" data-target="#four2" aria-controls="four2"
+                  class="panel-title">
+                  How can I be confident of the quality ?
+                </h4>
+              </div>
+              <div id="four2" class="panel-collapse collapse" aria-labelledby="four2" data-parent="#accordion-1">
+                <div class="panel-body">
+                    <p>
+                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                    </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 d-flex">
+          <div class="faq-img" data-aos="fade-left">
+            <img src="assets/images/faq.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Partner Area End -->
+
+  <!-- Contact Area Start -->
+  <section class="contact" id="contact">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="section-title">
+            <h2 class="title">Contact Us</h2>
+            <p>
+           We're approachable! Feel free to use the contact details below if you have any questions.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            <div class="left">
+              <div class="icon">
+                <i class="fas fa-phone"></i>
+              </div>
+            </div>
+            <div class="right">
+              <div class="content">
+                <p>+333 123 4565 7898</p>
+                <p>+333 153 4575 7893</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box2" data-aos="fade-up">
+            <div class="left">
+              <div class="icon">
+                <i class="fas fa-envelope"></i>
+              </div>
+            </div>
+            <div class="right">
+              <div class="content">
+                <p>demoname@name.com</p>
+                <p>anothername@name.com</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box3" data-aos="fade-left">
+            <div class="left">
+              <div class="icon">
+                <i class="fas fa-map-marked-alt"></i>
+              </div>
+            </div>
+            <div class="right">
+              <div class="content">
+                <p>140 Berkley Street, Philadelphia, Pennsylvania</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="contact-form-wrapper" data-aos="fade-right">
+            <form id="contact-form" method="POST">
+              <div class="row">
+                <div class="col-md-12">
+                  <input type="text" class="input-field borderd" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-12">
+                  <input type="email" class="input-field borderd" id="email" placeholder="Eenter Your Email" required>
+                </div>
+                <div class="col-12">
+                  <textarea class="input-field borderd textarea" rows="3" id="message"
+                    placeholder="Write your message here" required></textarea>
+                </div>
+                <div class="col-12">
+                  <button type="submit" class="mybtn3 mybtn-bg"> <span>Send Message</span></button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="google_map_wrapper" data-aos="fade-left">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.3362149737545!2d90.3866213154314!3d23.73538709526567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8c6d25f0a91%3A0xf8da21d64c3856dc!2sNew%20Work%20Aquarium%20Center!5e0!3m2!1sen!2sus!4v1593765590933!5m2!1sen!2sus"  frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Contact Area End -->
+
+
+  <!-- Footer Section Start -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <div class="footer-info-area">
+            <div class="footer-logo">
+              <a href="#" class="logo-link">
+                <img src="assets/images/logo_white-248x37.webp" alt="">
+              </a>
+            </div>
+            <div class="text">
+              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
+              </p>
+            </div>
+          </div>
+          <div class="fotter-social-links">
+            <ul>
+              <li>
+                <a href="#" class="facebook">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="twitter">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="linkedin">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="google-plus">
+                  <i class="fab fa-google-plus-g"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="dribbble">
+                  <i class="fab fa-dribbble"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copy-bg text-center">
+      <p>Copyright © 2021. All rights reserved by
+        <a href="index.html">CardBlue</a>
+      </p>
+    </div>
+  </footer>
+  <!-- Footer Section End -->
+
+  <!-- Back to Top Start -->
+  <div class="bottomtotop">
+    <i class="fa fa-chevron-right"></i>
+  </div>
+  <!-- Back to Top End -->
+
+
+  <!-- jquery -->
+  <script src="assets/js/jquery.js"></script>
+  <!-- popper -->
+  <script src="assets/js/popper.min.js"></script>
+  <!-- bootstrap -->
+  <script src="assets/js/bootstrap.min.js"></script>
+  <!-- way poin js-->
+  <script src="assets/js/waypoints.min.js"></script>
+  <!-- owl carousel -->
+  <script src="assets/js/owl.carousel.min.js"></script>
+  <!-- magnific popup -->
+  <script src="assets/js/jquery.magnific-popup.js"></script>
+  <!-- aos js-->
+  <script src="assets/js/aos.js"></script>
+  <!-- counterup js-->
+  <script src="assets/js/jquery.countdown.min.js"></script>
+  <!-- easing js-->
+  <script src="assets/js/jquery.easing.1.3.js"></script>
+  <!-- Map js -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7eALQrRUekFNQX71IBNkxUXcz-ALS-MY&amp;sensor=false"></script>
+	<script src="assets/js/gmap.js"></script>
+  <!-- main -->
+  <script src="assets/js/contact.js"></script>
+  <!-- main -->
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>
