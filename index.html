@@ -114,9 +114,54 @@
 <div class="col-lg-6 d-flex align-self-center">
           <div class="left-content">
            <div class="content">
-              <h1 class="title">
+              <!--<h1 class="title">
                Be independent. Dare.
-              </h1>
+              </h1>-->
+			  <div class="autoWritter">
+	    <h class="autoWrite-text"> Be independent. Dare.</h1>
+	</div>
+			  
+			  <style>
+.autoWritter {
+    font-family: roboto;
+    display: table;
+    margin: 50px auto;
+}
+.autoWrite-text {
+    color: white;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    letter-spacing: 2px;
+    /*-- Call text and cursor animation --*/
+    animation: write 3s steps(40, end), cursor .7s step-end infinite;
+    font-size: 40px;
+    border-right: 4px solid;
+}
+
+/*-- Write text as Animated --*/
+@keyframes write {
+	from {
+		width: 0%
+	}
+	to {
+		width: 100%
+	}
+}
+
+/*-- Animated blink cursor CSS--*/
+@keyframes cursor{
+	from, to {
+		border-color: transparent;
+	}
+	50% {
+		border-color: #662d91;
+	}
+}
+</style>
+			  
+			  
+			  
             </div>
           </div>
         </div>
