@@ -2265,7 +2265,7 @@ select:focus {
   background: #007bb5;
   border-color: #007bb5;
 }
-.footer .fotter-social-links ul li a.dribbble {
+.footer .fotter-social-links ul li a.instagram {
   background: #f7007a;
   border-color: #f7007a;
 }
@@ -4074,4 +4074,87 @@ select:focus {
 .home9 .pricing .mybtn-bg {
   top: 50%;
   transform: translateY(-50%);
+}
+
+
+.contact1 {
+  
+  position: relative;
+}
+.contact1 .info-box {
+ 
+  margin-bottom: 30px;
+  padding: 30px 30px 22px;
+  position: relative;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.08);
+}
+.contact1 .info-box .left {
+  margin-bottom: 25px;
+}
+.contact1 .info-box .left .icon {
+  font-size: 30px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 70px;
+  display: inline-block;
+  position: relative;
+}
+.contact1 .info-box .left .icon::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 1px dashed #ffffff;
+  animation: shapeani2 10s linear infinite;
+}
+.contact1 .info-box .left .icon i {
+  background-image: linear-gradient(55deg, #ffffff 0%, #ffffff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.contact1 .info-box .right {
+  text-align: left;
+}
+.contact1 .info-box .right .content p {
+  margin-bottom: 0px;
+}
+.contact1 .info-box:hover .left .icon::after {
+  border: 1px dashed #ffffff;
+}
+.contact1 .contact-form-wrapper {
+  background: #fff;
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.08);
+  padding: 40px 25px 40px;
+  transition: 0.3s ease-in;
+}
+.contact1 .contact-form-wrapper .section-title {
+  margin-bottom: 48px;
+}
+.contact1 .contact-form-wrapper #contact-form textarea {
+  margin-bottom: 9px;
+}
+.contact1 .contact-form-wrapper #contact-form .mybtn1 {
+  margin-top: 7px;
+  background: rgba(212, 63, 141, 0.2);
+  color: #000;
+  transition: 0.3s;
+}
+.contact1 .contact-form-wrapper #contact-form .mybtn1:hover {
+  color: #fff;
+}
+.contact1 .google_map_wrapper {
+  padding: 0px !important;
+}
+.contact1 .google_map_wrapper iframe {
+  width: 100% !important;
+  height: 405px !important;
+  margin: 0px;
+  padding: 0px;
 }
