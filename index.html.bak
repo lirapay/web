@@ -320,7 +320,7 @@
       <div class="row row-one">
         <div class="col-lg-6 d-flex">
           <div class="about-img">
-            <img src="assets/images/w3.png" alt="">
+            <img src="assets/images/moneymanagement.png" alt="">
           </div>
         </div>
         <div class="col-lg-6">
@@ -381,7 +381,7 @@
         </div>
         <div class="col-lg-6 d-flex order-first order-lg-last">
           <div class="about-img">
-            <img src="assets/images/w1.png" alt="">
+            <img src="assets/images/global.png" alt="">
           </div>
         </div>
       </div>
@@ -466,7 +466,7 @@
         </div>
         <div class="col-lg-4 d-flex justify-content-center">
           <div class="center-feature align-self-center">
-            <img src="assets/images/w2.png" alt="">
+            <img src="assets/images/w2.jpg" alt="">
           </div>
         </div>
         <div class="col-lg-4">
@@ -524,9 +524,9 @@
       </div>
     </div>
   </section>
-  <!-- Service Area End -->
+  <!-- Service Area End 
 
-  <!-- Deal Of the Week Start  
+  <!-- Deal Of the Week Start   
   <section class="dealofweek">
     <div class="container">
       <div class="row justify-content-center">
@@ -646,7 +646,7 @@
         </div>
       </div>
     </div>
-  </section>-->
+  </section> -->
   <!-- Deal Of the Week Start -->
 
   <!-- Pricing Area Start -->
@@ -664,16 +664,19 @@
             </div>
           </div>
         </div>
+		
+		
+
         <div class="row">
           <div class="col-lg-12">
             <div class="product-slider" data-aos="fade-up">
               <div class="item">
                 <div class="single-product">
                   <div class="img">
-                    <img src="assets/images/w1.png" alt="">
+                    <img src="assets/images/w1.png"  alt="" style="filter: blur(8px);-webkit-filter: blur(8px);" >
                     
                     <div class="links">
-                        <a href="#" class="mybtn3 mybtn-bg"><span>Open an account </span> </a>
+                        <a href="#" class="mybtn3 mybtn-bg"><span>Coming Soon</span> </a>
                       </div>
                   </div>
                   <div class="content">
@@ -723,24 +726,7 @@
                   </div>
                 </div>
               </div>
-			  	  <div class="item">
-                <div class="single-product">
-                  <div class="img">
-                    <img src="assets/images/w1.png" alt="">
-                    
-                    <div class="links">
-                        <a href="#" class="mybtn3 mybtn-bg"><span>Open an account </span> </a>
-                      </div>
-                  </div>
-                  <div class="content">
-                  
-                    
-                    <h4 class="title">
-                    Send a  Gift card
-                      </h4>
-                  </div>
-                </div>
-              </div>
+			  
         
             </div>
           </div>
@@ -822,95 +808,156 @@
 
 
   <!-- Compare Area Start -->
-   <!-- <section class="compare-section">
+    <section class="compare-section">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="section-title extra">
-            <h2 class="title">Choose your plan</h2>
-            <p>
-              Prepared is me marianne pleasure likewise debating. Wonder an unable except better stairs do ye admire. His secure called esteem praise.
-            </p>
+            <h2 class="title">All Features cards</h2>
+            
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-12">
           <table class="compare-table table table-responsive-lg table-bordered table-striped"  data-aos="fade-up">
-            <thead>
+            <thead style="text-align: center;">
               <tr>
-                <th></th>
+                <th> </th>
                 <th class="text-center">
                     <div class="product-image">
-                       <img src="assets/images/logo_white-248x37.webp" alt="">
+                       <img src="assets/images/adventures.png"   alt="">
                     </div>
-                    <h3 class="product-title">Adventures</h3>
-                  
+                  <!--  <h3 class="product-title">Adventures</h3>
+                  -->
                 </th>
                 <th class="text-center">
                   <div class="product-image">
-                      <img src="assets/images/logo_white-248x37.webp" alt="">
+                      <img src="assets/images/freedom.png" style="max-width: 25%;" alt="">
                   </div>
-                  <h3 class="product-title">Freedom</h3>
+                 <!-- <h3 class="product-title">Freedom</h3>-->
                 
                 </th>
-               
+               <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Payments & transfers</b></td>
+      </tr>
               <tr>
-                <th>Free spending abroad</th>
-                <th class="price text-center">Yes</th>
-                <th class="price text-center">Yes</th>
+                <th>Instant Lirapay to Lirapay transfers</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
                
               </tr>
+			  <tr>
+                <th>Recurring payments and direct debits</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>	 
+			  <tr>
+                <th> Mobile payment in partnership with CURVE</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  
+			  
+			  <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cards</b></td>
+      </tr>
+              <tr>
+                <th>Contactless debit card</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  <tr>
+                <th>Virtual debit card</th>
+                <th>EUR / GBP</th>
+                <th>EUR / GBP</th>
+               
+              </tr>	 
+			  <tr>
+                <th> Giftcard</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			    <tr>
+                <th> Card spending in foreign currencies</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			    <tr>
+                <th>First psyhical card delivery</th>
+                <th>15 EUR</th>
+                <th>15 EUR</th>
+               
+              </tr>
+			  
+			  
+			   <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cash</b></td>
+      </tr>
+              <tr>
+                <th> ATM withdrawals</th>
+                <th>200 EUR/Month</th>
+                <th>1200 EUR/Month</th>
+               
+              </tr>
+			  <tr>
+                <th> Cash top-ups</th>
+                <th>300 EUR/Week</th>
+                <th>500 EUR/Week</th>
+               
+              </tr>	 
+			 
+			  
+			  
+			   <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Accounts</b></td>
+      </tr>
+              <tr>
+                <th> Current account in GBP, EUR</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  <tr>
+                <th>Access your account with the Lirapay mobile app </th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>	 
+			 
+			   <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc; " class="active"><b>Support</b></td>
+      </tr>  
+              <tr>
+                <th> Multilingual customer support</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
             </thead>
-            <tbody>
-              <tr>
-                <th>Free card transactions in the UK</th>
-                <td class="text-center"> - </td>
-                <td class="text-center"> - </td>
-             
-              </tr>
-              <tr>
-                <th>Contactless card limit</th>
-                <td class="text-center"> Limited to £1,000 per month </td>
-                <td class="text-center"> Limited to £10,000 per month </td>
-               
-              </tr>
-              <tr>
-                <th>Free account</th>
-                <td class="text-center"> </td>
-                <td class="text-center"> </td>
-               
-              </tr>
-              <tr>
-                <th>Quick application</th>
-                <td class="text-center">9 x 3.01 x 0.79 in</td>
-                <td class="text-center">7 x 5.03 x 0.63 in</td>
-          
-              </tr>
-              <tr>
-                <th>Free euro account</th>
-                <td class="text-center">0.7 lb</td>
-                <td class="text-center">2.4 ounces</td>
-               
-              </tr>
-              <tr>
-                <th>Marketplace</th>
-                <td class="text-center">iOS</td>
-                <td class="text-center">iOS, Android</td>
-              
-              </tr>
-                <th>Buy cryptocurrencies</th>
-                <td class="text-center">170mAh</td>
-                <td class="text-center">180mAh</td>
-               
-              </tr>
-              <tr>
-            </tbody>
-            <tfoot>
+           
               
               <th></th>
-              <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>comanda acum</span></a></td>
-              <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Buy Now</span></a></td>
+              <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>
+              <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>
             
             </tr>
             </tfoot>
@@ -918,7 +965,7 @@
         </div>
       </div>
     </div>
-  </section>-->
+  </section> 
   <!-- Compare Area End -->
 
 
@@ -1103,13 +1150,13 @@
               <div class="panel-heading">
                 <h4 data-toggle="collapse" aria-expanded="true" data-target="#one" aria-controls="one"
                   class="panel-title">
-                  How can I order my favrourate product ?
+                  What is the LiraPay virtual card?
                 </h4>
               </div>
               <div id="one" class="panel-collapse collapse show" aria-labelledby="one" data-parent="#accordion-1">
                 <div class="panel-body">
                   <p>
-                      Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                     Your LiraPay virtual card becomes available in your account once your profile is activated, our KYC procedure is complete and you choose your currency. This card can be used as an additional safety measure, helping you avoid using the details on your physical card when completing a payment on a website with uncertain security. However, a virtual card cannot be used for ATM withdrawals or for POS payments in physical stores.
                   </p>
                 </div>
               </div>
@@ -1118,13 +1165,13 @@
               <div class="panel-heading">
                 <h4 data-toggle="collapse" aria-expanded="false" data-target="#two" aria-controls="two"
                   class="panel-title">
-                  How can I complete the order with payment ?
+                Can I receive my salary in my LiraPay account?
                 </h4>
               </div>
               <div id="two" class="panel-collapse collapse" aria-labelledby="two" data-parent="#accordion-1">
                 <div class="panel-body">
                     <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                        For the time being, this option is unavailable. However, we are working on providing this option as well and we aim at doing so as soon as possible. If you'd like to be notified when this option becomes available, we invite you to leave your email address below and we will let you know
                     </p>
                 </div>
               </div>
@@ -1133,13 +1180,13 @@
               <div class="panel-heading">
                 <h4 data-toggle="collapse" aria-expanded="false" data-target="#three" aria-controls="three"
                   class="panel-title">
-                  Which payments options are available ?
+                  Do I have to pay when placing an order for my physical LiraPay card?
                 </h4>
               </div>
               <div id="three" class="panel-collapse collapse" aria-labelledby="three" data-parent="#accordion-1">
                 <div class="panel-body">
                     <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                       When you place your card order, there is a delivery fee attached. Its value is determined based on the chosen delivery method and will be displayed in the payment summary, at checkout. There is also a 10 EUR card issuing cost.
                     </p>
                 </div>
               </div>
@@ -1148,13 +1195,13 @@
               <div class="panel-heading">
                 <h4 data-toggle="collapse" aria-expanded="false" data-target="#four" aria-controls="four"
                   class="panel-title">
-                  How can I get refund for return products ?
+               Cash withdrawal
                 </h4>
               </div>
               <div id="four" class="panel-collapse collapse" aria-labelledby="four" data-parent="#accordion-1">
                 <div class="panel-body">
                     <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                       You can withdraw cash from any ATM accepting VISA cards, in any country
                     </p>
                 </div>
               </div>
@@ -1163,13 +1210,13 @@
               <div class="panel-heading">
                 <h4 data-toggle="collapse" aria-expanded="false" data-target="#four2" aria-controls="four2"
                   class="panel-title">
-                  How can I be confident of the quality ?
+                  Will I be able to use my LiraPay account unless I order a physical card?
                 </h4>
               </div>
               <div id="four2" class="panel-collapse collapse" aria-labelledby="four2" data-parent="#accordion-1">
                 <div class="panel-body">
                     <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+                       Yes, you will be able to use your LiraPay account, receive money and make transfers to other LiraPay users and make online payments. However, **you will not be able to make purchases on POS or withdraw cash from ATM
                     </p>
                 </div>
               </div>
@@ -1224,8 +1271,8 @@
             </div>
             <div class="right">
               <div class="content">
-                <p>demoname@name.com</p>
-                <p>anothername@name.com</p>
+                <p>office@lirapay.io</p>
+                <p> </p>
               </div>
             </div>
           </div>
@@ -1239,7 +1286,7 @@
             </div>
             <div class="right">
               <div class="content">
-                <p>140 Berkley Street, Philadelphia, Pennsylvania</p>
+                <p>Abate Rigord Street, Quantum House 75, Ta’ Xbiex, XBX 1120, Malta</p>
               </div>
             </div>
           </div>
