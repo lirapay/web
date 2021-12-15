@@ -4098,7 +4098,7 @@ select:focus {
   width: 70px;
   height: 70px;
   border-radius: 50%;
-  text-align: left;
+  text-align: center;
   line-height: 70px;
   display: inline-block;
   position: relative;

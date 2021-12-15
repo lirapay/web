@@ -425,10 +425,10 @@
                 </h4>
                 
               </div>
-              <div class="icon-area">
-                  <div class="icon">
-                    <i class="flaticon-heart"></i>
-                  </div>
+              <div class="icon-area" style=" width: 14%; padding-left: 10px;" >
+                  
+                   <img src="assets/icon/giftcard.png"   alt="">
+                  
               </div>
             </div>
             <div class="feature-box feature-box2">
@@ -441,10 +441,12 @@
                 </h4>
               
               </div>
-              <div class="icon-area">
-                  <div class="icon">
-                    <i class="flaticon-alarm"></i>
-                  </div>
+           
+                <div class="icon-area" style=" width: 14%; padding-left: 10px;" >
+                  
+                   <img src="assets/icon/top up.png"   alt="">
+                  
+           
               </div>
             </div>
             <div class="feature-box feature-box3">
@@ -458,10 +460,11 @@
                 </h4>
               
               </div>
-              <div class="icon-area">
-                <div class="icon">
-                  <i class="flaticon-location"></i>
-                </div>
+              <div class="icon-area" style=" width: 14%; padding-left: 10px;" >
+                  
+                   <img src="assets/icon/globaltransfer.png"   alt="">
+                  
+           
               </div>
             </div>
           </div>
@@ -477,15 +480,16 @@
               <div class="feature-circle">
                 <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
               </div>
-              <div class="icon-area">
-                <div class="icon">
-                  <i class="flaticon-bluetooth"></i>
-                </div>
+             <div class="icon-area" style=" width: 14%; padding-right: 10px;" >
+                  
+                   <img src="assets/icon/user.png"   alt="">
+                  
+           
               </div>
               <div class="details">
-                <h4>
+                <h5>
                   <a href="#" class="title">Safe and handy/ user-friendly</a>
-                </h4>
+                </h5>
                
               </div>
             </div>
@@ -493,10 +497,11 @@
               <div class="feature-circle">
                 <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
               </div>
-              <div class="icon-area">
-                <div class="icon">
-                  <i class="flaticon-cloudy"></i>
-                </div>
+             <div class="icon-area" style=" width: 14%; padding-right: 10px;" >
+                  
+                   <img src="assets/icon/global.png"   alt="">
+                  
+           
               </div>
               <div class="details">
                 <h4>
@@ -509,10 +514,11 @@
               <div class="feature-circle">
                 <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
               </div>
-              <div class="icon-area">
-                <div class="icon">
-                  <i class="flaticon-video-call"></i>
-                </div>
+              <div class="icon-area" style=" width: 14%; padding-right: 10px;" >
+                  
+                   <img src="assets/icon/independence.png"   alt="">
+                  
+           
               </div>
               <div class="details">
                 <h4>
@@ -958,8 +964,47 @@
            
               
               <th></th>
-              <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>
-              <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>
+              <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>- 
+			   <td colspan="2" class="text-center"><a href="#"  ><span><img src="assets/icon/googleicon.png" style=" width: 20%; "   alt=""></span></a><a href="#"  ><span><img src="assets/icon/appleicon.png" style=" width: 15%; padding-right:10px "  alt=""></span></a><a href="#"  ><span><img src="assets/icon/huaweiicon.png" style=" width: 20%; "   alt=""></span></a></td>
+             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
+             <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
+			 
+			 
+			 
+			   <td colspan="5" class="text-center">	    
+			   <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+                 <a href="https://play.google.com/store/apps/details?id=com.cardblue.lirapay"><img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+     <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+                <a href="https://apps.apple.com/app/lirapay/id1597304406"><img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+                 <a href="https://appgallery.huawei.com/app/C105020605"> <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></td>
+             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
             
             </tr>
             </tfoot>
@@ -1437,7 +1482,7 @@
         	    <div class="col-lg-41 col-md-6">
           <div class="info-box box1" data-aos="fade-right">
            <div class="left" style="text-align: left;">
-              <h5>Legal</h5>
+              <h5>Help</h5>
             </div>
             <div class="right">
               <div class="content">
