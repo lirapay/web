@@ -180,7 +180,7 @@
 	   
 	   
 	   
-        <div class="col-lg-6 order-first order-lg-last">
+       <!-- <div class="col-lg-6 order-first order-lg-last">
           <div class="right-img">
             <div class="discount-circle">
               <div class="discount-circle-inner">
@@ -190,7 +190,7 @@
               </div>
             </div>
          </div>
-        </div>
+        </div>-->
 				
 		 
       </div>
@@ -821,7 +821,7 @@
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="section-title extra">
-            <h2 class="title">All Features cards</h2>
+            <h2 class="title">Fees and limits</h2>
             
           </div>
         </div>
@@ -833,17 +833,13 @@
               <tr>
                 <th> </th>
                 <th class="text-center">
-                    <div class="product-image">
-                       <img src="assets/images/adventures.png"   alt="">
-                    </div>
-                  <!--  <h3 class="product-title">Adventures</h3>
-                  -->
+                    
+                    <h3 class="product-title">Adventures</h3>
+                  
                 </th>
                 <th class="text-center">
-                  <div class="product-image">
-                      <img src="assets/images/freedom.png" style="max-width: 25%;" alt="">
-                  </div>
-                 <!-- <h3 class="product-title">Freedom</h3>-->
+                
+                 <h3 class="product-title">Freedom</h3> 
                 
                 </th>
                <tr>
