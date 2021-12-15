@@ -1374,7 +1374,7 @@ select:focus {
   flex: 1;
 }
 .feature .feature-box .details .title {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 34px;
   font-weight: 600;
   color: #242424;
