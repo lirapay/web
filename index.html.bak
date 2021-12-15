@@ -471,7 +471,7 @@
         </div>
         <div class="col-lg-4 d-flex justify-content-center">
           <div class="center-feature align-self-center">
-            <img src="assets/images/w2.jpg" alt="">
+            <img src="assets/images/w2.png" alt="">
           </div>
         </div>
         <div class="col-lg-4">
@@ -704,7 +704,7 @@
                     <img src="assets/images/w1.png" alt="">
                     
                     <div class="links">
-                        <a href="#" class="mybtn3 mybtn-bg"><span>Open an account </span> </a>
+                        <a href="#pricing" class="mybtn3 mybtn-bg"><span>Open an account </span> </a>
                       </div>
                   </div>
                   <div class="content">
