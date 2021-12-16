@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Lirapay - Your card, your digital friend!</title>
+  <!-- favicon -->
+  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
+  <!-- bootstrap -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!-- fontawesome -->
+  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+  <!-- Flat Icon -->
+  <link rel="stylesheet" href="assets/css/flaticon.css">
+  <!-- animate -->
+  <link rel="stylesheet" href="assets/css/animate.css">
+  <!-- Owl Carousel -->
+  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+  <!-- magnific popup -->
+  <link rel="stylesheet" href="assets/css/magnific-popup.css">
+  <!-- AOS css -->
+  <link rel="stylesheet" href="assets/css/aos.css">
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <!-- responsive -->
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <link rel="stylesheet" href="assets/css/dark.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  
+</head>
+
+<body class="home7">
+
+  <!-- preloader area start 
+  <div class="preloader" id="preloader">
+    <div class="preloader-inner">
+      <div class="cube-wrapper">
+        <div class="cube-folding">
+          <span class="leaf1"></span>
+          <span class="leaf2"></span>
+          <span class="leaf3"></span>
+          <span class="leaf4"></span>
+        </div>
+        <span class="loading" data-name="Loading">Lirapay</span>
+      </div>
+    </div>
+  </div>
+  <!-- preloader area end -->
+
+  <!-- Navebar Area start -->
+   <header class="navigation">
+    <div class="container">
+	      <div class="row">
+        <div class="col-lg-12 p-0">
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="index.html">
+              <img src="assets/images/logo_white-248x37.webp" alt="">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
+              aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainmenu">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html#home">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html#about">About</a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="history.html">History</a>
+                </li>
+               
+				  <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="index.html#feature"  aria-haspopup="true" aria-expanded="false">Features	</a>
+									<div class="dropdown-menu">
+                    <a class="dropdown-item" href="fees.html"><i class="fas fa-chevron-right"></i>More Features</a>
+							</div>
+								</li>
+				<li class="nav-item">
+                  <a class="nav-link" href="index.html#pricing">Products</a>
+                </li>
+                          <li class="nav-item">
+                  <a class="nav-link" href="index.html#testimonial-area">Testimonial</a>
+                </li>
+                <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="index.html#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
+									<div class="dropdown-menu">
+                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>More Faq</a>
+		 			</div>
+						</li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html#contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- Navebar Area End -->
+
+  <!-- Hero Area End -->
+
+   <!-- About Area Start -->
+ 
+   <!-- Compare Area Start -->
+    <section class="compare-section">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="section-title extra">
+            <h2 class="title">Fees and limits</h2>
+            
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <table class="compare-table table table-responsive-lg table-bordered table-striped"  data-aos="fade-up">
+            <thead style="text-align: center;">
+              <tr>
+                <th> </th>
+                <th class="text-center">
+                    
+                    <h3 class="product-title">Adventures</h3>
+                  
+                </th>
+                <th class="text-center">
+                
+                 <h3 class="product-title">Freedom</h3> 
+                
+                </th>
+               <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Payments & transfers</b></td>
+      </tr>
+              <tr>
+                <th>Instant Lirapay to Lirapay transfers</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  <tr>
+                <th>Recurring payments and direct debits</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>	 
+			  <tr>
+                <th> Mobile payment in partnership with CURVE</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  
+			  
+			  <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cards</b></td>
+      </tr>
+              <tr>
+                <th>Contactless debit card</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  <tr>
+                <th>Virtual debit card</th>
+                <th>EUR / GBP</th>
+                <th>EUR / GBP</th>
+               
+              </tr>	 
+			  <tr>
+                <th> Giftcard</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			    <tr>
+                <th> Card spending in foreign currencies</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			    <tr>
+                <th>First psyhical card delivery</th>
+                <th>15 EUR</th>
+                <th>15 EUR</th>
+               
+              </tr>
+			  
+			  
+			   <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cash</b></td>
+      </tr>
+              <tr>
+                <th> ATM withdrawals</th>
+                <th>200 EUR/Month</th>
+                <th>1200 EUR/Month</th>
+               
+              </tr>
+			  <tr>
+                <th> Cash top-ups</th>
+                <th>300 EUR/Week</th>
+                <th>500 EUR/Week</th>
+               
+              </tr>	 
+			 
+			  
+			  
+			   <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Accounts</b></td>
+      </tr>
+              <tr>
+                <th> Current account in GBP, EUR</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  <tr>
+                <th>Access your account with the Lirapay mobile app </th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>	 
+			 
+			   <tr>
+        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc; " class="active"><b>Support</b></td>
+      </tr>  
+              <tr>
+                <th> Multilingual customer support</th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
+               
+              </tr>
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+            </thead>
+           
+              
+              <th></th>
+              <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>- 
+			   <td colspan="2" class="text-center"><a href="#"  ><span><img src="assets/icon/googleicon.png" style=" width: 20%; "   alt=""></span></a><a href="#"  ><span><img src="assets/icon/appleicon.png" style=" width: 15%; padding-right:10px "  alt=""></span></a><a href="#"  ><span><img src="assets/icon/huaweiicon.png" style=" width: 20%; "   alt=""></span></a></td>
+             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
+             <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
+			 
+			 
+			 
+			   <td colspan="5" class="text-center">	    
+			   <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+                 <a href="https://play.google.com/store/apps/details?id=com.cardblue.lirapay"><img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+     <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+                <a href="https://apps.apple.com/app/lirapay/id1597304406"><img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            
+            <div class="right">
+              <div class="content">
+                 <a href="https://appgallery.huawei.com/app/C105020605"> <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></td>
+             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
+            
+            </tr>
+            </tfoot>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Contact Area Start -->
+  <section class="contact" id="contact">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="section-title">
+            <h2 class="title">Contact Us</h2>
+            <p>
+           We're approachable! Feel free to use the contact details below if you have any questions.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+            <div class="left">
+              <div class="icon">
+                <i class="fas fa-phone"></i>
+              </div>
+            </div>
+            <div class="right">
+              <div class="content">
+                <p>+333 123 4565 7898</p>
+                <p>+333 153 4575 7893</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box2" data-aos="fade-up">
+            <div class="left">
+              <div class="icon">
+                <i class="fas fa-envelope"></i>
+              </div>
+            </div>
+            <div class="right">
+              <div class="content">
+                <p>office@lirapay.io</p>
+                <p><br /> </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="info-box box3" data-aos="fade-left">
+            <div class="left">
+              <div class="icon">
+                <i class="fas fa-map-marked-alt"></i>
+              </div>
+            </div>
+            <div class="right">
+              <div class="content">
+                <p>Abate Rigord Street, Quantum House 75, Ta’ Xbiex, XBX 1120, Malta</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="contact-form-wrapper" data-aos="fade-right">
+            <form id="contact-form" method="POST">
+              <div class="row">
+                <div class="col-md-12">
+                  <input type="text" class="input-field borderd" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-12">
+                  <input type="email" class="input-field borderd" id="email" placeholder="Eenter Your Email" required>
+                </div>
+                <div class="col-12">
+                  <textarea class="input-field borderd textarea" rows="3" id="message"
+                    placeholder="Write your message here" required></textarea>
+                </div>
+                <div class="col-12">
+                  <button type="submit" class="mybtn3 mybtn-bg"> <span>Send Message</span></button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="google_map_wrapper" data-aos="fade-left">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.3362149737545!2d90.3866213154314!3d23.73538709526567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8c6d25f0a91%3A0xf8da21d64c3856dc!2sNew%20Work%20Aquarium%20Center!5e0!3m2!1sen!2sus!4v1593765590933!5m2!1sen!2sus"  frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Contact Area End -->
+
+
+  <!-- Footer Section Start -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <div class="footer-info-area">
+		<div class="footer-logo">
+              <a href="index.html" class="logo-link">
+                <img src="assets/images/logo_white-248x37.webp" alt="">
+              </a>
+            </div>
+            <div class="text">
+              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
+              </p>
+            </div>
+          </div>
+         
+        </div>
+      </div>
+    </div>
+	 <section class="contact1" id="contact1">
+     
+      <div class="row">
+        <div class="col-lg-41 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+           <div class="left" style="text-align: left;">
+              <h5>Legal</h5>
+            </div>
+            <div class="right">
+              <div class="content">
+                <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#home">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#about">About</a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="history.html">History</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#feature">Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#pricing">Products</a>
+                </li>
+				</ul>
+              </div>
+            </div>
+          </div>
+        </div>
+		    <div class="col-lg-41 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+           <div class="left" style="text-align: left;">
+              <h5>Legal</h5>
+            </div>
+            <div class="right">
+              <div class="content">
+                <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#home">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#about">About</a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="history.html">History</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#feature">Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#pricing">Products</a>
+                </li>
+				</ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      	    <div class="col-lg-41 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+             <div class="left" style="text-align: left;">
+              <h5>Legal</h5>
+            </div>
+            <div class="right">
+              <div class="content">
+                <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#home">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#about">About</a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="history.html">History</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#feature">Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#pricing">Products</a>
+                </li>
+				</ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        	    <div class="col-lg-41 col-md-6">
+          <div class="info-box box1" data-aos="fade-right">
+           <div class="left" style="text-align: left;">
+              <h5>Help</h5>
+            </div>
+            <div class="right">
+              <div class="content">
+                <ul class="navbar-nav ml-auto">
+                <li >
+                  <a class="nav-link" href="https://www.lirapay.io/cookie-policy.html">Cookie Policy</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.lirapay.io/terms-and-conditions.html">Terms & Conditions</a>
+                </li>
+				<li class="nav-item">
+                  <a class="nav-link" href="https://www.lirapay.io/privacy-policy.html">Privacy Policy</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.lirapay.io/disclaimer.html">Disclaimer</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.lirapay.io/eula.html">EULA</a>
+                </li>
+				</ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+    </div>
+	 <div class="fotter-social-links">
+            <ul>
+              <li>
+                <a href="#" class="facebook">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="twitter">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+			   <li>
+                <a href="#" class="instagram"  >
+              <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="linkedin">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+              
+              
+            </ul>
+          </div>
+  </section>
+    <div class="copy-bg text-center">
+      <p>Copyright © 2021. All rights reserved by
+        <a href="index.html">CardBlue</a>
+      </p>
+	  
+    </div>
+  </footer>
+  
+  
+  <!-- Footer Section End -->
+
+  <!-- Back to Top Start -->
+  <div class="bottomtotop">
+    <i class="fa fa-chevron-right"></i>
+  </div>
+  <!-- Back to Top End -->
+
+
+  <!-- jquery -->
+  <script src="assets/js/jquery.js"></script>
+  <!-- popper -->
+  <script src="assets/js/popper.min.js"></script>
+  <!-- bootstrap -->
+  <script src="assets/js/bootstrap.min.js"></script>
+  <!-- way poin js-->
+  <script src="assets/js/waypoints.min.js"></script>
+  <!-- owl carousel -->
+  <script src="assets/js/owl.carousel.min.js"></script>
+  <!-- magnific popup -->
+  <script src="assets/js/jquery.magnific-popup.js"></script>
+  <!-- aos js-->
+  <script src="assets/js/aos.js"></script>
+  <!-- counterup js-->
+  <script src="assets/js/jquery.countdown.min.js"></script>
+  <!-- easing js-->
+  <script src="assets/js/jquery.easing.1.3.js"></script>
+  <!-- Map js -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7eALQrRUekFNQX71IBNkxUXcz-ALS-MY&amp;sensor=false"></script>
+	<script src="assets/js/gmap.js"></script>
+  <!-- main -->
+  <script src="assets/js/contact.js"></script>
+  <!-- main -->
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>
