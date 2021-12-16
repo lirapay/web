@@ -3,3 +3,12 @@ RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /html/(.*).html\ HTTP/
 RewriteRule .* http:
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /html/(.*)\ HTTP/
 RewriteRule .* %1.html [L]...
+
+
+RewriteEngine On
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
+RewriteRule ^fees\.html$ / [R=301,L]
+RewriteRule ^(.*)/fees\.html$ /$1/ [R=301,L]
