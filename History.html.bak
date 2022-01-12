@@ -1,608 +1,268 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Lirapay - Your card, your digital friend!</title>
-  <!-- favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
-  <!-- bootstrap -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <!-- fontawesome -->
-  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-  <!-- Flat Icon -->
-  <link rel="stylesheet" href="assets/css/flaticon.css">
-  <!-- animate -->
-  <link rel="stylesheet" href="assets/css/animate.css">
-  <!-- Owl Carousel -->
-  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-  <!-- magnific popup -->
-  <link rel="stylesheet" href="assets/css/magnific-popup.css">
-  <!-- AOS css -->
-  <link rel="stylesheet" href="assets/css/aos.css">
-  <!-- stylesheet -->
-  <link rel="stylesheet" href="assets/css/style.css">
-  <!-- responsive -->
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/dark.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
-</head>
-
-<body class="home7">
-
-  <!-- preloader area start 
-  <div class="preloader" id="preloader">
-    <div class="preloader-inner">
-      <div class="cube-wrapper">
-        <div class="cube-folding">
-          <span class="leaf1"></span>
-          <span class="leaf2"></span>
-          <span class="leaf3"></span>
-          <span class="leaf4"></span>
-        </div>
-        <span class="loading" data-name="Loading">Lirapay</span>
-      </div>
-    </div>
-  </div>
-  <!-- preloader area end -->
-
-  <!-- Navebar Area start -->
-   <header class="navigation">
-    <div class="container">
-	      <div class="row">
-        <div class="col-lg-12 p-0">
-          <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="index.html">
-              <img src="assets/images/logo_white-248x37.webp" alt="">
+<html style="font-size: 16px;" lang="en-MT">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="lirapay, prepayd card">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>History</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="History.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Daniel C">
+    <link rel="icon" href="images/favicon.png">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site9",
+		"logo": "images/logo_white-248x37.webp",
+		"sameAs": [
+				"https://www.facebook.com/lirapay.io",
+				"https://www.instagram.com/lirapay.io/",
+				"https://www.facebook.com/lirapay.io",
+				"https://www.instagram.com/lirapay.io/"
+		]
+}</script>
+    <meta name="theme-color" content="#1281e8">
+    <meta property="og:title" content="History">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body"><header class="u-align-center-sm u-align-center-xs u-clearfix u-custom-color-3 u-header u-sticky u-sticky-bbb1 u-header" id="sec-9afa"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="index.html" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37" title="Home">
+          <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-align-left u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; font-weight: 700;">
+            <a class="u-button-style u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-nav-link u-text-body-alt-color" href="#">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-8a8f"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-8a8f" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
             </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
-              aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="mainmenu">
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index.html#home">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				  <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="index.html#feature"  aria-haspopup="true" aria-expanded="false">Features	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="fees.html"><i class="fas fa-chevron-right"></i>More Features</a>
-							</div>
-								</li>
-				<li class="nav-item">
-                  <a class="nav-link" href="index.html#pricing">Products</a>
-                </li>
-                          <li class="nav-item">
-                  <a class="nav-link" href="index.html#testimonial-area">Testimonial</a>
-                </li>
-                <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="index.html#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>More Faq</a>
-		 			</div>
-						</li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html#contact">Contact</a>
-                </li>
-              </ul>
-            </div>
-          </nav>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- Navebar Area End -->
-
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel_5711" data-page-id="62978618" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="History.html" style="padding: 10px 20px;">History</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel_ae37" data-page-id="62978618" style="padding: 10px 20px;">Features</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="fees.html">More Features</a>
+</li></ul>
 </div>
-  <!-- Hero Area End -->
-
-   <!-- About Area Start -->
-  <section class="about" id="about">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Our history</h2>
-            <p>
-            <b>LIRAPAY </b> is an adventure! Walk with us and let our cutting-edge mobile platform be your guide.
-            </p>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#sec-bbc1" data-page-id="62978618" style="padding: 10px 20px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel-d79e" data-page-id="62978618" style="padding: 10px 20px;">Testimonial</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel_c3bb" data-page-id="62978618" style="padding: 10px 20px;">FAQ</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="faq/index.html">More FAQ</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#sec-9f61" data-page-id="62978618" style="padding: 10px 20px;">Contact</a>
+</li></ul>
           </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-10 col-lg-8">
-          <div class="box" data-aos="fade-right">
-            <div class="inner-box">
-           
-              <p class="text">
-              Our history has began in 1848 in Galatzi, a Romanian port on the Danube, where Zanni. M. Chrissoveloni, set up its first operating office under the name of ‘’Chrissoveloni Fils, maison d’exportation et de banque”.<br/>
-			  In 1889 the business changes its name again to "N. Chrissoveloni, banker", and most importantly also changes its strategy by starting to invest and hence contribute significantly to the industrial development (not to call it revolution) of Romania.<br/>
-			  In 1920 Jean N. Chrissoveloni as President and Founder of Banca Chrissoveloni S.A.R. starts an association with another Romanian Bank – Banca de Credit Roman; Jean N. Chrissoveloni also acquired a bank in Cluj - Banca Ardeleana și Casa de Economii and develops a multinational bank network with offices in Constantinople, Vienna, Paris and New York.<br/>
-
-				In 1928 the capital was increased to 350 million Lei by a group of foreign banks: Banque de Bruxelles, Comptoire d’Escompte de Geneve, Hambros Bank Ltd. London, W.A. Harriman and Co. New York, Banque Transatlantique Paris, Nieder Osterreichische Escompte-Gesselschalt Vienna.<br/>
-				In 1948 the Bank was confiscated and liquidated by the new Government.<br/>
-
-In 1999 John Chrissoveloni is founding PayNet srl in Bucharest, together with a Greek Investment Fund. It was the first Third Party Processor in Romania, authorized by VISA and MasterCard for personalizing cards, issuing and acquiring card transactions.<br/>
-
-PayNet was a pioneer for cards industry in Romania, being one of the promoters of new products and technologies in the market (e.g. First installment card, first affinity card issued in partnership with a Trade Union).
-<br/>
-For almost a decade, PayNet served as processor for 25 small and medium Banks from Romania, Serbia, Montenegro and Cyprus and in 2011 was integrated into one of the biggest worldwide processors.
-<br/>
-In 2018, based on our experience in cards industry, we launch LIRAPAY, a mobile payment facility based on a prepaid VISA card. The company was incorporated in Malta by Mr. John Chrissoveloni and is offering digital financial services to entire EEA area.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-up">
-            <div class="inner-box">
-             
-              
-              <p class="text">
-           Relative link:<br >
-		   <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a  href="https://incont.stirileprotv.ro/smart-people/interviu-cu-mostenitorul-chrissoveloni-povestea-bancherilor-care-au-detinut-jumatate-de-bucuresti-despre.html">Interview with the inheritor of Chrissoveloni</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://ro.wikipedia.org/wiki/Banca_Chrissoveloni_din_Bucure%C8%99ti">Bank from Bucharest</a>
-                </li>
-				 
-              </ul>
-		   
-		   
-		   
-		   
-		   
-		 
-              </p>
-            </div>
-          </div>
-        </div>
-       
-       
-        
-      </div>
-    </div>
-  </section>
-  <!-- About Area End -->
-
- <!-- We are best Area Start -->
-  <section class="whaybest" >
-    <div class="container">
-      <div class="row row-one">
-        <div class="col-lg-6 d-flex">
-          <div class="about-img">
-            <img src="assets/images/w3.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="info" data-aos="fade-left">
-            <h2 class="info-title">
-             Your Digital Friend!
-            </h2>
-            <ul class="feature-list">
-              <li>
-                
-                <div class="content">
-                    <h4>Money management</h4>
-                    <p>We love challenges, but not for our friends. It's our job to take them out of your way. With LiraPay, managing basic finances from your mobile phone becomes a kids' game. We turn obstacles into bonuses/ more chances. Our secret is called e-wallet.
-                    </p>
-                </div>
-              </li>
-              <li>
-               
-                <div class="content">
-                    <h4>Safe & user-friendly</h4>
-                    <p>Would you ever go on an adventure alone? We surely wouldn't! As such, we equipped your digital friend with a high-end security system conceived for relaxed online or offline payments while gaming, shopping for presents, paying bills and more.
-                    </p>
-                </div>
-              </li>
-                          </ul>
-          </div>
-        </div>
-
-      </div>
-      
-      <div class="row ">
-        <div class="col-lg-6">
-          <div class="info" data-aos="fade-right">
-            <div class="round-shape"></div>
-            <h2 class="info-title">
-             LIRAPAY is an adventure!
-            </h2>
-            <ul class="feature-list">
-              <li>
-               
-                <div class="content">
-                    <h4>Global Transfers</h4>
-                    <p>Your LiraPay VISA friend loves to travel. Take it around the world by sending or accepting payments to and from anywhere on Earth. No strings attached.
-                    </p>
-                </div>
-              </li>
-              <li>
-                 
-                <div class="content">
-                    <h4>A call for freedom</h4>
-                    <p>LiraPay has your back in reclaiming your financial independence. Being neither a credit, nor a debit card, yet playing big, it is a tool you can dispose of as you please.
-                    </p>
-                </div>
-              </li>
-           
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-6 d-flex order-first order-lg-last">
-          <div class="about-img">
-            <img src="assets/images/w1.png" alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!--We are best Area Start -->
-
-      
- 
-  <!-- Subscribe Area Start -->
-  <div class="subscribe-section">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Explorers love updates</h2>
-            <p>
-              Are you a true explorer who loves to learn new tips and tricks? Then, sign up and join our community. We'll keep spam away. It's a promise!
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-lg-8 col-md-10">
-            <div class="newsletter-form-area" data-aos="fade-up">
-              <form action="#">
-                <input type="email" placeholder="Your email address...">
-                <button type="submit">
-                 <span>Subscribe</span> <i class="far fa-paper-plane"></i>
-                </button>
-              </form>
-            </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="download-buttons">
-		   <h2 class="title">Download Our App from</h2>
-         
-		 
-		    <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-               <img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> 
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel_5711" data-page-id="62978618" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="History.html" style="padding: 10px 20px;">History</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel_ae37" data-page-id="62978618" style="padding: 10px 20px;">Features</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="fees.html">More Features</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-bbc1" data-page-id="62978618" style="padding: 10px 20px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel-d79e" data-page-id="62978618" style="padding: 10px 20px;">Testimonial</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel_c3bb" data-page-id="62978618" style="padding: 10px 20px;">FAQ</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-6"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="faq/index.html">More FAQ</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-9f61" data-page-id="62978618" style="padding: 10px 20px;">Contact</a>
+</li></ul>
               </div>
             </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
+        </nav>
+        <div class="u-hidden-xs u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e9fc"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-e9fc"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
+            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
+          </a>
+          <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/lirapay.io/"><span class="u-icon u-social-icon u-social-instagram u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-2c6b"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-2c6b"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
+            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
+            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
+            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
+          </a>
         </div>
-     <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-               <img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> 
+      </div></header>
+    <section class="u-clearfix u-image u-section-1" id="carousel_e1c9">
+      <div class="u-clearfix u-sheet u-valign-middle-md u-sheet-1">
+        <div class="u-clearfix u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-container-style u-layout-cell u-size-25 u-layout-cell-1">
+                <div class="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-1">
+                  <p class="u-custom-font u-heading-font u-text u-text-1"><b>LIRAPAY&nbsp;</b>is an adventure! Walk with us and let our cutting-edge mobile platform be your guide.
+                  </p>
+                </div>
               </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-               <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> 
+              <div class="u-align-right u-container-style u-image u-layout-cell u-size-35 u-image-1" data-image-width="800" data-image-height="1199">
+                <div class="u-container-layout u-container-layout-2">
+                  <div class="u-align-center-sm u-align-center-xs u-container-style u-custom-color-2 u-group u-group-1">
+                    <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-3">
+                      <h2 class="u-text u-text-2"> Our History!</h2>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-	  </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Subscribe Area End -->
-
-  <!-- Partner Area Start -->
-  <section id="faq" class="faq">
-    <div class="container">
-      <div class="section-title extra">
-        <h2 class="title">Asked Questions</h2>
-        <p>
-         As explorers, we are also problem solvers. Here are some questions you may need help with.
-        </p>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="panel-group accordion" id="accordion-1" data-aos="fade-right">
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="true" data-target="#one" aria-controls="one"
-                  class="panel-title">
-                  How can I order my favrourate product ?
-                </h4>
+    </section>
+    <section class="u-align-center u-clearfix u-section-2" id="sec-550d">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="731" data-image-height="450">
+                <div class="u-container-layout u-valign-middle u-container-layout-1" src=""></div>
               </div>
-              <div id="one" class="panel-collapse collapse show" aria-labelledby="one" data-parent="#accordion-1">
-                <div class="panel-body">
-                  <p>
-                      Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
+              <div class="u-align-justify u-container-style u-layout-cell u-palette-1-base u-right-cell u-size-30 u-size-xs-60 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <p class="u-custom-font u-heading-font u-text u-text-1"> Our history has began in 1848 in Galatzi, a Romanian port on the Danube, where Zanni. M. Chrissoveloni, set up its first operating office under the name of ‘’Chrissoveloni Fils, maison d’exportation et de banque”.<br>In 1889 the business changes its name again to "N. Chrissoveloni, banker", and most importantly also changes its strategy by starting to invest and hence contribute significantly to the industrial development (not to call it revolution) of Romania.<br>In 1920 Jean N. Chrissoveloni as President and Founder of Banca Chrissoveloni S.A.R. starts an association with another Romanian Bank – Banca de Credit Roman; Jean N. Chrissoveloni also acquired a bank in Cluj - Banca Ardeleana și Casa de Economii and develops a multinational bank network with offices in Constantinople, Vienna, Paris and New York.
                   </p>
                 </div>
               </div>
             </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#two" aria-controls="two"
-                  class="panel-title">
-                  How can I complete the order with payment ?
-                </h4>
-              </div>
-              <div id="two" class="panel-collapse collapse" aria-labelledby="two" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
-                    </p>
-                </div>
-              </div>
-            </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#three" aria-controls="three"
-                  class="panel-title">
-                  Which payments options are available ?
-                </h4>
-              </div>
-              <div id="three" class="panel-collapse collapse" aria-labelledby="three" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
-                    </p>
-                </div>
-              </div>
-            </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#four" aria-controls="four"
-                  class="panel-title">
-                  How can I get refund for return products ?
-                </h4>
-              </div>
-              <div id="four" class="panel-collapse collapse" aria-labelledby="four" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
-                    </p>
-                </div>
-              </div>
-            </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#four2" aria-controls="four2"
-                  class="panel-title">
-                  How can I be confident of the quality ?
-                </h4>
-              </div>
-              <div id="four2" class="panel-collapse collapse" aria-labelledby="four2" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                        Wicket branch to answer do we. Place are decay men hours tiled. If or of ye throwing friendly required. Marianne interest in exertion as. Offering my branched confined oh dashwood. 
-                    </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 d-flex">
-          <div class="faq-img" data-aos="fade-left">
-            <img src="assets/images/faq.png" alt="">
           </div>
         </div>
       </div>
-    </div>
-  </section>
-  <!-- Partner Area End -->
-
-  <!-- Contact Area Start -->
-  <section class="contact" id="contact">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">Contact Us</h2>
-            <p>
-           We're approachable! Feel free to use the contact details below if you have any questions.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-phone"></i>
+    </section>
+    <section class="u-clearfix u-grey-5 u-section-3" id="carousel_aa66">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-justify-xs u-container-style u-layout-cell u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <p class="u-align-justify-lg u-align-justify-md u-align-justify-sm u-align-justify-xl u-custom-font u-heading-font u-text u-text-1"> In 1928 the capital was increased to 350 million Lei by a group of foreign banks: Banque de Bruxelles, Comptoire d’Escompte de Geneve, Hambros Bank Ltd. London, W.A. Harriman and Co. New York, Banque Transatlantique Paris, Nieder Osterreichische Escompte-Gesselschalt Vienna.<br>In 1948 the Bank was confiscated and liquidated by the new Government.<br>In 1999 John Chrissoveloni is founding PayNet srl in Bucharest, together with a Greek Investment Fund. It was the first Third Party Processor in Romania, authorized by VISA and MasterCard for personalizing cards, issuing and acquiring card transactions.
+                  </p>
+                </div>
               </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                <p>+333 123 4565 7898</p>
-                <p>+333 153 4575 7893</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box2" data-aos="fade-up">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-envelope"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                <p>demoname@name.com</p>
-                <p>anothername@name.com</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box3" data-aos="fade-left">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-map-marked-alt"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                <p>140 Berkley Street, Philadelphia, Pennsylvania</p>
+              <div class="u-align-justify-xs u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <img class="u-image u-image-default u-image-1" src="images/interviu-cu-mostenitorul-chrissoveloni-povestea-bancherilor-care-au-detinut-jumatate-de-bucuresti-despre_21.jpg" alt="" data-image-width="800" data-image-height="450">
+                  <p class="u-align-justify-lg u-align-justify-md u-align-justify-sm u-align-justify-xl u-custom-font u-heading-font u-text u-text-2"> PayNet was a pioneer for cards industry in Romania, being one of the promoters of new products and technologies in the market (e.g. First installment card, first affinity card issued in partnership with a Trade Union).<br>For almost a decade, PayNet served as processor for 25 small and medium Banks from Romania, Serbia, Montenegro and Cyprus and in 2011 was integrated into one of the biggest worldwide processors.<br>In 2018, based on our experience in cards industry, we launch LIRAPAY, a mobile payment facility based on a prepaid VISA card. The company was incorporated in Malta by Mr. John Chrissoveloni and is offering digital financial services to entire EEA area.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="contact-form-wrapper" data-aos="fade-right">
-            <form id="contact-form" method="POST">
-              <div class="row">
-                <div class="col-md-12">
-                  <input type="text" class="input-field borderd" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-12">
-                  <input type="email" class="input-field borderd" id="email" placeholder="Eenter Your Email" required>
-                </div>
-                <div class="col-12">
-                  <textarea class="input-field borderd textarea" rows="3" id="message"
-                    placeholder="Write your message here" required></textarea>
-                </div>
-                <div class="col-12">
-                  <button type="submit" class="mybtn3 mybtn-bg"> <span>Send Message</span></button>
+    </section>
+    
+    
+    <footer class="u-clearfix u-footer u-image u-shading u-footer" id="sec-3bf8" data-image-width="1920" data-image-height="572"><div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center-lg u-align-center-xl u-align-left-md u-align-left-sm u-container-style u-layout-cell u-left-cell u-size-13-sm u-size-13-xs u-size-20-lg u-size-20-xl u-size-60-md u-layout-cell-1">
+                <div class="u-container-layout u-valign-top-sm u-container-layout-1">
+                  <a href="index.html" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37" title="Home">
+                    <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
+                  </a>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-1"> Be independent. Dare. Choose LiraPay as your partner in freedom.</p>
                 </div>
               </div>
-            </form>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="google_map_wrapper" data-aos="fade-left">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.3362149737545!2d90.3866213154314!3d23.73538709526567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8c6d25f0a91%3A0xf8da21d64c3856dc!2sNew%20Work%20Aquarium%20Center!5e0!3m2!1sen!2sus!4v1593765590933!5m2!1sen!2sus"  frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Contact Area End -->
-
-
-  <!-- Footer Section Start -->
-  <footer class="footer" id="footer">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-6">
-          <div class="footer-info-area">
-            <div class="footer-logo">
-              <a href="#" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
+              <div class="u-align-left u-container-style u-layout-cell u-size-11-sm u-size-11-xs u-size-4-lg u-size-4-xl u-size-60-md u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-2"><!--position-->
+                  <div data-position="" class="u-position u-position-1"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"></div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-12 u-size-60-md u-layout-cell-3">
+                <div class="u-container-layout u-valign-bottom-sm u-container-layout-3"><!--position-->
+                  <div data-position="" class="u-position u-position-2"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-custom-font u-heading-font u-text u-text-2"><!--block_header_content--> Company<!--/block_header_content--></h5><!--/block_header-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-custom-font u-heading-font u-text u-text-default u-text-3">
+                    <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-btn-1" href="Home.html#carousel_5711" data-page-id="62978618">About<br>
+                      <br>
+                    </a>
+                  </p>
+                  <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2" href="History.html" data-page-id="822227435">History</a>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-12 u-size-60-md u-layout-cell-4">
+                <div class="u-container-layout u-valign-bottom-md u-valign-bottom-sm u-container-layout-4"><!--position-->
+                  <div data-position="" class="u-position u-position-3"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-custom-font u-heading-font u-text u-text-4"><!--block_header_content--> Help<!--/block_header_content--></h5><!--/block_header-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-custom-font u-heading-font u-text u-text-default u-text-5">
+                    <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-3" href="Home.html#carousel_ae37" data-page-id="62978618"> Features</a>
+                  </p>
+                  <p class="u-custom-font u-heading-font u-text u-text-default u-text-6">
+                    <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-4" href="Home.html#sec-bbc1" data-page-id="62978618">Products</a>
+                  </p>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-12 u-size-60-md u-layout-cell-5">
+                <div class="u-container-layout u-valign-bottom-sm u-valign-bottom-xs u-container-layout-5"><!--position-->
+                  <div data-position="" class="u-position u-position-4"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-custom-font u-heading-font u-text u-text-7"><!--block_header_content-->Legal<!--/block_header_content--></h5><!--/block_header-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-8">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-5" href="Cookie-Policy.html" data-page-id="62998618"> Cookie Policy&nbsp;<br>
+                    </a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-9">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-6" href="Terms-and-condition.html" data-page-id="822927435"> Terms &amp; Conditions&nbsp;</a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-10">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-7" href="Privacy-Policy.html" data-page-id="371607600"> Privacy Policy</a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-11">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-8" href="Disclaimer.html" data-page-id="16486525"> Disclaimer&nbsp;</a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-12">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-9" href="eula.html" data-page-id="433209338"> EULA&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>
+                  </p>
+                </div>
+              </div>
             </div>
-            <div class="text">
-              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
-              </p>
-            </div>
-          </div>
-          <div class="fotter-social-links">
-            <ul>
-              <li>
-                <a href="#" class="facebook">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="twitter">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="linkedin">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="google-plus">
-                  <i class="fab fa-google-plus-g"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="dribbble">
-                  <i class="fab fa-dribbble"></i>
-                </a>
-              </li>
-            </ul>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="copy-bg text-center">
-      <p>Copyright © 2021. All rights reserved by
-        <a href="index.html">CardBlue</a>
-      </p>
-    </div>
-  </footer>
-  <!-- Footer Section End -->
-
-  <!-- Back to Top Start -->
-  <div class="bottomtotop">
-    <i class="fa fa-chevron-right"></i>
-  </div>
-  <!-- Back to Top End -->
-
-
-  <!-- jquery -->
-  <script src="assets/js/jquery.js"></script>
-  <!-- popper -->
-  <script src="assets/js/popper.min.js"></script>
-  <!-- bootstrap -->
-  <script src="assets/js/bootstrap.min.js"></script>
-  <!-- way poin js-->
-  <script src="assets/js/waypoints.min.js"></script>
-  <!-- owl carousel -->
-  <script src="assets/js/owl.carousel.min.js"></script>
-  <!-- magnific popup -->
-  <script src="assets/js/jquery.magnific-popup.js"></script>
-  <!-- aos js-->
-  <script src="assets/js/aos.js"></script>
-  <!-- counterup js-->
-  <script src="assets/js/jquery.countdown.min.js"></script>
-  <!-- easing js-->
-  <script src="assets/js/jquery.easing.1.3.js"></script>
-  <!-- Map js -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7eALQrRUekFNQX71IBNkxUXcz-ALS-MY&amp;sensor=false"></script>
-	<script src="assets/js/gmap.js"></script>
-  <!-- main -->
-  <script src="assets/js/contact.js"></script>
-  <!-- main -->
-  <script src="assets/js/main.js"></script>
-</body>
-
+        <p class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-text u-text-13"> Copyright © 2021. All rights reserved by&nbsp;<a href="index.html" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-10">CardBlue</a>&nbsp;V. 1.0
+        </p>
+        <div class="u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e7e6"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-e7e6"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
+            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
+          </a>
+          <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/lirapay.io/"><span class="u-icon u-social-icon u-social-instagram u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-f343"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-f343"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
+            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
+            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
+            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
+          </a>
+        </div>
+      </div></footer>
+     
+  </body>
 </html>

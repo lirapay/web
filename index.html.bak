@@ -1,1381 +1,763 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Lirapay - Your card, your digital friend!</title>
-  <!-- favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
-  <!-- bootstrap -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <!-- fontawesome -->
-  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-  <!-- Flat Icon -->
-  <link rel="stylesheet" href="assets/css/flaticon.css">
-  <!-- animate -->
-  <link rel="stylesheet" href="assets/css/animate.css">
-  <!-- Owl Carousel -->
-  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-  <!-- magnific popup -->
-  <link rel="stylesheet" href="assets/css/magnific-popup.css">
-  <!-- AOS css -->
-  <link rel="stylesheet" href="assets/css/aos.css">
-  <!-- stylesheet -->
-  <link rel="stylesheet" href="assets/css/style.css">
-  <!-- responsive -->
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/dark.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
-<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-  
-</head>
-
-<body class="home7">
-
-  <!-- preloader area start 
-  <div class="preloader" id="preloader">
-    <div class="preloader-inner">
-      <div class="cube-wrapper">
-        <div class="cube-folding">
-          <span class="leaf1"></span>
-          <span class="leaf2"></span>
-          <span class="leaf3"></span>
-          <span class="leaf4"></span>
-        </div>
-        <span class="loading" data-name="Loading">Lirapay</span>
-      </div>
-    </div>
-  </div>
-  <!-- preloader area end -->
-
-  <!-- Navebar Area start -->
-  <header class="navigation">
-    <div class="container">
-	      <div class="row">
-        <div class="col-lg-12 p-0">
-          <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="index.html">
-              <img src="assets/images/logo_white-248x37.webp" alt="">
+<html style="font-size: 16px;" lang="en-MT"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Lirapay, card, payment, freedom">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Home</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Daniel C">
+    <meta property="og:title" content="Lirapay | Freedom For Everyone">
+    <meta property="og:description" content="An app that supports your power of choice.
+At LiraPay, we believe that freedom is for everyone. So, we're bringing over the tangible poof: a cool card backed up by powerful partners.">
+    <meta property="og:image" content="https://www.lirapay.io/images/video.jpg">
+    <meta property="og:url" content="https://www.lirapay.io/">
+    <link rel="icon" href="images/favicon.png">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site9",
+		"logo": "images/logo_white-248x37.webp",
+		"sameAs": [
+				"https://www.facebook.com/lirapay.io",
+				"https://www.instagram.com/lirapay.io/",
+				"https://www.facebook.com/lirapay.io",
+				"https://www.instagram.com/lirapay.io/"
+		]
+}</script>
+    <meta name="theme-color" content="#1281e8">
+    <meta property="og:type" content="website">
+  </head>
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-overlap u-stick-footer"><header class="u-align-center-sm u-align-center-xs u-clearfix u-custom-color-3 u-header u-sticky u-sticky-bbb1 u-header" id="sec-9afa"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="index.html" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37" title="Home">
+          <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-align-left u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; font-weight: 700;">
+            <a class="u-button-style u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-nav-link u-text-body-alt-color" href="#">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-8a8f"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-8a8f" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
             </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
-              aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="mainmenu">
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="#home">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				  <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#feature"  aria-haspopup="true" aria-expanded="false">Features	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="fees.html"><i class="fas fa-chevron-right"></i>More Features</a>
-							</div>
-								</li>
-				<li class="nav-item">
-                  <a class="nav-link" href="#pricing">Products</a>
-                </li>
-                          <li class="nav-item">
-                  <a class="nav-link" href="#testimonial-area">Testimonial</a>
-                </li>
-                <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="faq/index.html"><i class="fas fa-chevron-right"></i>More Faq</a>
-		 			</div>
-						</li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#contact">Contact</a>
-                </li>
-              </ul>
-            </div>
-          </nav>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- Navebar Area End -->
-
-  <!-- Hero Area Start -->
-<div id="home wrapper" class="video-container1">
-  <video autoplay="" muted="" loop="">
-    <source src="assets/video/home-video.mp4" type="video/mp4">
-  </video>
-  <div class="container">
-      <div class="row">
-<div class="col-lg-6 d-flex align-self-center">
-          <div class="left-content">
-           <div class="content">
-              <!--<h1 class="title">
-               Be independent. Dare.
-              </h1>-->
-			  <div class="autoWritter">
-	    <h class="autoWrite-text"> Be independent. Dare.</h1>
-	</div>
-			  
-			  <style>
-.autoWritter {
-    font-family: roboto;
-    display: table;
-    margin: 50px auto;
-}
-.autoWrite-text {
-    color: white;
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    letter-spacing: 2px;
-    /*-- Call text and cursor animation --*/
-    animation: write 3s steps(40, end), cursor .7s step-end infinite;
-    font-size: 40px;
-    border-right: 4px solid;
-}
-
-/*-- Write text as Animated --*/
-@keyframes write {
-	from {
-		width: 0%
-	}
-	to {
-		width: 100%
-	}
-}
-
-/*-- Animated blink cursor CSS--*/
-@keyframes cursor{
-	from, to {
-		border-color: transparent;
-	}
-	50% {
-		border-color: #662d91;
-	}
-}
-</style>
-			  
-			  
-			  
-            </div>
           </div>
-        </div>
-       
-	     </div>
-	   
-	   
-	   
-       <!-- <div class="col-lg-6 order-first order-lg-last">
-          <div class="right-img">
-            <div class="discount-circle">
-              <div class="discount-circle-inner">
-                <div class="price">
-                <p style="font-size: x-small;"> Powered by </p><img src="assets/images/icons/visa_icon.png">
-                </div>
-              </div>
-            </div>
-         </div>
-        </div>-->
-				
-		 
-    
-	     <!--<div class="row" style="margin-top: 100px; margin-left: 100px;margin-bottom: -100px;" >
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-               <img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width:50%;"> 
-              </div>
-            </div>
-          </div>
-        </div>
-     <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-               <img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 50%;"> 
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-               <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 50%;"> 
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>-->
-    </div>
-
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel_5711" data-page-id="62978618" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="History.html" style="padding: 10px 20px;">History</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel_ae37" data-page-id="62978618" style="padding: 10px 20px;">Features</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="fees.html">More Features</a>
+</li></ul>
 </div>
-  <!-- Hero Area End -->
-
-   <!-- About Area Start -->
-  <section class="about" id="about">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Why Lirapay?</h2>
-            <p>
-            <b>LIRAPAY </b> is an adventure! Walk with us and let our cutting-edge mobile platform be your guide.
-            </p>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#sec-bbc1" data-page-id="62978618" style="padding: 10px 20px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel-d79e" data-page-id="62978618" style="padding: 10px 20px;">Testimonial</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#carousel_c3bb" data-page-id="62978618" style="padding: 10px 20px;">FAQ</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="faq/index.html">More FAQ</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-body-alt-color u-text-hover-white" href="Home.html#sec-9f61" data-page-id="62978618" style="padding: 10px 20px;">Contact</a>
+</li></ul>
           </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel_5711" data-page-id="62978618" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="History.html" style="padding: 10px 20px;">History</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel_ae37" data-page-id="62978618" style="padding: 10px 20px;">Features</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="fees.html">More Features</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-bbc1" data-page-id="62978618" style="padding: 10px 20px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel-d79e" data-page-id="62978618" style="padding: 10px 20px;">Testimonial</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#carousel_c3bb" data-page-id="62978618" style="padding: 10px 20px;">FAQ</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-6"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="faq/index.html">More FAQ</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-9f61" data-page-id="62978618" style="padding: 10px 20px;">Contact</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        <div class="u-hidden-xs u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e9fc"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-e9fc"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
+            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
+          </a>
+          <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/lirapay.io/"><span class="u-icon u-social-icon u-social-instagram u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-2c6b"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-2c6b"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
+            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
+            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
+            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
+          </a>
+        </div>
+      </div></header>
+    <section class="u-align-center u-clearfix u-uploaded-video u-video u-video-cover u-section-1" id="carousel_3182">
+      <div class="u-background-video u-expanded" style="">
+        <div class="embed-responsive">
+          <video class="embed-responsive-item" data-autoplay="1" loop="" muted="" autoplay="autoplay" playsinline="">
+            <source src="files/home-video.mp4" type="video/mp4">
+            <p>Your browser does not support HTML5 video.</p>
+          </video>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-right">
-            <div class="inner-box">
-              <h4 class="title"><img src="assets/images/icon/home3-icon4.png" style="width: 55px;padding-right: 10px;">Free global transfers</h4>
-              <p class="text">
-               Your loved ones always come first, right? No matter where you travel, money transfers with LiraPay are quick, reliable and free of charge. You name it, we do it.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-up">
-            <div class="inner-box">
-             
-              <h4 class="title"><img src="assets/images/icon/home3-icon3.png" style="width: 55px;padding-right: 10px;">Instant giftcards</h4>
-              <p class="text">
-               Birthdays or special events coming up? Any gamers around? Your LiraPay friend knows how to keep a secret. Personalise, gift and enjoy the outcome.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-left">
-            <div class="inner-box">
-              
-              <h4 class="title"><img src="assets/images/icon/home3-icon5.png" style="width: 55px;padding-right: 10px;">Traveling abroad?</h4>
-              <p class="text">
-            No matter what your next destination is, your travel insurance is safe with us. Hint: Download the app, click a few buttons and you're all set. You can thank us later!
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-right">
-            <div class="inner-box">
-               
-              <h4 class="title"><img src="assets/images/icon/home3-icon1.png" style="width: 55px;padding-right: 10px;">Payments & top-ups</h4>
-              <p class="text">
-               Are you about to board the next plane, but forgot to pay an invoice? We've got you! With efficient and accessible bill-paying features, LiraPay saves the day!
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-up">
-            <div class="inner-box">
-              
-              <h4 class="title"><img src="assets/images/icon/home3-icon2.png" style="width: 55px;padding-right: 10px;">Limitless shopping</h4>
-              <p class="text">
-               Your adventure, your choice. Be it online or in a physical store, whether in your hometown or across the globe, shopping is made easy.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="box" data-aos="fade-left">
-            <div class="inner-box">
-               
-              <h4 class="title"><img src="assets/images/icon/home3-icon6.png" style="width: 35px;padding-right: 7px; margin-left: -20px;">Investments management</h4>
-              <p class="text">
-             Is stock, metal or crypto currency investment a thing for you? Then, you're in the right place. One platform, various options, thorough security.
-
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- About Area End -->
-
- <!-- We are best Area Start -->
-  <section class="whaybest" >
-    <div class="container">
-      <div class="row row-one">
-        <div class="col-lg-6 d-flex">
-          <div class="about-img">
-            <img src="assets/images/moneymanagement.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="info" data-aos="fade-left">
-            <h2 class="info-title">
-             Your Digital Friend!
-            </h2>
-            <ul class="feature-list">
-              <li>
-                
-                <div class="content">
-                    <h4>Money management</h4>
-                    <p>We love challenges, but not for our friends. It's our job to take them out of your way. With LiraPay, managing basic finances from your mobile phone becomes a kids' game. We turn obstacles into bonuses/ more chances. Our secret is called e-wallet.
-                    </p>
-                </div>
-              </li>
-              <li>
-               
-                <div class="content">
-                    <h4>Safe & user-friendly</h4>
-                    <p>Would you ever go on an adventure alone? We surely wouldn't! As such, we equipped your digital friend with a high-end security system conceived for relaxed online or offline payments while gaming, shopping for presents, paying bills and more.
-                    </p>
-                </div>
-              </li>
-                          </ul>
-          </div>
-        </div>
-
-      </div>
-      
-      <div class="row ">
-        <div class="col-lg-6">
-          <div class="info" data-aos="fade-right">
-            <div class="round-shape"></div>
-            <h2 class="info-title">
-             LIRAPAY is an adventure!
-            </h2>
-            <ul class="feature-list">
-              <li>
-               
-                <div class="content">
-                    <h4>Global Transfers</h4>
-                    <p>Your LiraPay VISA friend loves to travel. Take it around the world by sending or accepting payments to and from anywhere on Earth. No strings attached.
-                    </p>
-                </div>
-              </li>
-              <li>
-                 
-                <div class="content">
-                    <h4>A call for freedom</h4>
-                    <p>LiraPay has your back in reclaiming your financial independence. Being neither a credit, nor a debit card, yet playing big, it is a tool you can dispose of as you please.
-                    </p>
-                </div>
-              </li>
-           
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-6 d-flex order-first order-lg-last">
-          <div class="about-img">
-            <img src="assets/images/global.png" alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!--We are best Area Start -->
-
-  <!-- Service Area start -->
-  <section class="feature" id="feature">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">Attractive Features</h2>
-            <p>
-             	 
-			<b> First jump:</b> learning how to get all the benefits of a prepaid VISA card, with just a few clicks. No more red tapes, no more wasted time. Just freedom. For all users.
-		<b>	Second jump:</b> collect the recognition, security and versatility of an instrument championed by one of the worldwide first-hand organizations.
-			<b>Third jump:</b> take a pick - a virtual or a physical card. Both the virtual cards and the physical ones are easy to get (using your mobile phone) and use.
-			 
-			 
-			 
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="left-feature" data-aos="fade-right">
-            <div class="feature-box feature-box1">
-              <div class="feature-circle">
-                <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
-              </div>
-              <div class="details">
-                <h4>
-                  <a href="#" class="title">
-                   Instant universal giftcards
-                  </a>
-                </h4>
-                
-              </div>
-              <div class="icon-area" style=" width: 14%; padding-left: 10px;" >
-                  
-                   <img src="assets/icon/giftcard.png"   alt="">
-                  
-              </div>
-            </div>
-            <div class="feature-box feature-box2">
-              <div class="feature-circle">
-                <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
-              </div>
-              <div class="details">
-                <h4>
-                  <a href="#" class="title">Mobile top-ups</a>
-                </h4>
-              
-              </div>
-           
-                <div class="icon-area" style=" width: 14%; padding-left: 10px;" >
-                  
-                   <img src="assets/icon/top up.png"   alt="">
-                  
-           
-              </div>
-            </div>
-            <div class="feature-box feature-box3">
-              <div class="feature-circle">
-                <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
-              </div>
-              <div class="details">
-                <h4>
-                  <a href="#" class="title">Free global transfers
-</a>
-                </h4>
-              
-              </div>
-              <div class="icon-area" style=" width: 14%; padding-left: 10px;" >
-                  
-                   <img src="assets/icon/globaltransfer.png"   alt="">
-                  
-           
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 d-flex justify-content-center">
-          <div class="center-feature align-self-center">
-            <img src="assets/images/w2.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="right-feature" data-aos="fade-left">
-            <div class="feature-box feature-box4">
-              <div class="feature-circle">
-                <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
-              </div>
-             <div class="icon-area" style=" width: 14%; padding-right: 10px;" >
-                  
-                   <img src="assets/icon/user.png"   alt="">
-                  
-           
-              </div>
-              <div class="details">
-                <h5>
-                  <a href="#" class="title">Safe and handy/ user-friendly</a>
-                </h5>
-               
-              </div>
-            </div>
-            <div class="feature-box feature-box5">
-              <div class="feature-circle">
-                <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
-              </div>
-             <div class="icon-area" style=" width: 14%; padding-right: 10px;" >
-                  
-                   <img src="assets/icon/global.png"   alt="">
-                  
-           
-              </div>
-              <div class="details">
-                <h4>
-                  <a href="#" class="title">Global Transfers</a>
-                </h4>
-               
-              </div>
-            </div>
-            <div class="feature-box feature-box6">
-              <div class="feature-circle">
-                <div class="feature-circle-inner"><i class="fas fa-plus"></i></div>
-              </div>
-              <div class="icon-area" style=" width: 14%; padding-right: 10px;" >
-                  
-                   <img src="assets/icon/independence.png"   alt="">
-                  
-           
-              </div>
-              <div class="details">
-                <h4>
-                  <a href="#" class="title">A call for independence</a>
-                </h4>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-   <!-- Compare Area Start -->
-    
-	<section class="whaybest" >
-    <div class="container">
-      <div class="row row-one">
-        <div class="col-lg-6 d-flex">
-          <div class="about-img">
-            <img src="https://images.ctfassets.net/c3tzxbn050pi/6bZvq9aAAX8SXzVxFWWjS9/7f62e800f77524e43443e0eb15d77d41/lirapay.png?w=800&h=600&q=80&fm=webp" alt="">
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="info" data-aos="fade-left">
-            <h2 class="info-title">
-			Curve combines all your cards into a single Mastercard debit card. How? With a financial super app that puts you in full control of your money.<br />
-             You've earned £10 from LiraPay to spend with your Curve Card.
-            </h2>
-            
-          </div>
-        </div>
-
-      </div>
-      
- 
-    </div>
-  </section>
-	
-	
-	
-	
-	
-	
-  <!-- Service Area End 
-
-  <!-- Deal Of the Week Start   
-  <section class="dealofweek">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">Deal Of the Week</h2>
-          
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-group u-group-1">
+          <div class="u-container-layout">
+            <h1 class="u-align-left u-custom-font u-font-roboto-condensed u-hover-feature u-text u-text-body-alt-color u-text-1" data-animation-name="fadeIn" data-animation-duration="2000" data-animation-direction="">Be independent. Dare</h1>
           </div>
         </div>
       </div>
-      <div class="row justify-content-center">
-        <div class="col-md-10">
-          <div class="deal-slider-area" data-aos="fade-up">
-              <div class="deal-slider">
-                  <div class="item">
-                      <div class="content">
-                          <div class="row">
-                            <div class="col-lg-6">
-                                <div class="left-area">
-                                    <img src="assets/images/w1.png" alt="">
-                                  </div>
-                            </div>
-                            <div class="col-lg-6 d-flex">
-                                <div class="right-area">
-                                    <ul class="stars">
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                    </ul>
-                                    <h4 class="name">
-                                     Taxa lunara
-                                    </h4>
-                                    <p class="description">
-                                     profita acum de oferta noastra. Ai prima luna fara taxa de administrare cont
-                                    </p>
-                                    <div class="price">
-                                      <p>
-                                        <span>Free </span> 
-                                        <del>4.99 euro</del>
-                                      </p>
-                                    </div>
-                                    <div class="deal-counter">
-                                        <div data-countdown="2021/12/31"></div>
-                                    </div>
-                                    <div class="links">
-                                      <a href="#" class="mybtn3 mybtn-bg"><span>Deschide cont</span> </a>
-                                    </div>
-                                  </div>
-                            </div>
-                          </div>
-                        </div>
-                  </div>
-                  <div class="item">
-                      <div class="content">
-                          <div class="row">
-                            <div class="col-lg-6">
-                                <div class="left-area">
-                                    <img src="assets/images/w3.png" alt="">
-                                  </div>
-                            </div>
-                            <div class="col-lg-6 d-flex">
-                                  <div class="right-area">
-                                    <ul class="stars">
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                      <li>
-                                          <i class="fas fa-star"></i>
-                                      </li>
-                                    </ul>
-                                    <h4 class="name">
-                                     Taxa lunara
-                                    </h4>
-                                    <p class="description">
-                                     profita acum de oferta noastra. Ai prima luna fara taxa de administrare cont
-                                    </p>
-                                    <div class="price">
-                                      <p>
-                                        <span>Free </span> 
-                                        <del>4.99 euro</del>
-                                      </p>
-                                    </div>
-                                    <div class="deal-counter">
-                                        <div data-countdown="2021/12/31"></div>
-                                    </div>
-                                    <div class="links">
-                                      <a href="#" class="mybtn3 mybtn-bg"><span>Deschide cont</span> </a>
-                                    </div>
-                                  </div>
-                            </div>
-                          </div>
-                        </div>
-                  </div>
-              </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- Deal Of the Week Start -->
-
-  <!-- Pricing Area Start -->
-  <section class="pricing" id="pricing">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-10 col-lg-8">
-            <div class="section-title">
-              <h2 class="title">We're special. And we know it.</h2>
-              <p>
-             <b>   LiraPay is an app that supports your power of choice. We believe that freedom is for everyone. So, we're bringing over the tangible proof: a cool card backed up by powerful partners. </b>
-
-
-              </p>
-            </div>
-          </div>
-        </div>
-		
-		
-
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="product-slider" data-aos="fade-up">
-              <div class="item">
-                <div class="single-product">
-                  <div class="img">
-                    <img src="assets/images/w1.png"  alt="" style="filter: blur(8px);-webkit-filter: blur(8px);" >
-                    
-                    <div class="links">
-                        <a href="#" class="mybtn3 mybtn-bg"><span>Coming Soon</span> </a>
-                      </div>
-                  </div>
-                  <div class="content">
-                  
-                    
-                    <h4 class="title">
-                        Lirapay Adventures
-                      </h4>
-                  </div>
-                </div>
-              </div>
-           
-         
-			     <div class="item">
-                <div class="single-product">
-                  <div class="img">
-                    <img src="assets/images/w1.png" alt="">
-                    
-                    <div class="links">
-                        <a href="index.html#faq" class="mybtn3 mybtn-bg"><span>Open an account </span> </a>
-                      </div>
-                  </div>
-                  <div class="content">
-                  
-                    
-                    <h4 class="title">
-                        Lirapay Freedom
-                      </h4>
-                  </div>
-                </div>
-              </div>
-			  <div class="item">
-                <div class="single-product">
-                  <div class="img">
-                    <img src="assets/images/w1.png" alt="">
-                    
-                    <div class="links">
-                        <a href="index.html#pricing" class="mybtn3 mybtn-bg"><span>Open an account </span> </a>
-                      </div>
-                  </div>
-                  <div class="content">
-                  
-                    
-                    <h4 class="title">
-                      Gift card
-                      </h4>
-                  </div>
-                </div>
-              </div>
-			  
-        
-            </div>
-          </div>
-        </div>
-      </div>
-  </section>
-  <!-- pricing part End -->
-
-  <!--  Video Area Start -->
-  <section class="video" id="video">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">What can you do with the app? </h2>
-            <p>
-            LiraPay will become your best friend. Your digital friend. Your partner in freedom.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="video-wrapper">
-            <div class="video-box" data-aos="fade-right">
-              <div class="overly"></div>
-             
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="row" data-aos="fade-left">
-            <div class="col-lg-6">
-              <div class="fun-box">
-                <div class="inner-content inner-content1">
-                  <div class="icon">
-                    <i class="flaticon-guarantee"></i>
-                  </div>
-                  <h5 class="categori">Generate a physical or a virtual card</h5>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="fun-box">
-                <div class="inner-content inner-content2">
-                  <div class="icon">
-                    <i class="flaticon-delivery-truck"></i>
-                  </div>
-                  <h5 class="categori">Get a gift card for someone's birthday</h5>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="fun-box">
-                <div class="inner-content inner-content3">
-                  <div class="icon">
-                    <i class="flaticon-return"></i>
-                  </div>
-                  <h5 class="categori">Cover your travel insurance</h5>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="fun-box">
-                <div class="inner-content inner-content4">
-                  <div class="icon">
-                    <i class="flaticon-support-2"></i>
-                  </div>
-                  <h5 class="categori">Send money to your family and friends</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Video Area End -->
-
-
-  
-  <!-- Compare Area End -->
-
-
-  <!-- Testimonial Area Start -->
-  <section class="testimonial-area" id="testimonial-area">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Our Clients Say </h2>
-            <p>
-              Our customer’s words, not ours
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-7">
-          <div class="testimonial-img" data-aos="fade-up">
-            <img class="img1" src="assets/images/testimonial/ana rubeli.jpeg" alt="">
-            <img class="img2" src="assets/images/testimonial/emil mocian.jpg" alt="">
-            <img class="img3" src="assets/images/testimonial/ana maria diaconescu.jpeg" alt="">
-            <img class="img4" src="assets/images/testimonial/Ellie Saunders.jpg" alt="">
-            <img class="img5" src="assets/images/testimonial/ana maria diaconescu.jpeg" alt="">
-            <img class="img6" src="assets/images/testimonial/ana rubeli.jpeg" alt="">
-          </div>
-          <div class="testimonial-slider" data-aos="fade-up">
-            <div class="item">
-              <div class="client">
-                <div class="client-image">
-                  <img src="assets/images/testimonial/ana rubeli.jpeg" class="img-fluid" alt="">
-                </div>
-                <p class="client-say">
-                  LIRAPAY is a perfect tool if you are always on the go and in need to handle your financial operations directly from your phone."
-                </p>
-                <h4 class="client-name">
-                  <a href="#">
-                  Ana Rubeli
-                  </a>
-                </h4>
-                <h5 class="designation">Founder of #Aiciastat cultural association dealing with promoting heritage</h5>
-              </div>
-            </div>
-            <div class="item">
-              <div class="client">
-                <div class="client-image">
-                  <img src="assets/images/testimonial/emil mocian.jpg" class="img-fluid" alt="">
-                </div>
-                <p class="client-say">
-                  It fulfils all the financial needs a person can have
-                </p>
-                <h4 class="client-name">
-                  <a href="#">
-                   Emil Mocian
-                  </a>
-                </h4>
-                <h5 class="designation">Profesor, UJSLI BN President</h5>
-              </div>
-            </div>
-			<div class="item">
-              <div class="client">
-                <div class="client-image">
-                  <img src="assets/images/testimonial/ana maria diaconescu.jpeg" class="img-fluid" alt="">
-                </div>
-                <p class="client-say">
-                  It is nice to discover the history and the future of the financial services in the same place. <br> After almost 200 years, the Chrissoveloni Family is a living proof of the tradition, seriousness and perseverance.
-                </p>
-                <h4 class="client-name">
-                  <a href="#">
-                 Anamaria Diaconescu
-                  </a>
-                </h4>
-                <h5 class="designation">Director at 🌀Hellenic Romanian Bilateral Chamber of Commerce</h5>
-              </div>
-            </div>
-			<div class="item">
-              <div class="client">
-                <div class="client-image">
-                  <img src="assets/images/testimonial/Ellie Saunders.jpg" class="img-fluid" alt="">
-                </div>
-                <p class="client-say">
-                  Lirapay sounds really exciting especially for someone like me who finds themselves in Greece throughout the summer and UK for most of the year. Being able to use the card with euros and pounds, makes this extremely helpful as it can be used in both countries.
-                </p>
-                <h4 class="client-name">
-                  <a href="#">
-               Ellie Saunders
-                  </a>
-                </h4>
-                <h5 class="designation">Student – UAL Central Saint Martins London</h5>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Testimonial Area End -->
- 
-  <!-- Subscribe Area Start -->
-  <div class="subscribe-section">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Explorers love updates</h2>
-            <p>
-              Are you a true explorer who loves to learn new tips and tricks? Then, sign up and join our community. We'll keep spam away. It's a promise!
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-lg-8 col-md-10">
-            <div class="newsletter-form-area" data-aos="fade-up">
-              <form action="#">
-                <input type="email" placeholder="Your email address...">
-                <button type="submit">
-                 <span>Subscribe</span> <i class="far fa-paper-plane"></i>
-                </button>
-              </form>
-            </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="download-buttons">
-		   <h2 class="title">Download Our App from</h2>
-         
-		 
-		    <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                 <a href="https://play.google.com/store/apps/details?id=com.cardblue.lirapay"><img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-     <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                <a href="https://apps.apple.com/app/lirapay/id1597304406"><img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                 <a href="https://appgallery.huawei.com/app/C105020605"> <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-	  </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Subscribe Area End -->
-
-  <!-- Partner Area Start -->
-  <section id="faq" class="faq">
-    <div class="container">
-      <div class="section-title extra">
-        <h2 class="title">Asked Questions</h2>
-        <p>
-         As explorers, we are also problem solvers. Here are some questions you may need help with.
+      
+    </section>
+    <section class="u-align-center u-clearfix u-custom-color-2 u-section-2" id="carousel_5711">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-default u-text-1"> Why LiraPay? </h1>
+        <p class="u-text u-text-body-alt-color u-text-default u-text-2"><b>LIRAPAY&nbsp;</b>is an adventure! Walk with us and let our cutting-edge mobile platform be your guide.
         </p>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="panel-group accordion" id="accordion-1" data-aos="fade-right">
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="true" data-target="#one" aria-controls="one"
-                  class="panel-title">
-                  What is the LiraPay virtual card?
-                </h4>
+        <div class="u-align-left-md u-align-left-sm u-align-left-xs u-layout-grid u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-palette-1-light-1 u-radius-15 u-repeater-item u-shape-round u-list-item-1">
+              <div class="u-container-layout u-similar-container u-container-layout-1">
+                <h5 class="u-align-center u-custom-font u-heading-font u-text u-text-default u-text-3"> Free global transfers</h5>
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-4"> Your loved ones always come first, right? No matter where you travel, money transfers with LiraPay are quick, reliable and free of charge. You name it, we do it.</p>
               </div>
-              <div id="one" class="panel-collapse collapse show" aria-labelledby="one" data-parent="#accordion-1">
-                <div class="panel-body">
-                  <p>
-                     Your LiraPay virtual card becomes available in your account once your profile is activated, our KYC procedure is complete and you choose your currency. This card can be used as an additional safety measure, helping you avoid using the details on your physical card when completing a payment on a website with uncertain security. However, a virtual card cannot be used for ATM withdrawals or for POS payments in physical stores.
+            </div>
+            <div class="u-container-style u-list-item u-palette-1-light-1 u-radius-15 u-repeater-item u-shape-round u-list-item-2">
+              <div class="u-container-layout u-similar-container u-container-layout-2">
+                <h5 class="u-align-center u-custom-font u-heading-font u-text u-text-default u-text-5"> Instant giftcards</h5>
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-6"> Birthdays or special events coming up? Any gamers around? Your LiraPay friend knows how to keep a secret. Personalise, gift and enjoy the outcome.</p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-palette-1-light-1 u-radius-15 u-repeater-item u-shape-round u-list-item-3">
+              <div class="u-container-layout u-similar-container u-container-layout-3">
+                <h5 class="u-align-center u-custom-font u-heading-font u-text u-text-default u-text-7"> Traveling abroad?</h5>
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-8"> No matter what your next destination is, your travel insurance is safe with us. Hint: Download the app, click a few buttons and you're all set. You can thank us later!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-list u-list-2">
+          <div class="u-repeater u-repeater-2">
+            <div class="u-container-style u-list-item u-palette-1-light-1 u-radius-15 u-repeater-item u-shape-round u-list-item-4">
+              <div class="u-container-layout u-similar-container u-container-layout-4">
+                <h5 class="u-align-center u-custom-font u-heading-font u-text u-text-default u-text-9"> Payments &amp; top-ups</h5>
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-10"> Are you about to board the next plane, but forgot to pay an invoice? We've got you! With efficient and accessible bill-paying features, LiraPay saves the day!</p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-palette-1-light-1 u-radius-15 u-repeater-item u-shape-round u-list-item-5">
+              <div class="u-container-layout u-similar-container u-container-layout-5">
+                <h5 class="u-align-center u-custom-font u-heading-font u-text u-text-default u-text-11"> Limitless shopping</h5>
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-12"> Your adventure, your choice.&nbsp;<br>Be it online or in a physical store, whether in your hometown or across the globe, shopping is made easy.
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-palette-1-light-1 u-radius-15 u-repeater-item u-shape-round u-list-item-6">
+              <div class="u-container-layout u-similar-container u-container-layout-6">
+                <h5 class="u-align-center u-custom-font u-heading-font u-text u-text-default u-text-13"> Investments management</h5>
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-14"> Is stock, metal or crypto currency investment a thing for you? Then, you're in the right place. One platform, various options, thorough security.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-2 u-section-3" id="sec-c313">
+      <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
+        <h5 class="u-custom-font u-heading-font u-text u-text-default-xl u-text-1"> What Can You Do With The App?</h5>
+        <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-2"> LiraPay will become your best friend. Your digital friend. Your partner in freedom.</p>
+        <div class="u-layout-grid u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-container-layout-1">
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-body-alt-color u-text-3">
+                  <span style="font-weight: 700;"> Money management</span>
+                  <br>We love challenges, but not for our friends. It's our job to take them out of your way. With LiraPay, managing basic finances from your mobile phone becomes a kids' game. We turn obstacles into bonuses/ more chances. Our secret is called e-wallet.
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-container-layout-2">
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-body-alt-color u-text-4">
+                  <span style="font-weight: 700;"> Safe &amp; user-friendly</span>
+                  <br>Would you ever go on an adventure alone? We surely wouldn't! As such, we equipped your digital friend with a high-end security system conceived for relaxed online or offline payments while gaming, shopping for presents, paying bills and more.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-layout-grid u-list u-list-2">
+          <div class="u-repeater u-repeater-2">
+            <div class="u-align-center u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-valign-top-lg u-container-layout-3">
+                <img class="u-hover-feature u-image u-image-round u-image-1" src="images/moneymanagement.png" alt="" data-image-width="970" data-image-height="862">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-layout-grid u-list u-list-3">
+          <div class="u-repeater u-repeater-3">
+            <div class="u-align-center u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-valign-top-lg u-container-layout-4">
+                <img class="u-hover-feature u-image u-image-round u-image-2" src="images/global.png" alt="" data-image-width="630" data-image-height="658">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-expanded-width-sm u-expanded-width-xs u-layout-grid u-list u-list-4">
+          <div class="u-repeater u-repeater-4">
+            <div class="u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-container-layout-5">
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-body-alt-color u-text-5">
+                  <span style="font-weight: 700;">
+                    <span style="font-weight: 700;"></span>Global Transfers
+                  </span>
+                  <br>Your LiraPay VISA friend loves to travel. Take it around the world by sending or accepting payments to and from anywhere on Earth. No strings attached.
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-custom-item u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-container-layout-6">
+                <p class="u-align-justify u-custom-font u-heading-font u-text u-text-body-alt-color u-text-6">
+                  <span style="font-weight: 700;">
+                    <span style="font-weight: 700;"></span>A call for freedom
+                  </span>
+                  <br>LiraPay has your back in reclaiming your financial independence. Being neither a credit, nor a debit card, yet playing big, it is a tool you can dispose of as you please.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </section>
+    <section class="u-clearfix u-section-4" id="carousel_ae37">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-custom-font u-heading-font u-text u-text-default u-text-1" data-animation-name="fadeIn" data-animation-duration="2000" data-animation-direction=""> Attractive Features</h2>
+        <p class="u-align-center u-custom-font u-heading-font u-text u-text-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-direction=""><b>First jump:</b>&nbsp;learning how to get all the benefits of a prepaid VISA card, with just a few clicks. No more red tapes, no more wasted time. Just freedom. For all users.&nbsp;<b>
+            <br>Second jump:</b>&nbsp;collect the recognition, security and versatility of an instrument championed by one of the worldwide first-hand organizations.<br><b>Third jump:</b>&nbsp;take a pick - a virtual or a physical card. Both the virtual cards and the physical ones are easy to get (using your mobile phone) and use.
+        </p>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-right u-container-style u-layout-cell u-size-20 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1"></div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <div class="u-expanded-width-xs u-list u-list-1">
+                    <div class="u-repeater u-repeater-1">
+                      <div class="u-align-left u-container-style u-list-item u-repeater-item">
+                        <div class="u-container-layout u-similar-container u-container-layout-3"><span class="u-align-left u-icon u-icon-circle u-text-palette-1-base u-icon-1">
+            <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 515.556 515.556" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c319"></use></svg>
+            <svg id="svg-c319" viewBox="0 0 515.556 515.556" class="u-svg-content"><path d="m0 274.226 176.549 176.886 339.007-338.672-48.67-47.997-290.337 290-128.553-128.552z"></path></svg>
+          </span>
+                          <p class="u-custom-font u-heading-font u-text u-text-body-alt-color u-text-3">Safe and handy/ user-friendly<br>
+                          </p>
+                        </div>
+                      </div>
+                      <div class="u-align-left u-container-style u-list-item u-repeater-item">
+                        <div class="u-container-layout u-similar-container u-container-layout-4"><span class="u-align-left u-icon u-icon-circle u-text-palette-1-base u-icon-2">
+            <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 515.556 515.556" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c319"></use></svg>
+            <svg id="svg-c319" viewBox="0 0 515.556 515.556" class="u-svg-content"><path d="m0 274.226 176.549 176.886 339.007-338.672-48.67-47.997-290.337 290-128.553-128.552z"></path></svg>
+          </span>
+                          <p class="u-custom-font u-heading-font u-text u-text-body-alt-color u-text-4">Global Transfer</p>
+                        </div>
+                      </div>
+                      <div class="u-align-left u-container-style u-list-item u-repeater-item">
+                        <div class="u-container-layout u-similar-container u-container-layout-5"><span class="u-align-left u-icon u-icon-circle u-text-palette-1-base u-icon-3">
+            <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 515.556 515.556" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c319"></use></svg>
+            <svg id="svg-c319" viewBox="0 0 515.556 515.556" class="u-svg-content"><path d="m0 274.226 176.549 176.886 339.007-338.672-48.67-47.997-290.337 290-128.553-128.552z"></path></svg>
+          </span>
+                          <p class="u-custom-font u-heading-font u-text u-text-body-alt-color u-text-5">A call for independence</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <img class="u-image u-image-contain u-image-1" src="images/w2.png" data-image-width="512" data-image-height="512">
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
+                <div class="u-container-layout u-container-layout-6"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-expanded-width-xs u-list u-list-2">
+          <div class="u-repeater u-repeater-2">
+            <div class="u-align-left u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-7"><span class="u-align-left u-file-icon u-icon u-icon-circle u-icon-4"><img src="images/giftcard.png" alt=""></span>
+                <p class="u-custom-font u-heading-font u-text u-text-body-alt-color u-text-6">Safe and handy/ user-friendly<br>
+                </p>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-8"><span class="u-align-left u-file-icon u-icon u-icon-circle u-icon-5"><img src="images/topup.png" alt=""></span>
+                <p class="u-custom-font u-heading-font u-text u-text-body-alt-color u-text-7">Global Transfer</p>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-9"><span class="u-align-left u-file-icon u-icon u-icon-circle u-icon-6"><img src="images/globaltransfer.png" alt=""></span>
+                <p class="u-custom-font u-heading-font u-text u-text-body-alt-color u-text-8">A call for independence</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-5" id="sec-e5ee">
+      <div class="u-clearfix u-sheet u-sheet-1"></div>
+    </section>
+    <section class="u-clearfix u-custom-color-2 u-section-6" id="sec-8af9">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h5 class="u-custom-font u-font-roboto-condensed u-text u-text-default-xl u-text-1"> Explorers Love Updates</h5>
+        <h6 class="u-align-center u-text u-text-default-xl u-text-2"> Are you a true explorer who loves to learn new tips and tricks? Then, sign up and join our community.&nbsp;<br>We'll keep spam away. It's a promise!
+        </h6>
+        <div class="u-form u-form-1">
+          <form action="#" method="POST" class="u-clearfix u-form-horizontal u-form-spacing-10 u-inner-form" style="padding: 10px" source="custom" name="form">
+            <div class="u-form-email u-form-group u-form-group-1">
+              <label for="email-2555" class="u-form-control-hidden u-label u-label-1">Email</label>
+              <input type="email" placeholder="Enter a valid email address" id="email-2555" name="email" class="u-border-4 u-border-white u-input u-input-rectangle u-radius-50 u-white" required="">
+            </div>
+            <div class="u-align-left u-form-group u-form-submit">
+              <a href="#" class="u-active-grey-90 u-border-4 u-border-active-grey-90 u-border-grey-75 u-border-hover-grey-90 u-btn u-btn-round u-btn-submit u-button-style u-grey-75 u-hover-grey-90 u-radius-50 u-btn-1">gET uPDATES</a>
+              <input type="submit" value="submit" class="u-form-control-hidden">
+            </div>
+            <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
+            <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
+            <input type="hidden" value="" name="recaptchaResponse">
+          </form>
+        </div>
+        <h5 class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-3"> Download our app from:</h5>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <img class="u-image u-image-default u-image-1" src="images/google.png" alt="" data-image-width="564" data-image-height="168" data-href="https://play.google.com/store/apps/details?id=com.cardblue.lirapay" data-target="_blank">
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <img class="u-image u-image-default u-image-2" src="images/appstore.png" alt="" data-image-width="435" data-image-height="129" data-href="https://apps.apple.com/app/lirapay/id1597304406" data-target="_blank">
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
+                <div class="u-container-layout u-container-layout-3">
+                  <img class="u-image u-image-default u-image-3" src="images/app-gallery.png" alt="" data-image-width="437" data-image-height="129" data-href="https://appgallery.huawei.com/app/C105020605" data-target="_blank">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-7" id="sec-bbc1">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h5 class="u-align-center-xs u-custom-font u-font-roboto-condensed u-text u-text-1"> We're Special. And We Know It.</h5>
+        <p class="u-align-center u-custom-font u-heading-font u-text u-text-2"><b>LiraPay is an app that supports your power of choice. We believe that freedom is for everyone. So, we're bringing over the tangible proof: a cool card backed up by powerful partners.</b>
+        </p>
+        <div class="u-expanded-width u-layout-grid u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-align-center u-container-style u-custom-item u-list-item u-palette-1-base u-radius-12 u-repeater-item u-list-item-1">
+              <div class="u-container-layout u-similar-container u-valign-bottom-lg u-valign-bottom-md u-container-layout-1">
+                <img class="u-image u-image-contain u-image-round u-radius-18 u-image-1" src="images/video.jpg?rand=4114" alt="" data-image-width="1024" data-image-height="501">
+                <h3 class="u-custom-item u-text u-text-3">Lira Adventures</h3>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-custom-item u-list-item u-palette-1-base u-radius-12 u-repeater-item u-list-item-2">
+              <div class="u-container-layout u-similar-container u-valign-bottom-lg u-valign-bottom-md u-container-layout-2">
+                <img class="u-image u-image-round u-radius-18 u-image-2" src="images/video.jpg?rand=4114" alt="" data-image-width="1024" data-image-height="501">
+                <h3 class="u-custom-item u-text u-text-4">Lira Freedom</h3>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-custom-item u-list-item u-palette-1-base u-radius-12 u-repeater-item u-list-item-3">
+              <div class="u-container-layout u-similar-container u-valign-bottom-lg u-valign-bottom-md u-container-layout-3">
+                <img class="u-image u-image-round u-radius-18 u-image-3" src="images/video.jpg?rand=4114" alt="" data-image-width="1024" data-image-height="501">
+                <h3 class="u-custom-item u-text u-text-5">Gift Card</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-palette-2-base u-section-8" id="carousel_7dc5">
+      <div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
+        <div class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-shape u-shape-rectangle u-shape-1"></div>
+        <div class="u-clearfix u-expanded-width-lg u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-image u-layout-cell u-left-cell u-size-34-lg u-size-34-xl u-size-39-md u-size-39-sm u-size-39-xs u-image-1" data-image-width="800" data-image-height="600" data-href="https://curvecard.sjv.io/c/3119034/1201864/12851" data-target="_blank">
+                <div class="u-container-layout u-valign-middle u-container-layout-1"></div>
+              </div>
+              <div class="u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-align-right-xs u-container-style u-layout-cell u-size-21-md u-size-21-sm u-size-21-xs u-size-26-lg u-size-26-xl u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <div class="u-align-center u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-container-style u-custom-color-1 u-group u-radius-10 u-shape-round u-group-1">
+                    <div class="u-container-layout u-valign-top-md u-valign-top-sm u-container-layout-3">
+                      <h2 class="u-text u-text-body-alt-color u-text-default u-text-1">
+                        <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-heading-font u-hover-none u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-1" href="https://curvecard.sjv.io/c/3119034/1201864/12851"> You've earned £10 from <span style="font-weight: 700;">LiraPay</span> to spend with your Curve Card.<br>
+                          <br>
+                          <span style="font-weight: 700;">Curve combines all your cards into a single Mastercard debit card.</span> How? With a financial super app that puts you in full control of your money.
+                        </a>
+                      </h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-2 u-section-9" id="carousel_e716">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h5 class="u-custom-font u-heading-font u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">Our Clients say</h5>
+        <p class="u-text u-text-default u-text-2"> Our customer’s words, not ours</p>
+        <div id="carousel-d79e" data-interval="5000" data-u-ride="carousel" class="u-carousel u-expanded-width u-slider u-slider-1">
+          <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
+            <li data-u-target="#carousel-d79e" class="u-active u-grey-30 u-shape-circle" data-u-slide-to="0" style="width: 10px; height: 10px;"></li>
+            <li data-u-target="#carousel-d79e" class="u-grey-30 u-shape-circle" data-u-slide-to="1" style="width: 10px; height: 10px;"></li>
+            <li data-u-target="#carousel-d79e" class="u-grey-30 u-shape-circle" data-u-slide-to="2" style="width: 10px; height: 10px;"></li>
+            <li data-u-target="#carousel-d79e" class="u-grey-30 u-shape-circle" data-u-slide-to="3" style="width: 10px; height: 10px;"></li>
+          </ol>
+          <div class="u-carousel-inner" role="listbox">
+            <div class="u-active u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-container-layout-1">
+                <div class="u-palette-1-base u-radius-10 u-shape u-shape-round u-shape-1"></div>
+                <p class="u-align-center u-custom-font u-heading-font u-text u-text-3">"​LIRAPAY is a perfect tool if you are always on the go and in need to handle your financial operations directly from your phone."</p>
+                <h5 class="u-align-center u-text u-text-4"> Ana Rubeli</h5>
+                <p class="u-align-center u-text u-text-5"> Founder of #Aiciastat cultural association dealing with promoting heritage</p>
+                <div alt="" class="u-border-8 u-border-palette-1-base u-image u-image-circle u-image-1" data-image-width="200" data-image-height="200"></div>
+              </div>
+            </div>
+            <div class="u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-container-layout-2">
+                <div class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-palette-1-base u-radius-10 u-shape u-shape-round u-shape-2"></div>
+                <p class="u-align-center u-custom-font u-heading-font u-text u-text-6">&nbsp;"It is nice to discover the history and the future of the financial services in the same place.&nbsp; After almost 200 years, the Chrissoveloni Family is a living proof of the tradition, seriousness and perseverance."<br>
+                  <br>
+                </p>
+                <div alt="" class="u-border-8 u-border-palette-1-base u-image u-image-circle u-image-2" data-image-width="200" data-image-height="200"></div>
+                <h5 class="u-align-center u-text u-text-7"> Anamaria Diaconescu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h5>
+                <p class="u-align-center u-text u-text-8"> Director at 🌀Hellenic Romanian Bilateral Chamber of Commerce</p>
+              </div>
+            </div>
+            <div class="u-align-center-xs u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-container-layout-3">
+                <div class="u-expanded-width-xs u-palette-1-base u-radius-10 u-shape u-shape-round u-shape-3"></div>
+                <p class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xl u-custom-font u-heading-font u-text u-text-9"> "Lirapay sounds really exciting especially for someone like me who finds themselves in Greece throughout the summer and UK for most of the year. Being able to use the card with euros and pounds, makes this extremely helpful as it can be used in both countries."&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+                <div alt="" class="u-border-8 u-border-palette-1-base u-image u-image-circle u-image-3" data-image-width="739" data-image-height="794"></div>
+                <h5 class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xl u-text u-text-10"> Ellie Saunders&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h5>
+                <p class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xl u-text u-text-11"> Student – UAL Central Saint Martins London</p>
+              </div>
+            </div>
+            <div class="u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-container-layout-4">
+                <div class="u-palette-1-base u-radius-10 u-shape u-shape-round u-shape-4"></div>
+                <p class="u-align-center u-custom-font u-heading-font u-text u-text-12">"​It fulfils all the financial needs a person can have"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+                <div alt="" class="u-border-8 u-border-palette-1-base u-image u-image-circle u-image-4" data-image-width="200" data-image-height="200"></div>
+                <h5 class="u-align-center u-text u-text-13"> Emil Mocian&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h5>
+                <p class="u-align-center u-text u-text-14"> Profesor, UJSLI BN President</p>
+              </div>
+            </div>
+          </div>
+          <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hover-white u-icon-circle u-palette-1-base u-spacing-10 u-text-hover-palette-1-base u-carousel-control-1" href="#carousel-d79e" role="button" data-u-slide="prev">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
+            </span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="u-absolute-vcenter-lg u-absolute-vcenter-md u-absolute-vcenter-xs u-carousel-control u-carousel-control-next u-hover-white u-icon-circle u-palette-1-base u-spacing-10 u-text-hover-palette-1-base u-carousel-control-2" href="#carousel-d79e" role="button" data-u-slide="next">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
+            </span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-left u-clearfix u-custom-color-2 u-section-10" id="carousel_c3bb">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-align-center u-text u-text-1"> Asked Questions</h2>
+        <p class="u-align-center u-custom-font u-font-roboto-condensed u-text u-text-2"> As explorers, we are also problem solvers. Here are some questions you may need help with.</p>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1">
+                  <div class="u-accordion u-collapsed-by-default u-expanded-width u-spacing-2 u-accordion-1">
+                    <div class="u-accordion-item u-accordion-item-1">
+                      <a class="u-accordion-link u-active-custom-color-4 u-button-style u-custom-color-4 u-hover-custom-color-4 u-radius-9 u-accordion-link-1" id="link-accordion-7c0e" aria-controls="accordion-7c0e" aria-selected="false">
+                        <span class="u-accordion-link-text"> What is the LiraPay virtual card?</span><span class="u-accordion-link-icon u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-347e"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-347e"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+                      </a>
+                      <div class="u-accordion-pane u-align-justify u-container-style u-custom-color-3 u-accordion-pane-1" id="accordion-7c0e" aria-labelledby="link-accordion-7c0e">
+                        <div class="u-container-layout u-container-layout-2">
+                          <p class="u-custom-font u-heading-font u-text u-text-3"> Your<span style="font-weight: 700;"> LiraPay virtual card </span>becomes available in your account once your profile is activated, our KYC procedure is complete and you choose your currency. This card can be used as an additional safety measure, helping you avoid using the details on your physical card when completing a payment on a website with uncertain security. However, a virtual card cannot be used for ATM withdrawals or for POS payments in physical stores.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="u-accordion-item u-accordion-item-2">
+                      <a class="u-accordion-link u-active-custom-color-4 u-button-style u-custom-color-4 u-hover-custom-color-4 u-radius-9 u-accordion-link-2" id="link-accordion-05cb" aria-controls="accordion-05cb" aria-selected="false">
+                        <span class="u-accordion-link-text"> Can I receive my salary in my LiraPay account?</span><span class="u-accordion-link-icon u-icon u-icon-circle u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-ae03"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-ae03"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+                      </a>
+                      <div class="u-accordion-pane u-align-justify u-container-style u-custom-color-3 u-accordion-pane-2" id="accordion-05cb" aria-labelledby="link-accordion-05cb">
+                        <div class="u-container-layout u-container-layout-3">
+                          <p class="u-custom-font u-heading-font u-text u-text-default u-text-4"> For the time being, this option is unavailable. However, we are working on providing this option as well and we aim at doing so as soon as possible. If you'd like to be notified when this option becomes available, we invite you to leave your email address below and we will let you know</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="u-accordion-item u-accordion-item-3">
+                      <a class="u-accordion-link u-active-custom-color-4 u-button-style u-custom-color-4 u-hover-custom-color-4 u-radius-9 u-accordion-link-3" id="link-accordion-a6bb" aria-controls="accordion-a6bb" aria-selected="false">
+                        <span class="u-accordion-link-text"> Do I have to pay when placing an order for my physical LiraPay card?</span><span class="u-accordion-link-icon u-icon u-icon-circle u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-a4a8"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-a4a8"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+                      </a>
+                      <div class="u-accordion-pane u-align-justify u-container-style u-custom-color-3 u-accordion-pane-3" id="accordion-a6bb" aria-labelledby="link-accordion-a6bb">
+                        <div class="u-container-layout u-container-layout-4">
+                          <p class="u-custom-font u-heading-font u-text u-text-default u-text-5"> When you place your card order, there is a delivery fee attached. Its value is determined based on the chosen delivery method and will be displayed in the payment summary, at checkout. There is also a 10 EUR card issuing cost.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="u-accordion-item u-accordion-item-4">
+                      <a class="u-accordion-link u-active-custom-color-4 u-button-style u-custom-color-4 u-hover-custom-color-4 u-radius-9 u-accordion-link-4" id="link-accordion-a6bb" aria-controls="accordion-a6bb" aria-selected="false">
+                        <span class="u-accordion-link-text"> Cash withdrawal</span><span class="u-accordion-link-icon u-icon u-icon-circle u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-f384"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-f384"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+                      </a>
+                      <div class="u-accordion-pane u-container-style u-custom-color-3 u-accordion-pane-4" id="accordion-a6bb" aria-labelledby="link-accordion-a6bb">
+                        <div class="u-container-layout u-container-layout-5">
+                          <p class="u-custom-font u-heading-font u-text u-text-default u-text-6"> You can withdraw cash from any ATM accepting VISA cards, in any country</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="u-accordion-item u-accordion-item-5">
+                      <a class="u-accordion-link u-active-custom-color-4 u-button-style u-custom-color-4 u-hover-custom-color-4 u-radius-9 u-accordion-link-5" id="link-7c73" aria-controls="7c73" aria-selected="false">
+                        <span class="u-accordion-link-text"> Will I be able to use my LiraPay account unless I order a physical card?</span><span class="u-accordion-link-icon u-icon u-icon-circle u-icon-5"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 16 16" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-efdf"></use></svg><svg class="u-svg-content" viewBox="0 0 16 16" x="0px" y="0px" id="svg-efdf"><path d="M8,10.7L1.6,5.3c-0.4-0.4-1-0.4-1.3,0c-0.4,0.4-0.4,0.9,0,1.3l7.2,6.1c0.1,0.1,0.4,0.2,0.6,0.2s0.4-0.1,0.6-0.2l7.1-6
+	c0.4-0.4,0.4-0.9,0-1.3c-0.4-0.4-1-0.4-1.3,0L8,10.7z"></path></svg></span>
+                      </a>
+                      <div class="u-accordion-pane u-align-justify u-container-style u-custom-color-3 u-accordion-pane-5" id="7c73" aria-labelledby="link-7c73">
+                        <div class="u-container-layout u-container-layout-6">
+                          <p class="u-custom-font u-heading-font u-text u-text-default u-text-7"> Yes, you will be able to use your LiraPay account, receive money and make transfers to other LiraPay users and make online payments. However, **you will not be able to make purchases on POS or withdraw cash from ATM</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-7">
+                  <img class="u-image u-image-contain u-image-default u-image-1" src="images/faq.png" alt="" data-image-width="975" data-image-height="594">
+                  <a href="faq/faq.html" class="u-active-custom-color-4 u-align-left u-btn u-btn-round u-button-style u-custom-color-4 u-custom-font u-font-montserrat u-hover-custom-color-4 u-radius-12 u-btn-1">read more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-11" id="sec-9f61">
+      <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
+        <h4 class="u-text u-text-1">Contact Us:<br>
+          <br>
+        </h4>
+        <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-2"> We're approachable! Feel free to use the contact details below if you have any questions.</p>
+        <div class="u-clearfix u-expanded-width u-gutter-8 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-left u-container-style u-layout-cell u-palette-1-light-2 u-radius-19 u-shape-round u-size-20 u-layout-cell-1">
+                <div class="u-container-layout u-valign-middle-sm u-valign-middle-xs u-container-layout-1">
+                  <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/logo_white-248x37.webp" alt="" data-image-width="248" data-image-height="37">
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-palette-1-light-2 u-radius-19 u-shape-round u-size-20 u-layout-cell-2">
+                <div class="u-container-layout u-valign-top-sm u-valign-top-xs u-container-layout-2"><span class="u-file-icon u-icon u-icon-1"><img src="images/1034146.png" alt=""></span>
+                  <h6 class="u-text u-text-body-alt-color u-text-default u-text-3">hello@lirapay.io</h6>
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-palette-1-light-2 u-radius-19 u-shape-round u-size-20 u-layout-cell-3">
+                <div class="u-container-layout u-valign-top-xs u-container-layout-3"><span class="u-custom-item u-file-icon u-icon u-icon-2"><img src="images/2942933.png" alt=""></span>
+                  <h6 class="u-text u-text-body-alt-color u-text-4"> Abate Rigord Street, Quantum House 75, Ta’ Xbiex XBX 1120, Malta</h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-clearfix u-expanded-width u-gutter-100 u-layout-wrap u-layout-wrap-2">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-size-28">
+                <div class="u-layout-col">
+                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-60 u-layout-cell-4">
+                    <div class="u-container-layout u-container-layout-4">
+                      <div class="u-align-left u-expanded-width-xs u-form u-form-1">
+                        <form action="scripts/form-9f61.php" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" style="padding: 10px" source="customphp" name="form-5">
+                          <div class="u-form-group u-form-name u-form-group-1">
+                            <label for="name-5359" class="u-form-control-hidden u-label">Name</label>
+                            <input type="text" placeholder="Name" id="name-5359" name="name" class="u-border-1 u-border-white u-custom-font u-heading-font u-input u-input-rectangle u-radius-9" required="">
+                          </div>
+                          <div class="u-form-email u-form-group u-form-group-2">
+                            <label for="email-5359" class="u-form-control-hidden u-label">Email</label>
+                            <input type="email" placeholder="Email" id="email-5359" name="email" class="u-border-1 u-border-white u-custom-font u-heading-font u-input u-input-rectangle u-radius-9" required="">
+                          </div>
+                          <div class="u-form-group u-form-message u-form-group-3">
+                            <label for="message-5359" class="u-form-control-hidden u-label">Address</label>
+                            <textarea placeholder="Address" rows="4" cols="50" id="message-5359" name="message" class="u-border-1 u-border-white u-custom-font u-heading-font u-input u-input-rectangle u-radius-9" required=""></textarea>
+                          </div>
+                          <div class="u-form-group u-form-submit u-form-group-4">
+                            <a href="#" class="u-btn u-btn-round u-btn-submit u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-radius-4 u-btn-1">Submit</a>
+                            <input type="submit" value="submit" class="u-form-control-hidden">
+                          </div>
+                          <div class="u-form-send-message u-form-send-success">Thank you! Your message has been sent.</div>
+                          <div class="u-form-send-error u-form-send-message">Unable to send your message. Please fix errors then try again.</div>
+                          <input type="hidden" value="" name="recaptchaResponse">
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-size-32">
+                <div class="u-layout-col">
+                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-60 u-layout-cell-5">
+                    <div class="u-container-layout u-container-layout-5">
+                      <div class="u-expanded u-grey-light-2 u-map">
+                        <div class="embed-responsive">
+                          <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5435.41384071499!2d14.49064575489848!3d35.90006296749025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x130e454a1472e6eb%3A0x2c2c1c5543681c83!2sQuantum%20House!5e0!3m2!1sen!2sro!4v1635513585111!5m2!1sen!2sro" data-map="JTdCJTIycG9zaXRpb25UeXBlJTIyJTNBJTIybWFwLWVtYmVkJTIyJTJDJTIyYWRkcmVzcyUyMiUzQSUyMk1hbmhhdHRhbiUyQyUyME5ldyUyMFlvcmslMjIlMkMlMjJ6b29tJTIyJTNBMTAlMkMlMjJ0eXBlSWQlMjIlM0ElMjJyb2FkJTIyJTJDJTIybGFuZyUyMiUzQSUyMiUyMiUyQyUyMmVtYmVkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEITFtMTghMW0xMiExbTMhMWQ1NDM1LjQxMzg0MDcxNDk5ITJkMTQuNDkwNjQ1NzU0ODk4NDghM2QzNS45MDAwNjI5Njc0OTAyNSEybTMhMWYwITJmMCEzZjAhM20yITFpMTAyNCEyaTc2OCE0ZjEzLjEhM20zITFtMiExczB4MTMwZTQ1NGExNDcyZTZlYiUyNTNBMHgyYzJjMWM1NTQzNjgxYzgzITJzUXVhbnR1bSUyNTIwSG91c2UhNWUwITNtMiExc2VuITJzcm8hNHYxNjM1NTEzNTg1MTExITVtMiExc2VuITJzcm8lMjIlN0Q="></iframe>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <style class="u-overlap-style">.u-overlap:not(.u-sticky-scroll) .u-header {
+background-color: rgba(219,84,90,0) !important
+}</style>
+    
+    
+    <footer class="u-clearfix u-footer u-image u-shading u-footer" id="sec-3bf8" data-image-width="1920" data-image-height="572"><div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center-lg u-align-center-xl u-align-left-md u-align-left-sm u-container-style u-layout-cell u-left-cell u-size-13-sm u-size-13-xs u-size-20-lg u-size-20-xl u-size-60-md u-layout-cell-1">
+                <div class="u-container-layout u-valign-top-sm u-container-layout-1">
+                  <a href="index.html" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37" title="Home">
+                    <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
+                  </a>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-1"> </p>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-11-sm u-size-11-xs u-size-4-lg u-size-4-xl u-size-60-md u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-2"><!--position-->
+                  <div data-position="" class="u-position u-position-1"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"></div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-12 u-size-60-md u-layout-cell-3">
+                <div class="u-container-layout u-valign-bottom-sm u-container-layout-3"><!--position-->
+                  <div data-position="" class="u-position u-position-2"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-custom-font u-heading-font u-text u-text-2"><!--block_header_content--> Company<!--/block_header_content--></h5><!--/block_header-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-custom-font u-heading-font u-text u-text-default u-text-3">
+                    <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-btn-1" href="Home.html#carousel_5711" data-page-id="62978618">About<br>
+                      <br>
+                    </a>
+                  </p>
+                  <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2" href="History.html" data-page-id="822227435">History</a>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-12 u-size-60-md u-layout-cell-4">
+                <div class="u-container-layout u-valign-bottom-md u-valign-bottom-sm u-container-layout-4"><!--position-->
+                  <div data-position="" class="u-position u-position-3"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-custom-font u-heading-font u-text u-text-4"><!--block_header_content--> Help<!--/block_header_content--></h5><!--/block_header-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-custom-font u-heading-font u-text u-text-default u-text-5">
+                    <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-3" href="Home.html#carousel_ae37" data-page-id="62978618"> Features</a>
+                  </p>
+                  <p class="u-custom-font u-heading-font u-text u-text-default u-text-6">
+                    <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-4" href="Home.html#sec-bbc1" data-page-id="62978618">Products</a>
+                  </p>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-12 u-size-60-md u-layout-cell-5">
+                <div class="u-container-layout u-valign-bottom-sm u-valign-bottom-xs u-container-layout-5"><!--position-->
+                  <div data-position="" class="u-position u-position-4"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-custom-font u-heading-font u-text u-text-7"><!--block_header_content-->Legal<!--/block_header_content--></h5><!--/block_header-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-8">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-5" href="Cookie-Policy.html" data-page-id="62979618"> Cookie Policy&nbsp;<br>
+                    </a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-9">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-6" href="Terms-and-condition.html" data-page-id="822927435"> Terms &amp; Conditions&nbsp;</a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-10">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-7" href="Privacy-Policy.html" data-page-id="371607600"> Privacy Policy</a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-11">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-8" href="Disclaimer.html" data-page-id="16486525"> Disclaimer&nbsp;</a>
+                  </p>
+                  <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-12">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-9" href="eula.html" data-page-id="433209338"> EULA&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>
                   </p>
                 </div>
               </div>
             </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#two" aria-controls="two"
-                  class="panel-title">
-                Can I receive my salary in my LiraPay account?
-                </h4>
-              </div>
-              <div id="two" class="panel-collapse collapse" aria-labelledby="two" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                        For the time being, this option is unavailable. However, we are working on providing this option as well and we aim at doing so as soon as possible. If you'd like to be notified when this option becomes available, we invite you to leave your email address below and we will let you know
-                    </p>
-                </div>
-              </div>
-            </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#three" aria-controls="three"
-                  class="panel-title">
-                  Do I have to pay when placing an order for my physical LiraPay card?
-                </h4>
-              </div>
-              <div id="three" class="panel-collapse collapse" aria-labelledby="three" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                       When you place your card order, there is a delivery fee attached. Its value is determined based on the chosen delivery method and will be displayed in the payment summary, at checkout. There is also a 10 EUR card issuing cost.
-                    </p>
-                </div>
-              </div>
-            </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#four" aria-controls="four"
-                  class="panel-title">
-               Cash withdrawal
-                </h4>
-              </div>
-              <div id="four" class="panel-collapse collapse" aria-labelledby="four" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                       You can withdraw cash from any ATM accepting VISA cards, in any country
-                    </p>
-                </div>
-              </div>
-            </div>
-            <div class="panel">
-              <div class="panel-heading">
-                <h4 data-toggle="collapse" aria-expanded="false" data-target="#four2" aria-controls="four2"
-                  class="panel-title">
-                  Will I be able to use my LiraPay account unless I order a physical card?
-                </h4>
-              </div>
-              <div id="four2" class="panel-collapse collapse" aria-labelledby="four2" data-parent="#accordion-1">
-                <div class="panel-body">
-                    <p>
-                       Yes, you will be able to use your LiraPay account, receive money and make transfers to other LiraPay users and make online payments. However, **you will not be able to make purchases on POS or withdraw cash from ATM
-                    </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
-        <div class="col-lg-6 d-flex">
-          <div class="faq-img" data-aos="fade-left">
-            <img src="assets/images/faq.png" alt="">
-          </div>
+        <p class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-text u-text-13"> Copyright © 2021. All rights reserved by&nbsp;<a href="index.html" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-10">CardBlue</a>&nbsp;V. 1.0
+        </p>
+        <div class="u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e7e6"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-e7e6"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
+            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
+          </a>
+          <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/lirapay.io/"><span class="u-icon u-social-icon u-social-instagram u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-f343"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-f343"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
+            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
+            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
+            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
+          </a>
         </div>
-      </div>
-    </div>
-  </section>
-  <!-- Partner Area End -->
-
-  <!-- Contact Area Start -->
-  <section class="contact" id="contact">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">Contact Us</h2>
-            <p>
-           We're approachable! Feel free to use the contact details below if you have any questions.
-            </p>
-          </div>
-        </div>
-      </div>
-        <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            <div class="left">
-              <div class="footer-logo"><br /> <p> &nbsp; </p>  
-              <a href="#" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>		 <p> &nbsp; </p>  
-            </div>
-            </div>
-           
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box2" data-aos="fade-up">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-envelope"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-			   <p>hello@lirapay.eu</p>
-				 <p> <br /></p>
-            
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box3" data-aos="fade-left">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-map-marked-alt"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                <p>Abate Rigord Street, Quantum House 75, Ta’ Xbiex XBX 1120, Malta
-</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="contact-form-wrapper" data-aos="fade-right">
-            <form id="contact-form" method="POST">
-              <div class="row">
-                <div class="col-md-12">
-                  <input type="text" class="input-field borderd" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-12">
-                  <input type="email" class="input-field borderd" id="email" placeholder="Eenter Your Email" required>
-                </div>
-                <div class="col-12">
-                  <textarea class="input-field borderd textarea" rows="3" id="message"
-                    placeholder="Write your message here" required></textarea>
-                </div>
-                <div class="col-12">
-                  <button type="submit" class="mybtn3 mybtn-bg"> <span>Send Message</span></button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="google_map_wrapper" data-aos="fade-left">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5435.41384071499!2d14.49064575489848!3d35.90006296749025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x130e454a1472e6eb%3A0x2c2c1c5543681c83!2sQuantum%20House!5e0!3m2!1sen!2sro!4v1635513585111!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Contact Area End -->
-
-
-  <!-- Footer Section Start -->
-  <footer class="footer" id="footer">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-6">
-          <!--<div class="footer-info-area">
-		<div class="footer-logo">
-              <a href="index.html" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
-            </div>
-            <div class="text">
-              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
-              </p>
-            </div>
-          </div>-->
-         
-        </div>
-      </div>
-    </div>
-	 <section class="contact1" id="contact1">
-     
-      <div class="row">
-        <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-             <div class="footer-logo">
-              <a href="index.html" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
-            </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                 <p> Be independent. Dare. Choose LiraPay as your partner in freedom.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-		    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-              <h5>Company</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-                                <li class="nav-item">
-                  <a class="nav-link" href="#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      	    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-             <div class="left" style="text-align: left;">
-              <h5>Help</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-           
-                <li class="nav-item">
-                  <a class="nav-link" href="#feature">Features</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#pricing">Products</a>
-                </li>
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        	    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-              <h5>Help</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-                <li >
-                  <a class="nav-link" href="https://www.lirapay.io/cookie-policy.html">Cookie Policy</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/terms-and-conditions.html">Terms & Conditions</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/privacy-policy.html">Privacy Policy</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/disclaimer.html">Disclaimer</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/eula.html">EULA</a>
-                </li>
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
- 
-    </div>
-	 <div class="fotter-social-links">
-            <ul>
-              <li>
-                <a href="#" class="facebook">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="twitter">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-			   <li>
-                <a href="#" class="instagram"  >
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="linkedin">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              
-              
-            </ul>
-          </div>
-  </section>
-    <div class="copy-bg text-center">
-      <p>Copyright © 2021. All rights reserved by
-        <a href="index.html">CardBlue</a>
-      </p>
-	  
-    </div>
-  </footer>
+      </div></footer>
+    
   
-  
-  <!-- Footer Section End -->
-
-  <!-- Back to Top Start -->
-  <div class="bottomtotop">
-    <i class="fa fa-chevron-right"></i>
-  </div>
-  <!-- Back to Top End -->
-
-
-  <!-- jquery -->
-  <script src="assets/js/jquery.js"></script>
-  <!-- popper -->
-  <script src="assets/js/popper.min.js"></script>
-  <!-- bootstrap -->
-  <script src="assets/js/bootstrap.min.js"></script>
-  <!-- way poin js-->
-  <script src="assets/js/waypoints.min.js"></script>
-  <!-- owl carousel -->
-  <script src="assets/js/owl.carousel.min.js"></script>
-  <!-- magnific popup -->
-  <script src="assets/js/jquery.magnific-popup.js"></script>
-  <!-- aos js-->
-  <script src="assets/js/aos.js"></script>
-  <!-- counterup js-->
-  <script src="assets/js/jquery.countdown.min.js"></script>
-  <!-- easing js-->
-  <script src="assets/js/jquery.easing.1.3.js"></script>
-  <!-- Map js -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnjQzu92F2GFNzhLoRSeS3-aojljQQe78"></script>
-	<script src="assets/js/gmap.js"></script>
-  <!-- main -->
-  <script src="assets/js/contact.js"></script>
-  <!-- main -->
-  <script src="assets/js/main.js"></script>
-</body>
-
-</html>
+</body></html>

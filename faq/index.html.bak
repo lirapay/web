@@ -213,37 +213,48 @@ Please keep in mind that your LiraPay unique user code is mandatory for transfer
 		<ul id="delivery" class="cd-faq__group">
 			<li class="cd-faq__title"><h2>Delivery</h2></li>
 			<li class="cd-faq__item">
-				<a class="cd-faq__trigger" href="#0"><span>What should I do if my order hasn't been delivered yet?</span></a>
+				<a class="cd-faq__trigger" href="#0"><span>Why should my identity be checked?</span></a>
 				<div class="cd-faq__content">
           <div class="text-component">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit quidem delectus rerum eligendi mollitia, repudiandae quae beatae. Et repellat quam atque corrupti iusto architecto impedit explicabo repudiandae qui similique aut iure ipsum quis inventore nulla error aliquid alias quia dolorem dolore, odio excepturi veniam odit veritatis. Quo iure magnam, et cum. Laudantium, eaque non? Tempore nihil corporis cumque dolor ipsum accusamus sapiente aliquid quis ea assumenda deserunt praesentium voluptatibus, accusantium a mollitia necessitatibus nostrum voluptatem numquam modi ab, sint rem.</p>
+            <p>A routine verification of the provided identification data is required for your LiraPay to become active and accessible to you. We are doing this to abide by the banking law certified as KYC (Know Your Client) or CDD (Customer Due Diligence). This process assists a company in confirming its clients' identity and avoiding corruption and extortion.</p>
           </div>
 				</div> <!-- cd-faq__content -->
 			</li>
 
 			<li class="cd-faq__item">
-				<a class="cd-faq__trigger" href="#0"><span>How can I find your international delivery information?</span></a>
+				<a class="cd-faq__trigger" href="#0"><span>My identity confirmation failed</span></a>
 				<div class="cd-faq__content">
           <div class="text-component">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit.</p>
+            <p>Our verification procedures can take up to 24 hours (for exceptional cases, it could take even longer). Should you receive no reply from us within this time frame or if your identity confirmation failed, please retake the process and make sure that all pictures are clear (not obscure, nor glaring) and the writing is intelligible.
+To facilitate the process of identity confirmation, please insure that:<br />
+●	You are of age (18 years and above) and live in the UK or the European Economic Area;<br />
+●	Your ID is valid and the data on it is comprehensible. <br />
+! Your account cannot be verified with a screenshot, copy or scan of your ID !
+</p>
           </div>
 				</div> <!-- cd-faq__content -->
 			</li>
 
 			<li class="cd-faq__item">
-				<a class="cd-faq__trigger" href="#0"><span>Who takes care of shipping?</span></a>
+				<a class="cd-faq__trigger" href="#0"><span>I can no longer access my account</span></a>
 				<div class="cd-faq__content">
           <div class="text-component">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit.</p>
+            <p>Having unrestricted access to your account is critical and we are aware of this. As soon as we complete the verification procedures and if everything goes well you will regain access to your account and funds. However, we are unable to provide a feasible time span, as each situation is unique. </p>
           </div>
 				</div> <!-- cd-faq__content -->
 			</li>
 
 			<li class="cd-faq__item">
-				<a class="cd-faq__trigger" href="#0"><span>How do returns or refunds work?</span></a>
+				<a class="cd-faq__trigger" href="#0"><span>I can't use my physical card</span></a>
 				<div class="cd-faq__content">
           <div class="text-component">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit quidem delectus rerum eligendi mollitia, repudiandae quae beatae. Et repellat quam atque corrupti iusto architecto impedit explicabo repudiandae qui similique aut iure ipsum quis inventore nulla error aliquid alias quia dolorem dolore, odio excepturi veniam odit veritatis. Quo iure magnam, et cum. Laudantium, eaque non? Tempore nihil corporis cumque dolor ipsum accusamus sapiente aliquid quis ea assumenda deserunt praesentium voluptatibus, accusantium a mollitia necessitatibus nostrum voluptatem numquam modi ab, sint rem.</p>
+            <p>If you can't make transactions with your card, please run a few checkups:<br />
+●	The card was successfully activated;<br />
+●	Whether your card is frozen or not. It can happen to anyone, by accident. This information is available in the "Cards" tab, in the LiraPay app; if that's the case, click the "Unfreeze" button;<br />
+●	Review your security settings for not having particular types of transactions blocked. Click the 'PIN & Security' tab under the specified card.<br />
+●	For online transactions, check that the entered card details are correct (account holder name, card number, CVC, expiry date and PIN code). <br />Should you block it as a result of three failed attempts, you have an option to unblock it. <br />
+If you have a damaged or deteriorated physical card, you can easily replace it. <br />Fees may apply. We will provide the expected delivery time and date at checkout.
+</p>
           </div>
 				</div> <!-- cd-faq__content -->
 			</li>

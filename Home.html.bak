@@ -46,7 +46,7 @@ At LiraPay, we believe that freedom is for everyone. So, we're bringing over the
     <meta name="theme-color" content="#1281e8">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-overlap u-stick-footer"><header class="u-align-center-sm u-align-center-xs u-clearfix u-custom-color-3 u-header u-sticky u-sticky-bbb1 u-header" id="sec-9afa"><div class="u-clearfix u-sheet u-sheet-1">
+  <body class="u-body u-overlap u-stick-footer"><header class="u-align-center-sm u-align-center-xs u-clearfix u-custom-color-3 u-header u-sticky u-sticky-bbb1 u-header" id="sec-9afa"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="index.html" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37" title="Home">
           <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
         </a>
@@ -725,11 +725,11 @@ background-color: rgba(219,84,90,0) !important
                     </div><!--/block-->
                   </div><!--/position-->
                   <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-8">
-                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-5" href="Cookie-Policy.html" data-page-id="62979618"> Cookie Policy&nbsp;<br>
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-5" href="Cookie-Policy.html" data-page-id="62978628"> Cookie Policy&nbsp;<br>
                     </a>
                   </p>
                   <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-9">
-                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-6" href="Terms-and-condition.html" data-page-id="822927435"> Terms &amp; Conditions&nbsp;</a>
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-6" href="Terms-and-condition.html" data-page-id="829227435"> Terms &amp; Conditions&nbsp;</a>
                   </p>
                   <p class="u-custom-font u-font-roboto-condensed u-text u-text-default u-text-10">
                     <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-7" href="Privacy-Policy.html" data-page-id="371607600"> Privacy Policy</a>
@@ -745,7 +745,7 @@ background-color: rgba(219,84,90,0) !important
             </div>
           </div>
         </div>
-        <p class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-text u-text-13"> Copyright © 2022. All rights reserved by&nbsp;<a href="index.html" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-10">CardBlue</a>&nbsp;V. 1.0
+        <p class="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-text u-text-13"> Copyright © 2021. All rights reserved by&nbsp;<a href="index.html" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-10">CardBlue</a>&nbsp;V. 1.0
         </p>
         <div class="u-social-icons u-spacing-10 u-social-icons-1">
           <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e7e6"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-e7e6"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
@@ -758,6 +758,6 @@ background-color: rgba(219,84,90,0) !important
           </a>
         </div>
       </div></footer>
-    
+     
   
 </body></html>
