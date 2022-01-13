@@ -1,1164 +1,281 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Lirapay - Your card, your digital friend!</title>
-  <!-- favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
-  <!-- bootstrap -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <!-- fontawesome -->
-  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-  <!-- Flat Icon -->
-  <link rel="stylesheet" href="assets/css/flaticon.css">
-  <!-- animate -->
-  <link rel="stylesheet" href="assets/css/animate.css">
-  <!-- Owl Carousel -->
-  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-  <!-- magnific popup -->
-  <link rel="stylesheet" href="assets/css/magnific-popup.css">
-  <!-- AOS css -->
-  <link rel="stylesheet" href="assets/css/aos.css">
-  <!-- stylesheet -->
-  <link rel="stylesheet" href="assets/css/style.css">
-  <!-- responsive -->
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/dark.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
-<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-  
-</head>
-
-<body class="home7">
-
-  <!-- preloader area start 
-  <div class="preloader" id="preloader">
-    <div class="preloader-inner">
-      <div class="cube-wrapper">
-        <div class="cube-folding">
-          <span class="leaf1"></span>
-          <span class="leaf2"></span>
-          <span class="leaf3"></span>
-          <span class="leaf4"></span>
-        </div>
-        <span class="loading" data-name="Loading">Lirapay</span>
-      </div>
-    </div>
-  </div>
-  <!-- preloader area end -->
-
-  <!-- Navebar Area start -->
-   <header class="navigation">
-    <div class="container">
-	      <div class="row">
-        <div class="col-lg-12 p-0">
-          <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="index.html">
-              <img src="assets/images/logo_white-248x37.webp" alt="">
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>MoreFeatures</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="MoreFeatures.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Lirapay">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1",
+		"logo": "images/logo_white-248x37.webp",
+		"sameAs": [
+				"https://www.facebook.com/lirapay.io",
+				"https://www.instagram.com/lirapay.io",
+				"https://www.facebook.com/lirapay.io",
+				"https://www.instagram.com/lirapay.io"
+		]
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="MoreFeatures">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body"><header class="u-align-center-sm u-align-center-xs u-clearfix u-custom-color-1 u-header u-sticky u-sticky-5fd8 u-header" id="sec-d5a2"><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-align-left u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-text-active-color u-custom-text-hover-color u-nav-link" href="#">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-8a8f"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-8a8f" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
             </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
-              aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="mainmenu">
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index.html#home">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				  <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="index.html#feature"  aria-haspopup="true" aria-expanded="false">Features	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="fees.html"><i class="fas fa-chevron-right"></i>More Features</a>
-							</div>
-								</li>
-				<li class="nav-item">
-                  <a class="nav-link" href="index.html#pricing">Products</a>
-                </li>
-                          <li class="nav-item">
-                  <a class="nav-link" href="index.html#testimonial-area">Testimonial</a>
-                </li>
-                <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="index.html#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>More Faq</a>
-		 			</div>
-						</li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html#contact">Contact</a>
-                </li>
-              </ul>
-            </div>
-          </nav>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- Navebar Area End -->
-
-  <!-- Hero Area End -->
-
-   <!-- About Area Start -->
- 
-   <!-- Compare Area Start -->
-    <section class="compare-section">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Fees and limits</h2>
-            
           </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-custom-font u-heading-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" style="padding: 10px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="index.html#carousel_dcc1" data-page-id="274686858" style="padding: 10px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="History.html" style="padding: 10px;">History</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="fees.html" style="padding: 10px;">Features</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="index.html#carousel_5942" data-page-id="274686858" style="padding: 10px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="index.html#carousel_c0fc" data-page-id="274686858" style="padding: 10px;">Testimonial</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="index.html#carousel_65ca" data-page-id="274686858" style="padding: 10px;">FAQ</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="Morefaq.html">More FAQ</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-white" href="index.html#carousel_acea" data-page-id="274686858" style="padding: 10px;">Contact</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" style="padding: 10px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html#carousel_dcc1" data-page-id="274686858" style="padding: 10px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="History.html" style="padding: 10px;">History</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="fees.html" style="padding: 10px;">Features</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html#carousel_5942" data-page-id="274686858" style="padding: 10px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html#carousel_c0fc" data-page-id="274686858" style="padding: 10px;">Testimonial</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html#carousel_65ca" data-page-id="274686858" style="padding: 10px;">FAQ</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Morefaq.html">More FAQ</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.html#carousel_acea" data-page-id="274686858" style="padding: 10px;">Contact</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37">
+          <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
+        </a>
+        <div class="u-hidden-xs u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-af39"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-af39"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
+            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
+          </a>
+          <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/lirapay.io"><span class="u-icon u-social-icon u-social-instagram u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5b96"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-5b96"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
+            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
+            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
+            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
+          </a>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <table class="compare-table table table-responsive-lg table-bordered table-striped"  data-aos="fade-up">
-            <thead style="text-align: center;">
-              <tr>
-                <th> </th>
-                <th class="text-center">
-                    
-                    <h3 class="product-title">Adventures</h3>
-                  
-                </th>
-                <th class="text-center">
-                
-                 <h3 class="product-title">Freedom</h3> 
-                
-                </th>
-               <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Payments & transfers</b></td>
-      </tr>
-              <tr>
-                <th>Instant Lirapay to Lirapay transfers</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
+      </div></header>
+    <section class="u-clearfix u-grey-10 u-section-1" id="sec-8ad8">
+      <div class="u-clearfix u-sheet u-sheet-1"></div>
+    </section>
+    <section class="u-align-center u-clearfix u-section-2" id="sec-2a23">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h2 class="u-text u-text-default u-text-1">Fees and Limits</h2>
+       
+        <div class="u-expanded-width u-table u-table-responsive u-table-1">
+          <table class="u-table-entity u-table-entity-1">
+            <colgroup>
+              <col width="14.3%">
+              <col width="52.01%">
+              <col width="33.68%">
+            </colgroup>
+            <thead class="u-align-center u-table-header u-table-header-1">
+              <tr style="height: 21px;">
+                <th class="u-table-cell"></th>
+                <th class="u-border-1 u-border-palette-5-light-1 u-table-cell u-table-cell-2">Adventures</th>
+                <th class="u-border-1 u-border-palette-5-light-1 u-table-cell u-table-cell-3">Freedom</th>
               </tr>
-			  <tr>
-                <th>Recurring payments and direct debits</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>	 
-			  <tr>
-                <th> Mobile payment in partnership with CURVE</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  
-			  
-			  <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cards</b></td>
-      </tr>
-              <tr>
-                <th>Contactless debit card</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  <tr>
-                <th>Virtual debit card</th>
-                <th>EUR / GBP</th>
-                <th>EUR / GBP</th>
-               
-              </tr>	 
-			  <tr>
-                <th> Giftcard</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			    <tr>
-                <th> Card spending in foreign currencies</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			    <tr>
-                <th>First psyhical card delivery</th>
-                <th>15 EUR</th>
-                <th>15 EUR</th>
-               
-              </tr>
-			  
-			  
-			   <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cash</b></td>
-      </tr>
-              <tr>
-                <th> ATM withdrawals</th>
-                <th>200 EUR/Month</th>
-                <th>1200 EUR/Month</th>
-               
-              </tr>
-			  <tr>
-                <th> Cash top-ups</th>
-                <th>300 EUR/Week</th>
-                <th>500 EUR/Week</th>
-               
-              </tr>	 
-			 
-			  
-			  
-			   <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Accounts</b></td>
-      </tr>
-              <tr>
-                <th> Current account in GBP, EUR</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  <tr>
-                <th>Access your account with the Lirapay mobile app </th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>	 
-			 
-			   <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc; " class="active"><b>Support</b></td>
-      </tr>  
-              <tr>
-                <th> Multilingual customer support</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
             </thead>
-           
-              
-              <th></th>
-              <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>- 
-			   <td colspan="2" class="text-center"><a href="#"  ><span><img src="assets/icon/googleicon.png" style=" width: 20%; "   alt=""></span></a><a href="#"  ><span><img src="assets/icon/appleicon.png" style=" width: 15%; padding-right:10px "  alt=""></span></a><a href="#"  ><span><img src="assets/icon/huaweiicon.png" style=" width: 20%; "   alt=""></span></a></td>
-             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
-             <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
-			 
-			 
-			 
-			   <td colspan="5" class="text-center">	    
-			   <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                 <a href="https://play.google.com/store/apps/details?id=com.cardblue.lirapay"><img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-     <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                <a href="https://apps.apple.com/app/lirapay/id1597304406"><img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                 <a href="https://appgallery.huawei.com/app/C105020605"> <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div></td>
-             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
-            
-            </tr>
-            </tfoot>
+            <tbody class="u-align-center u-table-body">
+              <tr style="height: 30px;">
+                <td class="u-align-left u-custom-color-4 u-first-column u-table-cell u-table-cell-4">Payment &amp; Transfer</td>
+                <td class="u-custom-color-4 u-table-cell u-table-cell-5"></td>
+                <td class="u-custom-color-4 u-table-cell u-table-cell-6"></td>
+              </tr>
+              <tr style="height: 30px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-first-column u-table-cell">Storage</td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell">10 Gb</td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell">20 Gb</td>
+              </tr>
+              <tr style="height: 30px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-first-column u-table-cell">People</td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell">20</td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell">Unlimited</td>
+              </tr>
+              <tr style="height: 46px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell">Support</td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell">&nbsp;&nbsp; </td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell">&nbsp;<span class="u-icon u-icon-1"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 468.293 468.293" x="0px" y="0px" id="svg-4552" style="enable-background:new 0 0 468.293 468.293;"><circle style="fill:#44C4A1;" cx="234.146" cy="234.146" r="234.146"></circle><polygon style="fill:#EBF0F3;" points="357.52,110.145 191.995,275.67 110.773,194.451 69.534,235.684 191.995,358.148   398.759,151.378 "></polygon></svg><img></span>&nbsp; 
+                </td>
+              </tr>
+              <tr style="height: 46px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-custom-color-4 u-table-cell u-table-cell-16">Consultation</td>
+                <td class="u-border-1 u-border-grey-25 u-custom-color-4 u-table-cell u-table-cell-17">&nbsp;<span class="u-icon u-text-palette-2-base u-icon-2"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 342.947 342.947" x="0px" y="0px" id="svg-415a" style="enable-background:new 0 0 342.947 342.947;"><polygon points="342.947,21.213 321.734,0 171.473,150.26 21.213,0 0,21.213 150.26,171.473 0,321.734 21.213,342.947   171.473,192.686 321.734,342.947 342.947,321.734 192.686,171.473 "></polygon></svg><img></span>&nbsp; 
+                </td>
+                <td class="u-border-1 u-border-grey-25 u-custom-color-4 u-table-cell u-table-cell-18">&nbsp;<span class="u-icon u-icon-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 468.293 468.293" x="0px" y="0px" id="svg-9f95" style="enable-background:new 0 0 468.293 468.293;"><circle style="fill:#44C4A1;" cx="234.146" cy="234.146" r="234.146"></circle><polygon style="fill:#EBF0F3;" points="357.52,110.145 191.995,275.67 110.773,194.451 69.534,235.684 191.995,358.148   398.759,151.378 "></polygon></svg><img></span>&nbsp; 
+                </td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+              <tr style="height: 50px;">
+                <td class="u-align-left u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+                <td class="u-border-1 u-border-grey-25 u-table-cell"></td>
+              </tr>
+            </tbody>
           </table>
         </div>
       </div>
-    </div>
-  </section>
-  
-  <!-- Contact Area Start -->
-  <!-- Contact Area Start -->
-  <section class="contact" id="contact">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">Contact Us</h2>
-            <p>
-           We're approachable! Feel free to use the contact details below if you have any questions.
-            </p>
-          </div>
-        </div>
-      </div>
-        <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            <div class="left">
-              <div class="footer-logo"><br /> <p> &nbsp; </p>  
-              <a href="#" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>		 <p> &nbsp; </p>  
-            </div>
-            </div>
-           
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box2" data-aos="fade-up">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-envelope"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-			   <p>hello@lirapay.eu</p>
-				 <p> <br /></p>
-            
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box3" data-aos="fade-left">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-map-marked-alt"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                <p>Abate Rigord Street, Quantum House 75, Ta’ Xbiex XBX 1120, Malta
-</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="contact-form-wrapper" data-aos="fade-right">
-            <form id="contact-form" method="POST">
-              <div class="row">
-                <div class="col-md-12">
-                  <input type="text" class="input-field borderd" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-12">
-                  <input type="email" class="input-field borderd" id="email" placeholder="Eenter Your Email" required>
-                </div>
-                <div class="col-12">
-                  <textarea class="input-field borderd textarea" rows="3" id="message"
-                    placeholder="Write your message here" required></textarea>
-                </div>
-                <div class="col-12">
-                  <button type="submit" class="mybtn3 mybtn-bg"> <span>Send Message</span></button>
+    </section>
+    
+    
+    <footer class="u-clearfix u-footer u-image u-shading u-footer" id="sec-3b63" data-image-width="6000" data-image-height="3000"><div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-gutter-30 u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center-lg u-align-left-md u-align-left-sm u-align-left-xl u-container-style u-layout-cell u-left-cell u-size-15 u-layout-cell-1">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-1">
+                  <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="248" data-image-height="37">
+                    <img src="images/logo_white-248x37.webp" class="u-logo-image u-logo-image-1">
+                  </a>
                 </div>
               </div>
-            </form>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="google_map_wrapper" data-aos="fade-left">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5435.41384071499!2d14.49064575489848!3d35.90006296749025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x130e454a1472e6eb%3A0x2c2c1c5543681c83!2sQuantum%20House!5e0!3m2!1sen!2sro!4v1635513585111!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Contact Area End -->
-
-
-  <!-- Footer Section Start -->
-  <footer class="footer" id="footer">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-6">
-          <!--<div class="footer-info-area">
-		<div class="footer-logo">
-              <a href="index.html" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
-            </div>
-            <div class="text">
-              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
-              </p>
-            </div>
-          </div>-->
-         
-        </div>
-      </div>
-    </div>
-	 <section class="contact1" id="contact1">
-     
-      <div class="row">
-        <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-             <div class="footer-logo">
-              <a href="index.html" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
-            </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                 <p> Be independent. Dare. Choose LiraPay as your partner in freedom.</p>
+              <div class="u-align-left u-container-style u-layout-cell u-size-15 u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-2"><!--position-->
+                  <div data-position="" class="u-position u-position-1"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-text"><!--block_header_content-->
+                          <span style="font-weight: 700; font-size: 1.5rem;">Company </span><!--/block_header_content-->
+                        </h5><!--/block_header--><!--block_content-->
+                        <div class="u-block-content u-custom-font u-heading-font u-text"><!--block_content_content--> About<br>History<!--/block_content_content-->
+                        </div><!--/block_content-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-15 u-layout-cell-3">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-3"><!--position-->
+                  <div data-position="" class="u-position u-position-2"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-text"><!--block_header_content-->
+                          <span style="font-size: 1.5rem; font-weight: 700;">Help </span><!--/block_header_content-->
+                        </h5><!--/block_header--><!--block_content-->
+                        <div class="u-block-content u-custom-font u-heading-font u-text"><!--block_content_content--> Features<br>Products<!--/block_content_content-->
+                        </div><!--/block_content-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-15 u-layout-cell-4">
+                <div class="u-container-layout u-container-layout-4"><!--position-->
+                  <div data-position="" class="u-position u-position-3"><!--block-->
+                    <div class="u-block">
+                      <div class="u-block-container u-clearfix"><!--block_header-->
+                        <h5 class="u-block-header u-text"><!--block_header_content-->
+                          <span style="font-weight: 700; font-size: 1.5rem;">Legal </span><!--/block_header_content-->
+                        </h5><!--/block_header--><!--block_content-->
+                        <div class="u-block-content u-text"><!--block_content_content-->
+                          <br><!--/block_content_content-->
+                        </div><!--/block_content-->
+                      </div>
+                    </div><!--/block-->
+                  </div><!--/position-->
+                  <p class="u-text u-text-default u-text-7"> Cookie-Policy<br>Terms-and-condition<br>Privacy-Policy<br>Disclaimer<br>EULA
+                  </p>
+                </div>
               </div>
             </div>
           </div>
         </div>
-		    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-              <h5>Company</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-                                <li class="nav-item">
-                  <a class="nav-link" href="#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				</ul>
-              </div>
-            </div>
-          </div>
+        <div class="u-social-icons u-spacing-10 u-social-icons-1">
+          <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/lirapay.io"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5e71"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-5e71"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
+            c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
+          </a>
+          <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/lirapay.io"><span class="u-icon u-social-icon u-social-instagram u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5d57"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-5d57"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
+            z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
+            C90.6,29.1,82.7,21.3,73.1,21.3z M83,73.3c0,5.5-4.5,9.9-9.9,9.9H38.6c-5.5,0-9.9-4.5-9.9-9.9V38.8c0-5.5,4.5-9.9,9.9-9.9h34.5
+            c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
+          </a>
         </div>
-      	    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-             <div class="left" style="text-align: left;">
-              <h5>Help</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-           
-                <li class="nav-item">
-                  <a class="nav-link" href="#feature">Features</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#pricing">Products</a>
-                </li>
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        	    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-              <h5>Help</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-                <li >
-                  <a class="nav-link" href="https://www.lirapay.io/cookie-policy.html">Cookie Policy</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/terms-and-conditions.html">Terms & Conditions</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/privacy-policy.html">Privacy Policy</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/disclaimer.html">Disclaimer</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/eula.html">EULA</a>
-                </li>
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
- 
-    </div>
-	 <div class="fotter-social-links">
-            <ul>
-              <li>
-                <a href="#" class="facebook">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="twitter">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-			   <li>
-                <a href="#" class="instagram"  >
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="linkedin">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              
-              
-            </ul>
-          </div>
-  </section>
-    <div class="copy-bg text-center">
-      <p>Copyright © 2021. All rights reserved by
-        <a href="index.html">CardBlue</a>
+        <p class="u-align-left u-text u-text-8"> Copyright © 2021. All rights reserved by&nbsp;<a href="https://lirapay.github.io/web/index.html" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">CardBlue</a>&nbsp;V. 1.0
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/html-templates" target="_blank">
+        <span>HTML Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
       </p>
-	  
-    </div>
-  </footer>
-  
-  
-  <!-- Footer Section End -->
-
-  <!-- Back to Top Start -->
-  <div class="bottomtotop">
-    <i class="fa fa-chevron-right"></i>
-  </div>
-  <!-- Back to Top End -->
-
-
-  <!-- jquery -->
-  <script src="assets/js/jquery.js"></script>
-  <!-- popper -->
-  <script src="assets/js/popper.min.js"></script>
-  <!-- bootstrap -->
-  <script src="assets/js/bootstrap.min.js"></script>
-  <!-- way poin js-->
-  <script src="assets/js/waypoints.min.js"></script>
-  <!-- owl carousel -->
-  <script src="assets/js/owl.carousel.min.js"></script>
-  <!-- magnific popup -->
-  <script src="assets/js/jquery.magnific-popup.js"></script>
-  <!-- aos js-->
-  <script src="assets/js/aos.js"></script>
-  <!-- counterup js-->
-  <script src="assets/js/jquery.countdown.min.js"></script>
-  <!-- easing js-->
-  <script src="assets/js/jquery.easing.1.3.js"></script>
-  <!-- Map js -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnjQzu92F2GFNzhLoRSeS3-aojljQQe78"></script>
-	<script src="assets/js/gmap.js"></script>
-  <!-- main -->
-  <script src="assets/js/contact.js"></script>
-  <!-- main -->
-  <script src="assets/js/main.js"></script>
-</body>
-
-=======
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Lirapay - Your card, your digital friend!</title>
-  <!-- favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
-  <!-- bootstrap -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <!-- fontawesome -->
-  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-  <!-- Flat Icon -->
-  <link rel="stylesheet" href="assets/css/flaticon.css">
-  <!-- animate -->
-  <link rel="stylesheet" href="assets/css/animate.css">
-  <!-- Owl Carousel -->
-  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-  <!-- magnific popup -->
-  <link rel="stylesheet" href="assets/css/magnific-popup.css">
-  <!-- AOS css -->
-  <link rel="stylesheet" href="assets/css/aos.css">
-  <!-- stylesheet -->
-  <link rel="stylesheet" href="assets/css/style.css">
-  <!-- responsive -->
-  <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="assets/css/dark.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/video_style.css">
-<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-  
-</head>
-
-<body class="home7">
-
-  <!-- preloader area start 
-  <div class="preloader" id="preloader">
-    <div class="preloader-inner">
-      <div class="cube-wrapper">
-        <div class="cube-folding">
-          <span class="leaf1"></span>
-          <span class="leaf2"></span>
-          <span class="leaf3"></span>
-          <span class="leaf4"></span>
-        </div>
-        <span class="loading" data-name="Loading">Lirapay</span>
-      </div>
-    </div>
-  </div>
-  <!-- preloader area end -->
-
-  <!-- Navebar Area start -->
-   <header class="navigation">
-    <div class="container">
-	      <div class="row">
-        <div class="col-lg-12 p-0">
-          <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="index.html">
-              <img src="assets/images/logo_white-248x37.webp" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
-              aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="mainmenu">
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index.html#home">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				  <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="index.html#feature"  aria-haspopup="true" aria-expanded="false">Features	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="fees.html"><i class="fas fa-chevron-right"></i>More Features</a>
-							</div>
-								</li>
-				<li class="nav-item">
-                  <a class="nav-link" href="index.html#pricing">Products</a>
-                </li>
-                          <li class="nav-item">
-                  <a class="nav-link" href="index.html#testimonial-area">Testimonial</a>
-                </li>
-                <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="index.html#faq"  aria-haspopup="true" aria-expanded="false">FAQ	</a>
-									<div class="dropdown-menu">
-                    <a class="dropdown-item" href="faq.html"><i class="fas fa-chevron-right"></i>More Faq</a>
-		 			</div>
-						</li>
-                <li class="nav-item">
-                  <a class="nav-link" href="index.html#contact">Contact</a>
-                </li>
-              </ul>
-            </div>
-          </nav>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- Navebar Area End -->
-
-  <!-- Hero Area End -->
-
-   <!-- About Area Start -->
- 
-   <!-- Compare Area Start -->
-    <section class="compare-section">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title extra">
-            <h2 class="title">Fees and limits</h2>
-            
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <table class="compare-table table table-responsive-lg table-bordered table-striped"  data-aos="fade-up">
-            <thead style="text-align: center;">
-              <tr>
-                <th> </th>
-                <th class="text-center">
-                    
-                    <h3 class="product-title">Adventures</h3>
-                  
-                </th>
-                <th class="text-center">
-                
-                 <h3 class="product-title">Freedom</h3> 
-                
-                </th>
-               <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Payments & transfers</b></td>
-      </tr>
-              <tr>
-                <th>Instant Lirapay to Lirapay transfers</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  <tr>
-                <th>Recurring payments and direct debits</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>	 
-			  <tr>
-                <th> Mobile payment in partnership with CURVE</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  
-			  
-			  <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cards</b></td>
-      </tr>
-              <tr>
-                <th>Contactless debit card</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  <tr>
-                <th>Virtual debit card</th>
-                <th>EUR / GBP</th>
-                <th>EUR / GBP</th>
-               
-              </tr>	 
-			  <tr>
-                <th> Giftcard</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			    <tr>
-                <th> Card spending in foreign currencies</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			    <tr>
-                <th>First psyhical card delivery</th>
-                <th>15 EUR</th>
-                <th>15 EUR</th>
-               
-              </tr>
-			  
-			  
-			   <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Cash</b></td>
-      </tr>
-              <tr>
-                <th> ATM withdrawals</th>
-                <th>200 EUR/Month</th>
-                <th>1200 EUR/Month</th>
-               
-              </tr>
-			  <tr>
-                <th> Cash top-ups</th>
-                <th>300 EUR/Week</th>
-                <th>500 EUR/Week</th>
-               
-              </tr>	 
-			 
-			  
-			  
-			   <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc;" class="active"><b>Accounts</b></td>
-      </tr>
-              <tr>
-                <th> Current account in GBP, EUR</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  <tr>
-                <th>Access your account with the Lirapay mobile app </th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>	 
-			 
-			   <tr>
-        <td colspan="5" align="justify" style="padding-left:20px;background-color: #1b75bc; " class="active"><b>Support</b></td>
-      </tr>  
-              <tr>
-                <th> Multilingual customer support</th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-                <th><i style="color:limegreen" class="fa fa-check fa-lg"></i></th>
-               
-              </tr>
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-			  
-            </thead>
-           
-              
-              <th></th>
-              <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>- 
-			   <td colspan="2" class="text-center"><a href="#"  ><span><img src="assets/icon/googleicon.png" style=" width: 20%; "   alt=""></span></a><a href="#"  ><span><img src="assets/icon/appleicon.png" style=" width: 15%; padding-right:10px "  alt=""></span></a><a href="#"  ><span><img src="assets/icon/huaweiicon.png" style=" width: 20%; "   alt=""></span></a></td>
-             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
-             <!--<td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
-			 
-			 
-			 
-			   <td colspan="5" class="text-center">	    
-			   <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                 <a href="https://play.google.com/store/apps/details?id=com.cardblue.lirapay"><img src="assets/images/icon/google.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-     <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                <a href="https://apps.apple.com/app/lirapay/id1597304406"><img src="assets/images/icon/appstore.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            
-            <div class="right">
-              <div class="content">
-                 <a href="https://appgallery.huawei.com/app/C105020605"> <img src="assets/images/icon/app-gallery.png" class="img-fluid" alt="" style="max-width: 75%;"> </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div></td>
-             <!-- <td class="text-center"><a href="#" class="mybtn3 mybtn-bg"><span>Choose Now</span></a></td>-->
-            
-            </tr>
-            </tfoot>
-          </table>
-        </div>
-      </div>
-    </div>
-  </section>
-  
-  <!-- Contact Area Start -->
-  <!-- Contact Area Start -->
-  <section class="contact" id="contact">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <div class="section-title">
-            <h2 class="title">Contact Us</h2>
-            <p>
-           We're approachable! Feel free to use the contact details below if you have any questions.
-            </p>
-          </div>
-        </div>
-      </div>
-        <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-            <div class="left">
-              <div class="footer-logo"><br /> <p> &nbsp; </p>  
-              <a href="#" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>		 <p> &nbsp; </p>  
-            </div>
-            </div>
-           
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box2" data-aos="fade-up">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-envelope"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-			   <p>hello@lirapay.eu</p>
-				 <p> <br /></p>
-            
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="info-box box3" data-aos="fade-left">
-            <div class="left">
-              <div class="icon">
-                <i class="fas fa-map-marked-alt"></i>
-              </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                <p>Abate Rigord Street, Quantum House 75, Ta’ Xbiex XBX 1120, Malta
-</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="contact-form-wrapper" data-aos="fade-right">
-            <form id="contact-form" method="POST">
-              <div class="row">
-                <div class="col-md-12">
-                  <input type="text" class="input-field borderd" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-12">
-                  <input type="email" class="input-field borderd" id="email" placeholder="Eenter Your Email" required>
-                </div>
-                <div class="col-12">
-                  <textarea class="input-field borderd textarea" rows="3" id="message"
-                    placeholder="Write your message here" required></textarea>
-                </div>
-                <div class="col-12">
-                  <button type="submit" class="mybtn3 mybtn-bg"> <span>Send Message</span></button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="google_map_wrapper" data-aos="fade-left">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5435.41384071499!2d14.49064575489848!3d35.90006296749025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x130e454a1472e6eb%3A0x2c2c1c5543681c83!2sQuantum%20House!5e0!3m2!1sen!2sro!4v1635513585111!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Contact Area End -->
-
-
-  <!-- Footer Section Start -->
-  <footer class="footer" id="footer">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-6">
-          <!--<div class="footer-info-area">
-		<div class="footer-logo">
-              <a href="index.html" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
-            </div>
-            <div class="text">
-              <p>Be independent. Dare. Choose LiraPay as your partner in freedom.
-              </p>
-            </div>
-          </div>-->
-         
-        </div>
-      </div>
-    </div>
-	 <section class="contact1" id="contact1">
-     
-      <div class="row">
-        <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-             <div class="footer-logo">
-              <a href="index.html" class="logo-link">
-                <img src="assets/images/logo_white-248x37.webp" alt="">
-              </a>
-            </div>
-            </div>
-            <div class="right">
-              <div class="content">
-                 <p> Be independent. Dare. Choose LiraPay as your partner in freedom.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-		    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-              <h5>Company</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-                                <li class="nav-item">
-                  <a class="nav-link" href="#about">About</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="history.html">History</a>
-                </li>
-               
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      	    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-             <div class="left" style="text-align: left;">
-              <h5>Help</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-           
-                <li class="nav-item">
-                  <a class="nav-link" href="#feature">Features</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#pricing">Products</a>
-                </li>
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        	    <div class="col-lg-41 col-md-6">
-          <div class="info-box box1" data-aos="fade-right">
-           <div class="left" style="text-align: left;">
-              <h5>Help</h5>
-            </div>
-            <div class="right">
-              <div class="content">
-                <ul class="navbar-nav ml-auto">
-                <li >
-                  <a class="nav-link" href="https://www.lirapay.io/cookie-policy.html">Cookie Policy</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/terms-and-conditions.html">Terms & Conditions</a>
-                </li>
-				<li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/privacy-policy.html">Privacy Policy</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/disclaimer.html">Disclaimer</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.lirapay.io/eula.html">EULA</a>
-                </li>
-				</ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
- 
-    </div>
-	 <div class="fotter-social-links">
-            <ul>
-              <li>
-                <a href="#" class="facebook">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="twitter">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-			   <li>
-                <a href="#" class="instagram"  >
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="linkedin">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              
-              
-            </ul>
-          </div>
-  </section>
-    <div class="copy-bg text-center">
-      <p>Copyright © 2021. All rights reserved by
-        <a href="index.html">CardBlue</a>
-      </p>
-	  
-    </div>
-  </footer>
-  
-  
-  <!-- Footer Section End -->
-
-  <!-- Back to Top Start -->
-  <div class="bottomtotop">
-    <i class="fa fa-chevron-right"></i>
-  </div>
-  <!-- Back to Top End -->
-
-
-  <!-- jquery -->
-  <script src="assets/js/jquery.js"></script>
-  <!-- popper -->
-  <script src="assets/js/popper.min.js"></script>
-  <!-- bootstrap -->
-  <script src="assets/js/bootstrap.min.js"></script>
-  <!-- way poin js-->
-  <script src="assets/js/waypoints.min.js"></script>
-  <!-- owl carousel -->
-  <script src="assets/js/owl.carousel.min.js"></script>
-  <!-- magnific popup -->
-  <script src="assets/js/jquery.magnific-popup.js"></script>
-  <!-- aos js-->
-  <script src="assets/js/aos.js"></script>
-  <!-- counterup js-->
-  <script src="assets/js/jquery.countdown.min.js"></script>
-  <!-- easing js-->
-  <script src="assets/js/jquery.easing.1.3.js"></script>
-  <!-- Map js -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnjQzu92F2GFNzhLoRSeS3-aojljQQe78"></script>
-	<script src="assets/js/gmap.js"></script>
-  <!-- main -->
-  <script src="assets/js/contact.js"></script>
-  <!-- main -->
-  <script src="assets/js/main.js"></script>
-</body>
-
->>>>>>> ba781ea2df2e591b71efd023f09628e81b1eb6e1
+      <a class="u-link" href="https://nicepage.online" target="_blank">
+        <span>Best Website Builder</span>
+      </a>. 
+    </section>
+  </body>
 </html>
